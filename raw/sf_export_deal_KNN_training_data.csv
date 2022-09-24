@@ -1,27 +1,13 @@
 Deal: ID,Opportunity ID,Opportunity Owner,Order Date,Deal: Deal Name,State [CC1],Membership Fee (After Discount),Down Payment / Initial Payment,Total # of Installments,Amount of Installments - Principal,Lead Source,Lead Source Name,Account Name,Phone,Area of Practice 1,Area of Practice 2,Area of Practice 3,Area of Practice 4,Area of Practice 5,Allocation Manager
-a013200000ni6ZZ,0063200001kr86O,Andrew Perrine,10/15/2015,Gregory Moore - 2015,OH,25020.0,,36,695.0,SELF GEN,,Gregory Moore,(513) 305-9652,Criminal Law,,,,,Jack Moller
-a013200000oLVPF,0063200001kM8Wg,Andrew Perrine,10/19/2015,Stephanie Bandoske  (Formerly Patricia Jay - 2015),TX,11940.0,,12,995.0,SELF GEN,,Patricia A Jay,(817) 261-4333,Family Law,,,,,Jack Moller
-a013200000o1QRt,0063200001kLLzo,Ben Sandholm,9/16/2015,Matthew Podolsky - Upgrade,FL,11500.0,,16,,UPGRADE,,Matthew B. Podolsky,(813) 418-7060,Family Law,Family Law,,,,Jack Moller
-a013200000mfJzb,0063200001jwnk8,Andrew Perrine,8/31/2015,Mary Melton - 2015,CA,12600.0,,36,350.0,SELF GEN,,Mary Irene Melton,,"Bankruptcy, Banking and Credit","Wills, Trusts and Estates",,,,Jack Moller
-a013200000mebtc,0063200001j8lDy,Andrew Perrine,5/28/2015,Cindy Cannon- Deal,CA,15600.0,,12,1300.0,SELF GEN,,Cindy L Cannon,(949) 715-6892,Family Law,,,,,Jack Moller
-a013200000mf3yR,0063200001jukbL,Andrew Perrine,8/12/2015,Harold Hardy - DEAL,TX,15600.0,0.0,24,650.0,SELF GEN,,Harold Hardy,(512) 565-1728,Family Law,,,,,Jack Moller
-a013200000mecII,0063200001j8Q1u,Andrew Perrine,5/29/2015,Graham Potter- Deal,MO,13764.0,289.0,35,385.0,SELF GEN,,Graham Potter,(816) 721-6845,Criminal Law,,,,,Jack Moller
-a013200000mf6no,0063200001jv9Nj,Andrew Perrine,8/13/2015,Matthew Podolsky,FL,3762.0,1254.0,4,627.0,SELF GEN,,Matthew B. Podolsky,(813) 418-7060,Family Law,,,,,Jack Moller
-a013200000ovut7,0063200001kuVde,Andrew Perrine,12/1/2015,Glenn Levy,Texas,15660.0,,36,435.0,SELF GEN,,Glenn Levy,(210) 822-5666 NIS,Employment and Labor Law,,,,,Jack Moller
-a013200000p8tIY,0063200001lLVzb,Andrew Perrine,1/12/2016,Matt Collins 2016,GA,12000.0,,24,500.0,SELF GEN,,Robert Craig Thrift,(404) 983-7440,Business - Litigation,,,,,Jack Moller
-a013200000ow61L,0063200001lKrFo,Ben Sandholm,12/18/2015,Gregory Moore - Upgrade,OH,70872.94,,36,2037.0,UPGRADE,,Gregory Moore,(513) 305-9652,Criminal Law,Family Law,Personal Injury,,,Jack Moller
-a013200000p9Uso,0063200001lxU3H,Andrew Perrine,3/7/2016,Daniel Kauppi 2016,MN,6300.0,0.0,18,350.0,SELF GEN,,Daniel Kauppi,(612) 963-2309,"Real Estate, Housing & Property Law",,,,,Jack Moller
-a013200000ow77j,0063200001lKstG,Andrew Perrine,12/21/2015,David Potkul,CA,13500.0,,1,13500.0,SELF GEN,,David Potkul,,Personal Injury,,,,,Jack Moller
-a013200000meWmQ,0063200001j7aNV,Andrew Perrine,5/5/2015,Cameron Cooke,TX,13571.3,3525.0,11,913.3,SELF GEN,,Cameron Cooke,(210) 844-9711,Family Law,,,,,Jack Moller
+a013200000paHD0,0063200001pEE5Y,Anthony Hansen,3/28/2017,Tera Lee 2017,CA,6780.0,,12,565.0,HOTLEAD-email,LegalMatch,Tera Lee,(909) 913-0065,Family Law,,,,,Jack Moller
+a013200000qI0M7,0063200001qKvjK,Anthony Hansen,6/28/2017,Patrick Crowl 2017,CA,34668.0,900.0,36,,HOTLEAD-phone,,Patrick Crowl,(916) 804-1315,Employment and Labor Law,,,,,Jack Moller
+a013200000qI1B6,0063200001pQkqc,Anthony Hansen,7/3/2017,Joe Romley 2017,AZ,15624.0,635.0,24,635.0,SELF GEN,,Joe M Romley,(602) 528-4710,Family Law,,,,,Jack Moller
 a010e00000pH4I6,0063200001qKpMJ,Anthony Hansen,8/2/2017,Arran Treadway 2017,CA,14832.0,385.0,36,,SELF GEN,,Arran Treadway,(714) 206-9408,Family Law,,,,,Jack Moller
 a010e00000pH4LU,0060e00001qHhdv,Anthony Hansen,8/3/2017,Sara Wasserstrom 2017,CA,14112.0,445.0,30,,SELF GEN,,Sara Wasserstrom,(310) 826-5432,Family Law,,,,,Jack Moller
 a013200000paTS3,0063200001pC4lf,Anthony Hansen,4/13/2017,Jay Powell,AZ,8676.0,,18,482.0,SELF GEN,,Jay Powell,(520) 282-3545,Family Law,,,,,Jack Moller
 a013200000paTc9,0063200001pTt5D,Anthony Hansen,4/13/2017,Mitchell Cantor - Lead,NY,19080.0,0.0,24,795.0,HOTLEAD-email,LegalMatch,Mitchell Cantor,(212) 679-7820,Intellectual Property,,,,,Jack Moller
 a013200000qHzTr,0063200001pQzhV,Anthony Hansen,6/21/2017,Kelly Kaeser,CA,16572.0,430.0,36,525.0,HOTLEAD-email,LegalMatch,Kelly D Kaeser,(805) 576-7441,Administrative Law,,,,,Jack Moller
 a013200000pZsnD,0063200001oQ5fl,Anthony Hansen,2/1/2017,Marsha Stiles,MO,7134.0,300.0,17,402.0,SELF GEN,,Marsha I. Stiles,(417) 833-9394,General Practice,,,,,Jack Moller
-a013200000paHD0,0063200001pEE5Y,Anthony Hansen,3/28/2017,Tera Lee 2017,CA,6780.0,,12,565.0,HOTLEAD-email,LegalMatch,Tera Lee,(909) 913-0065,Family Law,,,,,Jack Moller
-a013200000qI0M7,0063200001qKvjK,Anthony Hansen,6/28/2017,Patrick Crowl 2017,CA,34668.0,900.0,36,,HOTLEAD-phone,,Patrick Crowl,(916) 804-1315,Employment and Labor Law,,,,,Jack Moller
-a013200000qI1B6,0063200001pQkqc,Anthony Hansen,7/3/2017,Joe Romley 2017,AZ,15624.0,635.0,24,635.0,SELF GEN,,Joe M Romley,(602) 528-4710,Family Law,,,,,Jack Moller
 a010e00000q560i,0060e00001s5nRm,April Jeras,3/11/2019,Karmen Waters Lead 03.11.2019,TN,22089.0,575.0,36,,HOTLEAD-LMWebForm,LegalMatch,Karmen Latrice Waters,(865) 661-9500,Immigration,,,,,Malcolm Brown
 a010e00000q59E3,0060e00001tvqmJ,April Jeras,3/26/2019,Cody Allison 03.26.2019,37069,8955.0,995.0,9,,SELF GEN,,Cody Allison,(615) 234-6000,Personal Injury,,,,,Malcolm Brown
 a010e00000qagdC,0060e00001xg0W8,April Jeras,9/22/2020,Edward Ahn 9.21.20,CA,19872.0,800.0,24,,SELF GEN,,Edward Changjin Ahn,(310) 575-9870,Business - Transactional,,,,,Malcolm Brown
@@ -39,10 +25,10 @@ a010e00000ra9R9,0060e00001v3XUc,April Jeras,10/18/2019,Amanda Green 10.16.19,GA,
 a010e00000rHcuo,0060e00001t7dye,April Jeras,1/25/2019,April Jones 01.25.2019,CO,15540.0,1295.0,12,,SELF GEN,,April D Jones,DISCO,Family Law,,,,,Malcolm Brown
 a010e00000rZt4i,0060e00001v0jvS,April Jeras,7/23/2019,Michael Matthews 7-23-19,South Carolina,15211.8,395.0,36,,AMRM Hand-off,,Michael Matthews,(803) 329-5999,Family Law,,,,,Malcolm Brown
 a014y00000ZqtAf,0064y000011FJaM,April Jeras,12/10/2021,Kenneth King 12.10.21,NC,11280.0,940.0,12,,SELF GEN,,Kenneth W. King Jr.,(855) 205-9689,General Practice,Family Law,,,,Malcolm Brown
+a014y00000YQPZj,0064y000015dvT4,Brigette Pina,8/26/2022,Arthur Aiken 08/26/2022,SC,18273.6,470.0,36,,SELF GEN,,Arthur K Aiken,(803) 269-6590,Criminal Law,,,,,Ryan Goida
 a014y00000YPvtP,0064y000013Vyjx,Brigette Pina,6/8/2022,Paul M. Namie 06-08-2022,IN,5886.0,5886.0,1,,SELF GEN,,Paul Namie,(219) 510-3949,Criminal Law,,,,,Ryan Goida
 a014y00000YQFFo,0064y000013X2E6,Brigette Pina,7/28/2022,Bianca Vela-Collins - LEAD - 07.25.22,TX,20030.4,520.0,36,,HOTLEAD-LMWebForm,LegalMatch,Bianca M. Vela-Collins,(832) 449-9464,General Practice,,,,,Ryan Goida
 a014y00000YQ42y,0064y000013VxUP,Brigette Pina,6/23/2022,Eric Kinsman 6.23.22,IN,2970.0,2970.0,1,,SELF GEN,,Eric Kinsman,(574) 522-1900,Criminal Law,,,,,Ryan Goida
-a014y00000YQPZj,0064y000015dvT4,Brigette Pina,8/26/2022,Arthur Aiken 08/26/2022,SC,18273.6,470.0,36,,SELF GEN,,Arthur K Aiken,(803) 269-6590,Criminal Law,,,,,Ryan Goida
 a010e00000mlCBU,0060e00001wjocC,Brooke Abbott,7/20/2020,Katy Sweeney-Hotlead 7.20.20,MD,26001.0,675.0,36,,HOTLEAD-LMWebForm,LegalMatch,Katy E Sweeney,(443) 621-8785,Criminal Law,,,,,James Susuico
 a010e00000rIdQO,0060e00001x902w,Brooke Abbott,6/30/2020,Liza Marie Deever - LEAD - 06.30.20,SC,15022.8,390.0,36,,HOTLEAD-LMWebForm,LegalMatch,Liza Deever,(864) 770-8833,Family Law,,,,,James Susuico
 a010e00000rauv1,0060e00001x74KP,Brooke Abbott,5/22/2020,Elisa Fox 05.22.20,TX,19067.4,495.0,36,,SELF GEN,,Elisa Fox,(214) 965-9229,Construction,,,,,James Susuico
@@ -134,7 +120,7 @@ a014y00000ZJ7Je,0064y00000xoxK9,Chris Hillhouse,8/2/2021,Marcin Muszynski - News
 a014y00000ZqtGE,0064y000011FXPK,Chris Hillhouse,12/21/2021,Samuel E. Manrique 12.21.21,NY,25819.2,815.0,30,,SELF GEN,,Samuel E. Manrique,(917) 426-5927,Business - Transactional,,,,,Tyra Rymer
 a014y00000ZqtGJ,0064y000011ExBT,Chris Hillhouse,12/21/2021,Robert A. Stumpf - FB LEAD - 12.21.21,FL,20223.0,525.0,36,,HOTLEAD-other,LegalMatch,Robert A. Stumpf,(718) 288-9316,Immigration,,,,,Tyra Rymer
 a014y00000gkau9,0064y000015eL7Z,Chris Hillhouse,9/9/2022,Donald McNeal 9.9.22,,21967.2,565.0,36,,AMRM Hand-off,,Donald McNeal,(314) 229-8988,Criminal Law,,,,,Tyra Rymer
-a014y00000ZqsrE,0064y00000zGole,Chris Hillhouse,10/29/2021,Matthew Custardo 10.29.21,IL,19895.04,628.0,30,,SELF GEN,,Matthew Custardo,(224) 856-9190,"Wills, Trusts and Estates",,,,,Tyra Rymer
+a014y00000ZqsrE,0064y00000zGole,Chris Hillhouse,10/29/2021,Matthew Custardo 10.29.21,IL,19895.04,628.0,30,,SELF GEN,,Matthew Ryan Custardo,(224) 856-9190,"Wills, Trusts and Estates",,,,,Tyra Rymer
 a014y00000ZJ6gr,0064y00000xo411,Chris Hillhouse,6/14/2021,Chris Dutkiewicz HOTLEAD 06-11-2021,AZ,7620.0,635.0,12,,HOTLEAD-LMWebForm,LegalMatch,Christopher James Dutkiewicz,(480) 842-8786,"Bankruptcy, Banking and Credit",,,,,Tyra Rymer
 a014y00000ZJ6eW,0064y00000xo2dm,Chris Hillhouse,6/10/2021,Ron Burns 6.10.21,TX,20116.8,635.0,30,,SELF GEN,,Ron Burns,(972) 632-9009,"Entertainment, Media, & Sports Law",,,,,Tyra Rymer
 a014y00000ZqsAP,0064y00000zFRTv,Chris Hillhouse,8/11/2021,Samuel E. Manrique HOTLEAD 08-11-2021,NY,8220.0,685.0,12,,HOTLEAD-LMWebForm,LegalMatch,Samuel E. Manrique,(917) 426-5927,Family Law,,,,,Tyra Rymer
@@ -200,7 +186,7 @@ a010e00000qpv7M,0060e00001rSk1s,Christine Ermis,6/27/2018,Lydia Newcomb 6.27.18,
 a010e00000qpvYA,0060e00001rSlXq,Christine Ermis,6/29/2018,Nathan W. Passavant,CA,15351.12,618.0,24,,SELF GEN,,Nathan W. Passavant,(517) 902-8021,Family Law,,,,,Jerod Arreguini
 a010e00000qpzaQ,0060e00001s6Dmw,Christine Ermis,7/26/2018,William Austin,SC,17334.0,450.0,36,,SELF GEN,,William K Austin,(843) 822-3877,General Practice,,,,,Jerod Arreguini
 a010e00000qq8Gx,0060e00001s7luk,Christine Ermis,9/19/2018,Anthony Willoughby 9.19.18,CA,37920.0,3160.0,12,,SELF GEN,,Anthony Willoughby,(310) 642-0600,Personal Injury,,,,,Jerod Arreguini
-a010e00000qqC4Y,0060e00001s8Nas,Christine Ermis,10/11/2018,Joseph Tibui Lead 10.09.18,,27100.44,1091.0,24,,HOTLEAD-email,LegalMatch,Joseph Louis Tantoh Tibui,bad #,Criminal Law,,,,,Jerod Arreguini
+a010e00000qqC4Y,0060e00001s8Nas,Christine Ermis,10/11/2018,Joseph Tibui Lead 10.09.18,,27100.44,1091.0,24,,HOTLEAD-email,LegalMatch,Joseph Louis Tantoh Tibui,,Criminal Law,,,,,Jerod Arreguini
 a010e00000qqCFP,0060e00001s8DsK,Christine Ermis,10/12/2018,Mark Bruce Lead 10.03.18,CA,18297.0,475.0,36,,HOTLEAD-email,LegalMatch,Mark Corwin Bruce,(916) 329-2232,Family Law,,,,,Jerod Arreguini
 a010e00000qq0Oz,0060e00001s6OtN,Christine Ermis,7/31/2018,D. Kimberli Wallace,TX,17334.0,450.0,36,,SELF GEN,,Kimberli Wallace,(817) 745-4581,"Real Estate, Housing & Property Law",,,,,Jerod Arreguini
 a010e00000qq5mW,0060e00001s75Ev,Christine Ermis,8/31/2018,Alagra Morris Lead 8.23.18,TN,20030.4,520.0,36,,HOTLEAD-email,LegalMatch,DNC Alagra H. Morris,DNC,Immigration,Immigration,,,,Jerod Arreguini
@@ -262,79 +248,20 @@ a010e00000rUbSE,0060e00001uaJKN,Devanee Lamarra,6/16/2020,Nicholas Siler 6.16.20
 a010e00000raw3z,0060e00001x8f5v,Devanee Lamarra,5/28/2020,James Foster 5.28.20,FL,4860.0,4860.0,1,,SELF GEN,,James Foster,(850) 654-7146,General Practice,,,,,Janine Scott
 a010e00000razn8,0060e00001x8wOq,Devanee Lamarra,6/10/2020,David A Grow 06-10-2020,CA,4000.0,4000.0,6,,SELF GEN,,David A Grow,(916) 283-5000,Criminal Law,,,,,Janine Scott
 a010e00000raeJ5,0060e00001w5Aii,Devanee Lamarra,3/20/2020,Jed Stone 3.20.20,IL,35631.0,925.0,36,,SELF GEN,,Jed Stone,(847) 336-7888,Criminal Law,,,,,Janine Scott
-a013200000meQeH,0066000001hOFYh,Eric Rowden,4/6/2015,Steve Ahlers,CA,7560.0,,12,630.0,SELF GEN,,Steve Ahlers - Disbarred,(408) 506-3138,Criminal Law,,,,,Michael Novi
-a013200000meVEI,0066000001aMunN,Eric Rowden,4/29/2015,Edward Voelker- Deal,PA,6660.0,,12,555.0,SELF GEN,,Edward F Voelker Jr,(412) 486-8800,"Real Estate, Housing & Property Law",Business - Litigation,Business - Transactional,,,Michael Novi
-a016000000ifPAu,0066000001SqI75,Eric Rowden,2/25/2015,Paul Depasquale,,13200.0,,12,1100.0,AMRM Hand-off,,Paul Depasquale,(213) 629-3550,Criminal Law,,,,,Michael Novi
-a016000000ifPG4,0066000001hL61V,Eric Rowden,2/25/2015,Dustin Vidrine,AZ,25200.0,,36,700.0,SELF GEN,,Dustin Vidrine,(602) 952-3200,"Real Estate, Housing & Property Law","Wills, Trusts and Estates",,,,Michael Novi
-a016000000if794,0066000001aQTqn,Eric Rowden,2/6/2015,Carolyn McDaniel - New Deal,TX,16200.0,,36,450.0,SELF GEN,,Carolyn McDaniel,(281) 342-7766,Family Law,Criminal Law,,,,Michael Novi
-a016000000ifSsn,0066000001hLAU5,Eric Rowden,2/27/2015,Christopher Mason,WA,8820.0,,12,735.0,HOTLEAD-email,LegalMatch,Christopher Cavallar Mason,(206) 621-7100,Employment and Labor Law,,,,,Michael Novi
-a016000000ifSuL,0066000001aQKUE,Lisa Levan,2/27/2015,Lanene Meslat,OH,5287.5,337.5,11,450.0,AMRM Hand-off,,Lanene Meslat,(440) 789-3348,Family Law,,,,,Michael Novi
-a016000000ifTFb,0066000001aOX6t,Eric Rowden,2/28/2015,Paul Jacobson - New Deal,CA,18881.25,596.25,23,795.0,SELF GEN,,Paul Jacobson,(949) 923-0424,Family Law,,,,,Michael Novi
-a016000000iegSK,0066000001aMovb,Eric Rowden,1/8/2015,Aaren Jackson - New Deal,VA,30852.0,,36,857.0,SELF GEN,,Aaren S Lane Gibson,(703) 273-0500,Family Law,,,,,Michael Novi
-a013200000mfGoQ,0063200001jwUXX,Ginger Gibbs,8/20/2015,Donn Prokopius,NV,18468.0,,36,513.0,SELF GEN,,Donn Prokopius,(702) 474-0500,Family Law,,,,,Jerod Arreguini
-a013200000mfGyf,0063200001jvhiW,Ginger Gibbs,8/20/2015,Donald Sepolio - 2015,TX,21240.0,,36,590.0,SELF GEN,,Donald  Sepolio,(281) 488-9006,Personal Injury,"Real Estate, Housing & Property Law",,,,Jerod Arreguini
-a013200000mpgr1,0063200001mrpe0,Ginger Gibbs,7/14/2016,Kristy Bennett - Lead,,10200.0,,12,850.0,HOTLEAD-email,LegalMatch,Kristy Bennett,(901) 402-6601,Personal Injury,Employment and Labor Law,,,,Jerod Arreguini
-a013200000mep1Z,0063200001jvh6F,Ginger Gibbs,7/31/2015,Chadrick Henderson 7-31-15,TX,17568.0,,36,488.0,SELF GEN,,Chadrick S. Henderson,(832) 209-1441,Criminal Law,,,,,Jerod Arreguini
-a013200000mpDi8,0063200001mqgZ8,Ginger Gibbs,6/17/2016,Rex Thompson,Texas,6300.0,,18,350.0,SELF GEN,,Rex Thompson,(903) 372-9315,Criminal Law,,,,,Jerod Arreguini
-a013200000mpHu8,0063200001mqYTP,Ginger Gibbs,6/22/2016,Darin Luneckas 2016,IA,9540.0,,12,795.0,HOTLEAD-email,LegalMatch,Darin Luneckas,(319) 294-8777,Personal Injury,Workers' Compensation,,,,Jerod Arreguini
-a013200000mpLH5,0063200001mqxl1,Ginger Gibbs,6/24/2016,Greg Magee,WA,17400.0,,24,725.0,SELF GEN,,Gregory Magee,(253) 691-9155,Criminal Law,,,,,Jerod Arreguini
-a013200000mfL8u,0063200001jwWKF,Ginger Gibbs,9/4/2015,Holly Fuller - 2015,TX,19440.0,,36,540.0,SELF GEN,,Holly Fuller,(214) 597-0252,Family Law,,,,,Jerod Arreguini
-a013200000o3BJc,0063200001kLwSY,Ginger Gibbs,9/24/2015,Frank Toti 2015,NV,18468.0,,36,513.0,SELF GEN,,Frank J. Toti,(702) 517-5687,Family Law,,,,,Jerod Arreguini
-a013200000mpQt6,0063200001mr7Rz,Ginger Gibbs,6/29/2016,christine casa,,9588.0,,12,799.0,SELF GEN,,Christine Casa,(603) 436-4010,Family Law,,,,,Jerod Arreguini
-a013200000o3fyS,0063200001jxc38,Ginger Gibbs,9/25/2015,Matthew W. Sparks,TX,21060.0,,36,585.0,SELF GEN,,Matthew W. Sparks,(214) 265-6576,Family Law,,,,,Jerod Arreguini
-a013200000o8P5L,0063200001mLsIh,Ginger Gibbs,5/2/2016,Bruce Bogart,OH,5232.0,,12,436.0,SELF GEN,,Bruce Bogart,(216) 389-0672,Family Law,,,,,Jerod Arreguini
-a013200000ovpm7,0063200001kuA6l,Ginger Gibbs,11/23/2015,Aimee Trua Deal,WA,4980.0,,12,415.0,SELF GEN,,Aimee Trua,(425) 339-1116 written req DNC!,Family Law,,,,,Jerod Arreguini
-a013200000p9YND,0063200001lxTmu,Ginger Gibbs,3/11/2016,Kellie Tomeo,FL,12600.0,,12,1050.0,SELF GEN,,Kellie Tomeo,in-house corporate counsel now.,Family Law,,,,,Jerod Arreguini
-a013200000pYfxK,0063200001nwOOX,Ginger Gibbs,10/28/2016,Brandon Pittard - Lead,TX,6696.0,,12,558.0,HOTLEAD-email,LegalMatch,Brandon Pittard,(281) 467-3245,Employment and Labor Law,"Real Estate, Housing & Property Law",,,,Jerod Arreguini
-a013200000p92Un,0063200001lN0rV,Ginger Gibbs,1/27/2016,Ralph Nichols Jr,VA,3796.0,3796.0,1,,SELF GEN,,Ralph Nichols,(757) 548-0232,Family Law,,,,,Jerod Arreguini
-a013200000paEN5,0063200001pBvIU,Ginger Gibbs,3/22/2017,Erik Diggs 2017,IL,4398.0,,6,733.0,SELF GEN,,Erik Diggs,(312) 380-1070,Family Law,,,,,Jerod Arreguini
-a013200000owBU6,0063200001lKyfC,Ginger Gibbs,12/31/2015,Edward Burwell 2015,TX,37680.0,,24,1570.0,SELF GEN,,Edward Chamberlain Burwell,(281) 630-8078,Family Law,,,,,Jerod Arreguini
-a013200000paVMu,0063200001pTkSg,Ginger Gibbs,4/17/2017,William Roth 2017,New York,10200.0,,24,425.0,SELF GEN,,William Roth,(917) 498-1873,Criminal Law,,,,,Jerod Arreguini
-a013200000ovtRe,0063200001ksOOe,Legal Match,11/30/2015,Jeff Harris,CA,8400.0,,12,700.0,SELF GEN,,Jeffrey L Harris,(310) 745-8644,Family Law,,,,,Jerod Arreguini
-a013200000pYjLN,0063200001naisK,Ginger Gibbs,11/4/2016,Garth Click 2016,TN,6984.0,,12,582.0,SELF GEN,,Garth Click,(615) 384-8444,Family Law,,,,,Jerod Arreguini
-a013200000paGL3,0063200001pEbIU,Ginger Gibbs,3/27/2017,Leo White - Lead 2017,Pa,5100.0,,12,425.0,HOTLEAD-email,LegalMatch,Leo Thomas White,(610) 291-5822,"Real Estate, Housing & Property Law","Real Estate, Housing & Property Law",,,,Jerod Arreguini
-a013200000paVmd,0063200001pUE8e,Ginger Gibbs,4/17/2017,Teresa Hensley,MO,17100.0,,18,950.0,SELF GEN,,Teresa Hensley,(816) 322-4466,Criminal Law,,,,,Jerod Arreguini
-a013200000p9xGR,0063200001mMFt8,Ginger Gibbs,4/14/2016,James Thomas 2016,VA,7980.0,,12,665.0,SELF GEN,,JAMES B THOMAS,(757) 218-3087,,,,,,Jerod Arreguini
-a013200000ovveD,0063200001kubw2,Ginger Gibbs,12/2/2015,Gregory Graf 2015,CO,23496.0,,24,979.0,SELF GEN,,Gregory Graf,(303) 721-9795,Criminal Law,,,,,Jerod Arreguini
-a013200000pYQrl,0063200001nIfIZ,Ginger Gibbs,8/3/2016,John Pettit 2016,TX,8352.0,,12,696.0,AMRM Hand-off,,John F. Pettit,(830) 279-6412,Family Law,Criminal Law,,,,Jerod Arreguini
 a013200000paHHg,0063200001pFNkZ,Ginger Gibbs,3/28/2017,Linda Louder 2017,CA,6975.0,,15,465.0,SELF GEN,,Linda Louder,(916) 500-1504,Criminal Law,,,,,Jerod Arreguini
 a013200000ppRyq,0063200001nxTRr,Ginger Gibbs,5/9/2017,"Mace J. Yampolsky, Esq.",,21576.0,877.0,24,877.0,AMRM Hand-off,,Mace J Yampolsky,(702) 385-9777,Criminal Law,,,,,Jerod Arreguini
-a013200000p8qO4,0063200001lLj03,Ginger Gibbs,1/7/2016,Rebecca Smith 2016,NE,8400.0,,24,350.0,SELF GEN,,Rebecca Smith,(402) 778-4848,General Practice,,,,,Jerod Arreguini
-a013200000p96Yz,0063200001lNbUE,Ginger Gibbs,2/2/2016,Sean Laman,AZ,9600.0,,24,400.0,SELF GEN,,Charley Laman,DNC (602) 717-5326,Family Law,,,,,Jerod Arreguini
-a013200000p9hXS,0063200001lzuY7,Ginger Gibbs,3/24/2016,Donald Bloom,CA,21576.0,,24,899.0,AMRM Hand-off,,Donald E Bloom,(415) 282-9955,Family Law,,,,,Jerod Arreguini
 a013200000pZwBF,0063200001oRGDZ,Ginger Gibbs,2/9/2017,Robert Suttmeier - Lead,NY,6240.0,,12,520.0,HOTLEAD-email,LegalMatch,Robert Suttmeier,(315) 363-7777,General Practice,,,,,Jerod Arreguini
-a013200000ovgTf,0063200001ksHpV,Ginger Gibbs,11/10/2015,Julius Besser 2015,MD,8010.0,,18,445.0,SELF GEN,,Kenneth Besser,(901) 860-4529,Family Law,,,,,Jerod Arreguini
 a013200000pZwIa,0063200001oQbpg,Ginger Gibbs,2/9/2017,Mary Gurganus 2017,NC,8100.0,,18,450.0,SELF GEN,,Mary Jean Gurganus,(919) 303-2020,Family Law,,,,,Jerod Arreguini
 a013200000paZZl,0063200001pUELZ,Ginger Gibbs,4/25/2017,Ernest Ianetti 2017,New Jersey,20280.0,,24,845.0,SELF GEN,,Ernest Ianetti,(973) 324-1003,Family Law,,,,,Jerod Arreguini
 a013200000ppSZ5,0063200001nxIyF,Ginger Gibbs,5/11/2017,Tara Fallon - Lead,NY,13608.0,553.0,24,553.0,HOTLEAD-email,LegalMatch,Tara Boyle Fallon,(718) 930-1391,"Real Estate, Housing & Property Law",,,,,Jerod Arreguini
-a013200000pm9vi,0063200001nefM4,Ginger Gibbs,9/16/2016,Erik Kaeding 16,WA,3510.0,,6,585.0,AMRM Hand-off,,Erik Kaeding,(253) 850-8430,Criminal Law,Family Law,,,,Jerod Arreguini
 a013200000q3xOI,0063200001pVv8d,Ginger Gibbs,4/27/2017,David Robinson,NC,7650.0,,18,425.0,SELF GEN,,David T. Robinson,(919) 638-5669,Criminal Law,,,,,Jerod Arreguini
 a013200000qHxoK,0063200001pRJlN,Ginger Gibbs,6/2/2017,Tynesha Rhodes - Lead,GA,10560.0,425.0,24,,HOTLEAD-email,LegalMatch,Tynesha D Rhodes,(770) 224-0421,Family Law,,,,,Jerod Arreguini
-a013200000ow1jT,0063200001kMC7L,Ginger Gibbs,12/11/2015,Bryan Levy 2015,AZ,9000.0,,18,500.0,SELF GEN,,Bryan Levy,(480) 307-6800,Family Law,,,,,Jerod Arreguini
-a013200000p8tC6,0063200001lLZrX,Ginger Gibbs,1/12/2016,Bradley Krause,NY,14040.0,,36,390.0,SELF GEN,,Bradley Krause,(518) 307-2484,Family Law,,,,,Jerod Arreguini
-a013200000p9A58,0063200001lLcov,Legal Match,2/8/2016,Gasper Law Group - Carrie Kelly,CO,15492.0,,12,1291.0,SELF GEN,,Allen Gasper,(719) 227-7779,Family Law; Personal Injury,,,,,Jerod Arreguini
 a013200000pZxpA,0063200001oz3sY,Ginger Gibbs,2/14/2017,Joe Farrell,GA,12608.0,,16,788.0,SELF GEN,,Joseph Quirk,(404) 252-1425,Family Law,,,,,Jerod Arreguini
-a013200000p9BXK,0063200001lN3FO,Ginger Gibbs,2/10/2016,David Ratner 2016,NY,7500.0,7500.0,1,,SELF GEN,,David Ratner,(917) 900-2868,Employment and Labor Law,,,,,Jerod Arreguini
-a013200000p9kao,0063200001m056s,Ginger Gibbs,3/29/2016,Dorothy Going,NY,13800.0,,12,1150.0,AMRM Hand-off,,GG Dorothy GoinG,(516) 595-2835,Family Law,,,,,Jerod Arreguini
-a013200000pp9r9,0063200001nu3VC,Ginger Gibbs,9/23/2016,Liz Padula,WA,11400.0,,12,950.0,SELF GEN,,Elizabeth Padula,(425) 883-3366,Criminal Law,,,,,Jerod Arreguini
 a013200000qHy5S,0063200001pRQea,Ginger Gibbs,6/9/2017,James Waters,IA,12156.0,489.0,24,,AMRM Hand-off,,James H Waters,(515) 289-8365,General Practice,,,,,Jerod Arreguini
-a013200000pYVPh,0063200001nDL0n,Ginger Gibbs,8/11/2016,Marty Averill,TX,31392.0,,24,1308.0,SELF GEN,,Martin P Averill,(214) 878-9822,Family Law,,,,,Jerod Arreguini
-a013200000pZbeP,0063200001oNdqQ,Ginger Gibbs,12/16/2016,Johnny Castaneda,GA,8076.0,,12,673.0,SELF GEN,,Johnny R Castaneda,(770) 719-8166,Family Law,,,,,Jerod Arreguini
 a013200000pa8zU,0063200001p2Jr2,Ginger Gibbs,3/10/2017,Donald Petty 3/10/17,MO,9300.0,,1,9300.0,SELF GEN,,Donald Petty,(816) 792-4400,Criminal Law,,,,,Jerod Arreguini
 a013200000paPm0,0063200001pEoAB,Ginger Gibbs,4/6/2017,Michael Brundage,FL,11250.0,,15,750.0,SELF GEN,,Michael P. Brundage,(727) 250-2488,Employment and Labor Law,"Real Estate, Housing & Property Law",,,,Jerod Arreguini
-a013200000ppAst,0063200001nu2Ih,Ginger Gibbs,9/26/2016,Burk Morris - Lead,TX,5316.0,,12,443.0,HOTLEAD-email,LegalMatch,Robert B. Morris (Burk),(940) 574-2858,General Practice,,,,,Jerod Arreguini
-a013200000ppLOF,0063200001nvsVs,Ginger Gibbs,10/20/2016,Todd Counters 2016,MN,4265.0,250.0,11,365.0,SELF GEN,,Todd Counters,(612) 418-1021,Family Law,,,,,Jerod Arreguini
-a013200000ovlg7,0063200001ktPvE,Ginger Gibbs,11/17/2015,Kevin Flynn - New Deal,,3750.0,,6,625.0,SELF GEN,,Kevin D. Flynn,(510) 886-1166,Family Law,,,,,Jerod Arreguini
-a013200000ow66B,0063200001lKVaw,Ginger Gibbs,12/18/2015,Mark Ellis - 2015,CA,18480.0,,30,616.0,AMRM Hand-off,,GG Mark Ellis,(951) 385-3670,Family Law,,,,,Jerod Arreguini
-a013200000p9GCC,0063200001lwB7L,Ginger Gibbs,2/16/2016,Gasper Law Group - Carrie Kelly Upgrade,CO,4200.0,,12,350.0,UPGRADE,,Allen Gasper,(719) 227-7779,Criminal Law,,,,,Jerod Arreguini
 a013200000pa1Lr,0063200001ozNuX,Ginger Gibbs,2/22/2017,Tyler Hinton - Lead,GA,5700.0,,12,475.0,HOTLEAD-email,LegalMatch,Tyler Rockwell Hinton,(205) 757-7161,Criminal Law,,,,,Jerod Arreguini
-a013200000pdQEp,0063200001ndioH,Ginger Gibbs,9/1/2016,Michael Watkins 2016,MO,3000.0,,6,500.0,SELF GEN,,Michael B. Watkins,(636) 625-6448,Family Law,,,,,Jerod Arreguini
-a013200000p9Hvi,0063200001lNLrX,Sarah Magel,2/18/2016,Paul Hamilton - lead...,GA,5100.0,,12,425.0,HOTLEAD-email,LegalMatch,Paul W Hamilton,(229) 686-3000,General Practice,Personal Injury,,,,Jerod Arreguini
-a013200000pZceY,0063200001oNOac,Ginger Gibbs,12/20/2016,Darrell K. Oliveaux  - Lead,,10200.0,,24,425.0,HOTLEAD-email,LegalMatch,Darrell Keith Oliveaux,(318) 340-7900,General Practice,Personal Injury,,,,Jerod Arreguini
-a013200000pZcgJ,0063200001oNwhv,Ginger Gibbs,12/20/2016,Chris Osborn - Lead,NC,10740.0,,12,895.0,HOTLEAD-email,LegalMatch,David Chris Osborn,(704) 996-6208,Family Law,Employment and Labor Law,,,,Jerod Arreguini
 a013200000pZqGn,0063200001oQh3J,Ginger Gibbs,1/26/2017,Eric Herrmann 2017,FL,6300.0,,9,700.0,SELF GEN,,Eric Herrmann,(813) 679-8548,Criminal Law,,,,,Jerod Arreguini
-a013200000pYfip,0063200001nwAcU,Ginger Gibbs,10/27/2016,Barry Taracks,FL,8148.0,,12,679.0,SELF GEN,,Barry Taracks,(813) 281-2897,Criminal Law,,,,,Jerod Arreguini
-a013200000pZdHC,0063200001oOS1d,Ginger Gibbs,12/22/2016,Jessica Estorga 2016,TX,13200.0,,12,1100.0,SELF GEN,,Jessica Estorga,(512) 739-3257,Family Law,,,,,Jerod Arreguini
 a010e00000mitqf,0060e00001qrAF5,Legal Match,2/6/2018,Kevin Hays 2018 - Criminal Upgrade,TX,9258.0,1543.0,6,,UPGRADE,,Kevin Hays,(251) 378-2720,Criminal Law,,,,,Jerod Arreguini
 a010e00000mimMj,0060e00001qpppi,Ginger Gibbs,12/15/2017,Joshua Harris Lead 12/15/17,FL,38340.0,995.0,36,,HOTLEAD-phone,LegalMatch,Joshua Gaven Harris,(813) 702-8412,Family Law,,,,,Jerod Arreguini
 a010e00000minKp,0060e00001qps6A,Ginger Gibbs,12/21/2017,Doug Somers,WA,9756.0,813.0,12,,SELF GEN,,Thomas Olmstead,(360) 779-8980,Criminal Law,,,,,Jerod Arreguini
@@ -358,8 +285,10 @@ a010e00000qMV9L,0060e00001qIFyh,Ginger Gibbs,8/16/2017,Jess Lorona 2017,AZ,31374
 a010e00000qMVnm,0060e00001qIFEf,Ginger Gibbs,8/23/2017,David Groff 2017,,39714.0,10000.0,24,,SELF GEN,,David Groff,(770) 736-0000,Personal Injury,,,,,Jerod Arreguini
 a010e00000qMWig,0060e00001q5sdB,Ginger Gibbs,8/30/2017,Brady Smith,LA,10812.0,435.0,24,,SELF GEN,,Brady J. Smith,(504) 715-7038,Family Law,,,,,Jerod Arreguini
 a010e00000qMWs2,0060e00001q63Fb,Ginger Gibbs,8/31/2017,Sean B. Druyon,UT,32520.0,1309.0,24,,SELF GEN,,SEAN B DRUYON,(801) 397-2223,Criminal Law,,,,,Jerod Arreguini
-a013200000mpUj3,0063200001mreKk,Ginger Gibbs,7/1/2016,Christian Barker,TN,12960.0,,12,1080.0,HOTLEAD-email,,Christian Barker,(615) 496-5719,Intellectual Property,"Entertainment, Media, & Sports Law",,,,Jerod Arreguini
-a013200000ovYEy,0063200001kRZz8,Ginger Gibbs,10/29/2015,Tony Hajek,Texas,10494.0,,9,1166.0,SELF GEN,,Anton Hajek,(210) 277-1900,Family Law,,,,,Jerod Arreguini
+a013200000paEN5,0063200001pBvIU,Ginger Gibbs,3/22/2017,Erik Diggs 2017,IL,4398.0,,6,733.0,SELF GEN,,Erik Diggs,(312) 380-1070,Family Law,,,,,Jerod Arreguini
+a013200000paVMu,0063200001pTkSg,Ginger Gibbs,4/17/2017,William Roth 2017,New York,10200.0,,24,425.0,SELF GEN,,William Roth,(917) 498-1873,Criminal Law,,,,,Jerod Arreguini
+a013200000paGL3,0063200001pEbIU,Ginger Gibbs,3/27/2017,Leo White - Lead 2017,Pa,5100.0,,12,425.0,HOTLEAD-email,LegalMatch,Leo Thomas White,(610) 291-5822,"Real Estate, Housing & Property Law","Real Estate, Housing & Property Law",,,,Jerod Arreguini
+a013200000paVmd,0063200001pUE8e,Ginger Gibbs,4/17/2017,Teresa Hensley,MO,17100.0,,18,950.0,SELF GEN,,Teresa Hensley,(816) 322-4466,Criminal Law,,,,,Jerod Arreguini
 a014y00000ZJ5GE,0064y00000wlUA8,Howard Martitz,3/18/2021,Jason Sadow 03.19.21,NV,15773.4,635.0,24,,SELF GEN,,Jason Sadow,(702) 249-0160,"Wills, Trusts and Estates",Health and Elder Care,Family Law,,,Shanna Carmichael
 a014y00000ZJ5Ld,0060e00001ykIXb,Howard Martitz,3/23/2021,Herbert Theodore Patty - LEAD - 03.23.21,CA,7500.0,625.0,12,,HOTLEAD-LinkedIn-LGF,LegalMatch,Herbert T. Patty,(408) 823-0640,Intellectual Property,,,,,Shanna Carmichael
 a010e00000mlGPI,0060e00001wk7G7,Howard Martitz,7/28/2020,Charles Runyan - PP2 D2 Corp Email - 7-28-20,AZ,18630.0,750.0,24,,HOTLEAD-Calendly,,Charles Runyan,(480) 561-5611,Intellectual Property,,,,,Shanna Carmichael
@@ -440,6 +369,7 @@ a014y00000Y05br,0064y00000wF3R2,Howard Martitz,2/26/2021,Chris Kimminau 02.26.21
 a014y00000Y05Zl,0064y00000wF3oQ,Howard Martitz,2/25/2021,jared irmas 02.25.21,CA,9540.0,795.0,12,,SELF GEN,,Jared Irmas,(818) 441-4130,General Practice,,,,,Shanna Carmichael
 a014y00000YYmzC,0064y00000wspJS,Howard Martitz,1/27/2021,Shawn R. H. Smith 01.27.21,FL,19747.8,795.0,24,,HOTLEAD-LMWebForm,LegalMatch,Shawn R. H. Smith,(321) 295-7801,"Wills, Trusts and Estates",,,,,Shanna Carmichael
 a014y00000ZJ50u,0064y00000wFEjI,Howard Martitz,3/9/2021,Donovan Jay O'Pry II - Newsletter Lead - 03.09.21,LA,6570.0,1095.0,6,,HOTLEAD-Calendly,LegalMatch,Donovan Jay O'Pry II,(337) 236-6779,Personal Injury,,,,,Shanna Carmichael
+a010e00000qbORc,0060e00001yjahi,Jacob Klipper,12/17/2020,J Jon Slade 12.17.20,AZ,5400.0,5400.0,1,,SELF GEN,,J. Jon Slade,(480) 766-9199,Criminal Law,,,,,Robert Proden
 a014y00000ZqtDZ,0064y000011FMjr,Jacob Klipper,12/15/2021,Patricia Combs 12.15.21,CA,18065.88,469.0,36,,AMRM Hand-off,,Patricia Combs,(310) 545-1022,Family Law,,,,,Robert Proden
 a014y00000ZJ5pi,0064y00000xmwpi,Jacob Klipper,4/16/2021,William Murray 4.16.21,Connecticut,12171.6,490.0,24,,SELF GEN,,William Murray,(860) 614-0989,Employment and Labor Law,,,,,Robert Proden
 a014y00000Zqsl6,0064y00000zGd60,Jacob Klipper,10/18/2021,Al Ansani 10-18-21,,18720.72,486.0,36,,AMRM Hand-off,,Al Ansani,(702) 287-8678,Business - Transactional,,,,,Robert Proden
@@ -457,29 +387,6 @@ a014y00000ZqsWL,0064y00000zG1Xp,Jacob Klipper,9/16/2021,Kimuel Lee 09-16-2021,LA
 a014y00000Zqsyj,0064y00000zGqQz,Jacob Klipper,11/11/2021,Trey Miller 11.11.21,FL,30777.48,799.0,36,,SELF GEN,,Trey Miller,(954) 981-9301,"Wills, Trusts and Estates",,,,,Robert Proden
 a014y00000YYmbo,0060e00001ykS4O,Jacob Klipper,1/25/2021,Chadrick Henderson 1.25.21,TX,25038.0,650.0,36,,SELF GEN,,Chadrick S. Henderson,(832) 209-1441,Criminal Law,,,,,Robert Proden
 a010e00000qbW0D,0060e00001yk7rm,Jacob Klipper,1/5/2021,Robert Taaffe 01.05.20,MO,5904.0,3000.0,12,,SELF GEN,,Robert P Taaffe,(314) 210-3971,Criminal Law,,,,,Robert Proden
-a010e00000qbORc,0060e00001yjahi,Jacob Klipper,12/17/2020,J Jon Slade 12.17.20,AZ,5400.0,5400.0,1,,SELF GEN,,J. Jon Slade,(480) 766-9199,Criminal Law,,,,,Robert Proden
-a013200000medN7,0063200001j9AnO,Jamison Driskill,6/4/2015,Richard Meier - Deal,MI,13500.0,,36,375.0,SELF GEN,,Richard Meier,Retired,Employment and Labor Law,,,,,Jeynifer Kaz
-a013200000mej4l,0063200001j9ncU,Jamison Driskill,7/1/2015,Richard Loftis - 2015,,19800.0,,36,550.0,SELF GEN,,disc Richard M Loftis,(770) 622-0771,Family Law,,,,,Jeynifer Kaz
-a013200000mfEgq,0063200001jvG4B,Jamison Driskill,8/18/2015,Ron Ricci - 2015,NJ,6000.0,,12,500.0,SELF GEN,,Ronald J Riccio,(973) 837-1900,Criminal Law,,,,,Jeynifer Kaz
-a013200000meTWx,0063200001j6i7a,Jamison Driskill,4/21/2015,Ed Williams,NC,4800.0,,12,400.0,AMRM Hand-off,,Edward V. Williams,(919) 844-2847,Criminal Law,,,,,Jeynifer Kaz
-a013200000nhS2u,0063200001kMYCn,Jamison Driskill,10/14/2015,Maxim Rabinovich 2015,TX,15000.0,,24,625.0,SELF GEN,,Maxim Rabinovich,(210) 396-6565,Criminal Law,,,,,Jeynifer Kaz
-a013200000meaFl,0063200001j8XuI,Jamison Driskill,5/19/2015,Paul Flannigan,TX,12600.0,,36,350.0,SELF GEN,,Paul A Flannigan,(214) 912-1843,Employment and Labor Law,,,,,Jeynifer Kaz
-a013200000niaBe,0063200001jxUSm,Jamison Driskill,10/16/2015,Lisa Figueroa,FL,30720.0,,24,1280.0,AMRM Hand-off,,Lisa M. Figueroa,(407) 999-7658,Family Law,Criminal Law,,,,Jeynifer Kaz
-a013200000megLx,0063200001j9Jgx,Jamison Driskill,6/17/2015,Howard LeVine- Deal,IL,10800.0,0.0,24,450.0,SELF GEN,,Howard M Levine,(708) 444-4333,Family Law,,,,,Jeynifer Kaz
-a013200000o1QRy,0063200001jx2gX,Jamison Driskill,9/17/2015,James LaPaglia,NY,2970.0,,1,2970.0,SELF GEN,,James LaPaglia,(914) 328-0640,"Real Estate, Housing & Property Law",,,,,Jeynifer Kaz
-a013200000mfKEg,0063200001jwqVr,Jamison Driskill,9/1/2015,Edward Lindsey 2015,OK,12600.0,,36,350.0,SELF GEN,,EDWARD LINDSEY,(918) 587-0097,General Practice,,,,,Jeynifer Kaz
-a013200000meRT9,0063200001j6CI2,Jamison Driskill,4/9/2015,"Adam Fisher, Jr.",SC,5880.0,,12,490.0,AMRM Hand-off,,"Adam Fisher, Jr.",DISCO,Family Law,,,,,Jeynifer Kaz
-a013200000mebxa,0063200001j8t51,Jamison Driskill,5/28/2015,Regina Molden,GA,5162.0,442.0,8,590.0,HOTLEAD-phone,LegalMatch,Regina Molden,(404) 324-4500,Employment and Labor Law,,,,,Jeynifer Kaz
-a013200000o3BHC,0063200001kLpuF,Jamison Driskill,9/24/2015,John McGlynn,FL,25200.0,,24,1050.0,SELF GEN,,John McGlynn,(772) 349-5646,Business - Transactional,,,,,Jeynifer Kaz
-a013200000ovt7a,0063200001ku7uj,Jamison Driskill,11/30/2015,K. Scott Hamerslough,CO,9108.0,,18,506.0,SELF GEN,,K. Scott Hamerslough,(720) 415-0322,Family Law,,,,,Jeynifer Kaz
-a013200000owBUG,0063200001lKPXa,Jamison Driskill,12/31/2015,Beulah Mall,PA,6300.0,,18,350.0,SELF GEN,,Beulah P Mall,(717) 293-8232,Family Law,,,,,Jeynifer Kaz
-a013200000ow3CD,0063200001ktymQ,Jamison Driskill,12/14/2015,Michele R. De Bianchi,FL,9522.0,,18,529.0,SELF GEN,,Michele De Bianchi,(305) 790-6694,Family Law,,,,,Jeynifer Kaz
-a013200000ovnWG,0063200001ktMtU,Jamison Driskill,11/19/2015,Harold Housley,TX,10458.0,,18,581.0,SELF GEN,,Harold Housley,(903) 467-3091,"Wills, Trusts and Estates",,,,,Jeynifer Kaz
-a016000000iergZ,0066000001aNXQD,Jamison Driskill,1/21/2015,Cynthia Borgfeld Smith - New Deal,TX,4800.0,,12,400.0,SELF GEN,,Cynthia Smith,(512) 931-9488,Family Law,,,,,Jeynifer Kaz
-a016000000mdxxP,0066000001i2ik4,Jamison Driskill,3/17/2015,Anthony Lopresti,NY,17640.0,,18,980.0,SELF GEN,,Anthony J. Lopresti,(516) 739-2020,Family Law,,,,,Jeynifer Kaz
-a013200000mecpw,0063200001j8tL8,Jamison Driskill,6/2/2015,Haksoo Lee - lead,FL,14220.0,0.0,36,395.0,HOTLEAD-email,LegalMatch,HakSoo Stephen Lee,(813) 606-4533,Business - Litigation,,,,,Jeynifer Kaz
-a013200000mej1N,0063200001j9Tk1,Jamison Driskill,7/1/2015,Eric Clark-Deal,IN,12600.0,,36,350.0,SELF GEN,,Eric Clark,(219) 670-6336,General Practice,,,,,Jeynifer Kaz
-a013200000ovZ0Y,0063200001kry9j,Jamison Driskill,10/30/2015,Marc Wiegand 2015,TX,10404.0,,18,578.0,SELF GEN,,Marc Wiegand,(210) 789-3882,Business - Transactional,,,,,Jeynifer Kaz
 a010e00000mirwO,0060e00001qqgb2,Jennings Burnside,1/29/2018,Avi Mermelstein,NY,49428.0,1283.0,36,,HOTLEAD-email,LegalMatch,Steve Arenson,(212) 490-3600,Employment and Labor Law,Employment and Labor Law,,,,Michael Novi
 a010e00000mir84,0060e00001qqf3D,Jennings Burnside,1/19/2018,Maria Primushko 2017,CA,10656.0,888.0,12,,SELF GEN,,Maria Primushko,(323) 428-1405,"Bankruptcy, Banking and Credit",,,,,Michael Novi
 a010e00000miwfP,0060e00001qrL1y,Jennings Burnside,2/26/2018,Joseph Threston 2018,NJ,26592.0,690.0,36,,SELF GEN,,Joseph Threston,(856) 303-1310,"Wills, Trusts and Estates",,,,,Michael Novi
@@ -543,25 +450,12 @@ a010e00000qbQxR,0060e00001yjxl8,Josh Henriksen,12/23/2020,David I. Aboulafia - L
 a010e00000ra9jb,0060e00001v32cR,Josh Henriksen,10/21/2019,Edwin Molina 10.21.19,AZ,17160.0,1430.0,12,,AMRM Hand-off,,Edwin Molina,(602) 718-1249,Criminal Law,,,,,Lexi Browne
 a010e00000raIB3,0060e00001w22Bm,Josh Henriksen,12/11/2019,J.C Cox 12.11.19,AZ,26001.0,675.0,36,,SELF GEN,,J.C Cox,(480) 820-3600,"Bankruptcy, Banking and Credit",,,,,Lexi Browne
 a010e00000raYYA,0060e00001w4Jmz,Josh Henriksen,2/28/2020,Sean Flynn 2.28.20,TX,11178.0,450.0,24,,SELF GEN,,Sean Thomas Flynn,(512) 640-3340,"Bankruptcy, Banking and Credit",,,,,Lexi Browne
-a014y00000gkgjk,0064y000015eU9a,Keith Bruce,9/22/2022,Gabrielle Cutler - LEAD - 09.16.22,CA,5850.0,650.0,9,,HOTLEAD-LMWebForm,LegalMatch,Gabrielle W Cutler,(415) 261-8957,"Wills, Trusts and Estates",,,,,Ryan Goida
 a014y00000YQ5eP,0064y000013WD8t,Legal Match,7/6/2022,Reed Marcy 7.7.22,,21448.8,21448.8,1,,SELF GEN,,Reed Marcy,(510) 562-6800,Employment and Labor Law,,,,,Ryan Goida
-a014y00000gkchz,0064y000015eV6L,Keith Bruce,9/16/2022,Purnima Mookim 9.16.22,MD,6540.0,545.0,12,,SELF GEN,,Purnima Mookim,(301) 972-1435,Immigration,,,,,Ryan Goida
-a013200000pZdzk,0063200001nav80,Keith Myers,12/27/2016,Yvonne Kafor 2016,TX,7140.0,,12,595.0,AMRM Hand-off,,Yvonne Kafor,(214) 576-2221,Family Law,,,,,James Susuico
-a013200000pZsLk,0063200001oQnQC,Keith Myers,1/31/2017,Frank Skipper 2017,TX,27972.0,,24,1165.5,SELF GEN,,Frank Skipper,(817) 405-2535,Family Law,,,,,James Susuico
-a013200000pdRVX,0063200001ndf1r,Keith Myers,9/6/2016,Ronald Bergman.,MD,11232.0,,12,936.0,SELF GEN,,Alan D Levenstein,(301) 459-8200,Family Law,,,,,James Susuico
-a013200000pYhwT,0063200001nwSs4,Keith Myers,11/2/2016,Gordon R. Cooper II,TX,15876.0,,24,661.5,SELF GEN,,Gordon R. Cooper II,(713) 747-1446,Criminal Law,Employment and Labor Law,,,,James Susuico
-a013200000pYiHM,0063200001nv6qD,Keith Myers,11/2/2016,Susan Lax,OH,13500.0,,24,562.5,SELF GEN,,F. Benjamin Riek,(330) 410-2518,Family Law,,,,,James Susuico
-a013200000qHwbo,0063200001pR2O7,Keith Myers,5/30/2017,Dean Schweitzer - Lead,CA,18000.0,1500.0,12,1500.0,HOTLEAD-email,LegalMatch,Dean Schweitzer,(661) 254-1508,Business - Litigation,,,,,James Susuico
 a013200000pZjPI,0063200001oPFpK,Keith Myers,1/10/2017,David Cowden 2017,TX,11880.0,,24,495.0,SELF GEN,,David Cowden,(817) 882-9000,Family Law,,,,,James Susuico
-a013200000pZOYD,0063200001nuzAy,Keith Myers,11/11/2016,Jerome R. Bowen 2016,NV,17400.0,,24,725.0,SELF GEN,,Jerome R. Bowen,(702) 240-5191,Family Law,,,,,James Susuico
 a013200000paNg1,0063200001pDCUP,Keith Myers,3/31/2017,William I. Goldsmith,CA,5100.0,,6,850.0,SELF GEN,,William I. Goldsmith,(818) 990-6600,Medical Malpractice,,,,,James Susuico
-a013200000pZbaD,0063200001oNlvF,Keith Myers,12/16/2016,Rhea Jones-Price - Lead,IN,11625.0,,,,HOTLEAD-email,LegalMatch,Rhea M. Jones-Price,(812) 886-1563,Criminal Law,,,,,James Susuico
-a013200000pYVUr,0063200001nIIP7,Keith Myers,8/11/2016,Jeffrey Scott Davis,TX,10080.0,,24,420.0,SELF GEN,,Jeffrey Scott Davis,(817) 556-3456,General Practice,,,,,James Susuico
-a013200000pZbkX,0063200001ncZZg,Keith Myers,12/16/2016,Michael Kernan,California,9000.0,,6,1500.0,SELF GEN,,Michael Kernan,(310) 490-9777,Business - Litigation,,,,,James Susuico
 a013200000pa9hD,0063200001pCGS9,Keith Myers,3/13/2017,Bonnie Anderson 2017,CA,5400.0,,12,450.0,SELF GEN,,Bonnie J. Anderson,(209) 509-4640,General Practice,,,,,James Susuico
 a013200000paBa4,0063200001pD2aM,Keith Myers,3/16/2017,Leroy Gee - Lead,CA,8400.0,,12,700.0,HOTLEAD-email,LegalMatch,Leroy V. Gee,(415) 629-9050,Immigration,,,,,James Susuico
 a013200000paRmq,0063200001pEnJf,Keith Myers,4/11/2017,Mark Scheier 2017,MA,3000.0,,6,500.0,SELF GEN,,Mark Scheier,(978) 264-4655,"Wills, Trusts and Estates",,,,,James Susuico
-a013200000pZVGw,0063200001nuw9f,Keith Myers,11/29/2016,Hal Goldberg 2016,MI,6000.0,,12,500.0,SELF GEN,,Hal Goldberg,(248) 723-7243,Family Law,,,,,James Susuico
 a010e00000mlEgq,0060e00001wjzC2,Keith Myers,7/24/2020,Leon Teichner 7.24.20,IL,8508.0,709.0,12,,SELF GEN,,Leon Teichner,(312) 541-2822,"Wills, Trusts and Estates",,,,,James Susuico
 a010e00000ml8Gz,0060e00001xaRIw,Keith Myers,7/7/2020,VY NGUYEN 07-08-2020,TX,20993.4,545.0,36,,SELF GEN,,VY NGUYEN-Matt,(713) 820-1495,Family Law,,,,,James Susuico
 a010e00000pH6mr,0060e00001rQw2L,Keith Myers,4/23/2018,Ron J. Rodgers,Texas,27936.0,725.0,36,,SELF GEN,,Ron J. Rodgers,(281) 884-3891,Criminal Law,,,,,James Susuico
@@ -575,6 +469,8 @@ a010e00000rZueR,0060e00001ufPAN,Keith Myers,7/31/2019,Robert Bauer 7.31.19,FL,15
 a010e00000r8nI8,0060e00001thf5d,Keith Myers,5/23/2019,"Garth Sullivan, Li, Yang Mei, & Song, Yun Chao",NY,52800.0,4400.0,12,,SELF GEN,,Anna Demidchik,,Criminal Law,Criminal Law,Criminal Law,Criminal Law,,James Susuico
 a010e00000r8dHN,0060e00001tvGn4,Keith Myers,4/12/2019,Limor Mojdehiazad 4.12.19,CA,20223.0,525.0,36,,SELF GEN,,Limor Mojdehiazad,(310) 409-9948,Family Law,,,,,James Susuico
 a010e00000rHhzA,0060e00001t8eHu,Keith Myers,2/14/2019,Mario Valencia 2.14.19,CA,18181.44,472.0,36,,SELF GEN,,Mario Valencia,(818) 507-8819,Family Law,,,,,James Susuico
+a013200000pZsLk,0063200001oQnQC,Keith Myers,1/31/2017,Frank Skipper 2017,TX,27972.0,,24,1165.5,SELF GEN,,Frank Skipper,(817) 405-2535,Family Law,,,,,James Susuico
+a013200000qHwbo,0063200001pR2O7,Keith Myers,5/30/2017,Dean Schweitzer - Lead,CA,18000.0,1500.0,12,1500.0,HOTLEAD-email,LegalMatch,Dean Schweitzer,(661) 254-1508,Business - Litigation,,,,,James Susuico
 a010e00000q51gb,0060e00001s5EJ0,Ken Lasker,2/25/2019,Liz Cirillo 2.25.19,AZ,8252.16,448.0,18,,SELF GEN,,Elizabeth Cirillo,(520) 548-0294,Criminal Law,,,,,Joshua Jordan
 a010e00000q563m,0060e00001s5Yul,Ken Lasker,3/11/2019,Michael Iverson 3.11.19,CA,27561.6,870.0,30,,AMRM Hand-off,,Michael Iverson,(951) 506-0831,Family Law,,,,,Joshua Jordan
 a010e00000q565J,0060e00001s5NRP,Ken Lasker,3/12/2019,Vanessa Aguilera 3.12.19,IN,6624.0,552.0,12,,SELF GEN,,Vanessa  Lopez,(317) 634-9484,Family Law,,,,,Joshua Jordan
@@ -661,7 +557,7 @@ a014y00000ZqtEm,0064y000011FNK3,Lindsey Jenkins,12/17/2021,Amanda Gentry 12-16-2
 a014y00000YYn8R,0064y00000wsofM,Lorraine Martinez,1/29/2021,Benjamin Epstein HOT LEAD 1.25.21,,32549.4,845.0,36,,HOTLEAD-LMWebForm,LegalMatch,Benjamin Epstein,(917) 863-8248,"Real Estate, Housing & Property Law",,,,,Jerod Arreguini
 a014y00000ZJ5aT,0064y00000vsVYx,Legal Match,3/31/2021,Betty M. Charles - 03.31.21Corp Email - CE_February Resend 6of7 AfP in PP_021221,FL,26001.0,675.0,36,,Corp Email Lead,LegalMatch,Betty M. Charles,(954) 998-7289,"Wills, Trusts and Estates",,,,,Jerod Arreguini
 a010e00000mivfp,0060e00001qrLKy,Lorraine Martinez,2/19/2018,Brian Eves 2018,PA,17136.0,445.0,36,445.0,SELF GEN,,Brian Eves,(215) 200-6389,"Bankruptcy, Banking and Credit",,,,,Jerod Arreguini
-a010e00000mixJd,0060e00001qrgUA,Lorraine Martinez,2/28/2018,Robin Kennedy 2018,CA,17484.0,704.0,24,704.0,SELF GEN,,Robin Kennedy,(650) 387-7317 dnc,"Real Estate, Housing & Property Law",,,,,Jerod Arreguini
+a010e00000mixJd,0060e00001qrgUA,Lorraine Martinez,2/28/2018,Robin Kennedy 2018,CA,17484.0,704.0,24,704.0,SELF GEN,,Robin Kennedy,(650) 387-7317,"Real Estate, Housing & Property Law",,,,,Jerod Arreguini
 a010e00000mio36,0060e00001qpkNx,Lorraine Martinez,12/29/2017,Kevin Beard,MD,15228.0,395.0,36,395.0,AMRM Hand-off,,Kevin L. Beard,(410) 744-3225,Family Law,,,,,Jerod Arreguini
 a010e00000mitON,0060e00001qqQAD,Lorraine Martinez,2/2/2018,Chris Wolcott,IN,9840.0,820.0,12,820.0,SELF GEN,,Chris Wolcott,(317) 500-0700,Employment and Labor Law,,,,,Jerod Arreguini
 a010e00000mifPV,0060e00001qoLfi,Lorraine Martinez,10/23/2017,Monica-Kaye Gamble 2017,IL,5700.0,475.0,12,475.0,SELF GEN,,Monica-Kaye Gamble,(312) 285-6071,"Real Estate, Housing & Property Law",,,,,Jerod Arreguini
@@ -742,18 +638,8 @@ a014y00000Zqt85,0064y000011FHbu,Lorraine Martinez,12/7/2021,Michel Rene Huff 12.
 a010e00000qbRkh,0060e00001yjt5e,Lorraine Martinez,12/28/2020,Wendell P Shepherd 12.28.20,TX,7260.0,605.0,12,,SELF GEN,,Wendell P Shepherd,(713) 907-3528,Construction,,,,,Jerod Arreguini
 a014y00000ZJ6HI,0064y00000xnQXJ,Lorraine Martinez,5/12/2021,Thomas LaGrandeur 05.12.21,OK,24537.95,2000.0,36,,SELF GEN,,Thomas LaGrandeur,(918) 841-7297,Intellectual Property,,,,,Jerod Arreguini
 a014y00000Y05aj,0064y00000wF49E,Lorraine Martinez,2/25/2021,Richard S. Lehman 02.25.21,FL,18327.9,995.0,18,,SELF GEN,,Richard S. Lehman,(561) 368-1113,Tax Law,,,,,Jerod Arreguini
-a013200000mpc1C,0063200001ms4oL,Melissa Rodriguez,7/8/2016,Todd MacLarty 2016,TX,14025.0,,15,935.0,SELF GEN,,Todd MacLarty,(214) 514-1391,Family Law,,,,,Joshua Jordan
-a013200000mpFJJ,0063200001mqdsJ,Melissa Rodriguez,6/20/2016,Bruce Buskirk..,TX,16584.0,,24,691.0,SELF GEN,,Bruce Buskirk,(281) 583-7553 NIS,Family Law,,,,,Joshua Jordan
-a013200000mpIs5,0063200001mpCKA,Melissa Rodriguez,6/23/2016,Marc J. Lieberman,PA,9270.0,,18,515.0,SELF GEN,,Marc J Lieberman,(610) 430-3701,Criminal Law,,,,,Joshua Jordan
-a013200000movwL,0063200001monPZ,Melissa Rodriguez,5/31/2016,Courtney Wright 2016,Texas,5904.0,,12,492.0,SELF GEN,,Courtney Wright,(303) 291-7149,Family Law,,,,,Joshua Jordan
-a013200000pdTWw,0063200001neQam,Melissa Rodriguez,9/9/2016,Howard Ellzey 2016,,31080.0,,24,1295.0,SELF GEN,,Howard Ellzey Jr.,(727) 844-7676,Family Law,,,,,Joshua Jordan
-a013200000pdVGL,0063200001neagP,Melissa Rodriguez,9/13/2016,Mahal Montoya,,23880.0,,24,995.0,AMRM Hand-off,,Mahal Montoya,(510) 328-1018,Criminal Law,,,,,Joshua Jordan
-a013200000pYS3K,0063200001nIoUC,Melissa Rodriguez,8/4/2016,Michael Berg 2016,CA,13824.0,,12,1152.0,SELF GEN,,Michael S. Berg,(619) 239-2186,Criminal Law,,,,,Joshua Jordan
-a013200000pmA5O,0063200001neQlL,Melissa Rodriguez,9/16/2016,William James16,Texas,23160.0,,24,965.0,SELF GEN,,William James,(254) 697-3132,Family Law,,,,,Joshua Jordan
-a013200000ppNXO,0063200001nwVjr,Melissa Rodriguez,10/26/2016,Jim Grissom 2016,TX,10200.0,,24,425.0,SELF GEN,,Jim Grissom,(956) 624-3207,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
 a014y00000YqVek,0064y00000vqn8F,Melissa Rodriguez,2/18/2021,Olin McDougall-2021,SC,9714.0,1619.0,6,,SELF GEN,,"J. Olin ""Lin"" McDougall",(843) 379-7000,Personal Injury,Medical Malpractice,,,,Joshua Jordan
 a014y00000YqVGz,0064y00000wtF9I,Melissa Rodriguez,2/12/2021,Angeline Sperling and Jameira Moore 2021,AL,5340.0,445.0,12,,SELF GEN,,Jameria Moore,(205) 868-3016,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000pdPJW,0063200001msYqY,Melissa Rodriguez,8/31/2016,Jeff Millar 2016,MO,5844.0,,12,487.0,SELF GEN,,Jeff Millar,(636) 448-4982,Family Law,,,,,Joshua Jordan
 a010e00000qbOSV,0060e00001yjt7M,Melissa Rodriguez,12/17/2020,Holden Hoggatt-2020,LA,15408.0,400.0,36,,SELF GEN,,Eric Isaiah Holden Hoggatt,(337) 514-4551,General Practice,,,,,Joshua Jordan
 a010e00000q522m,0060e00001s5TbM,Melissa Rodriguez,2/27/2019,Craig Thrift Biz-Lit Upgrade 2019,GA,8089.2,210.0,36,,UPGRADE,,Robert Craig Thrift,(404) 983-7440,Business - Litigation,,,,,Joshua Jordan
 a010e00000q57vD,0060e00001t8IgV,Melissa Rodriguez,3/1/2019,Clyde Cash,NC,6636.0,553.0,12,,SELF GEN,,Robert W. Porter,(336) 725-2900,General Practice,,,,,Joshua Jordan
@@ -761,7 +647,6 @@ a010e00000q1JYD,0060e00001ufjx4,Melissa Rodriguez,7/3/2019,David A. Capasso-Acco
 a010e00000qbDyV,0060e00001yjNbq,Melissa Rodriguez,12/2/2020,Christopher Wise HOTLEAD 11-30-2020,KY,5940.0,495.0,12,,HOTLEAD-LMWebForm,LegalMatch,Christopher Wise,(502) 741-0466,Family Law,,,,,Joshua Jordan
 a010e00000qb7du,0060e00001yj8Zr,Melissa Rodriguez,11/20/2020,Cheryl David HOTLEAD 11-19-2020,NC,2802.0,467.0,6,,HOTLEAD-LMWebForm,LegalMatch,Cheryl David,(336) 547-9999,"Wills, Trusts and Estates",,,,,Joshua Jordan
 a010e00000qb6cF,0060e00001xh8AU,Melissa Rodriguez,11/16/2020,David Mizgala-2020,NY,76847.4,1995.0,36,,SELF GEN,,David Jefrie Mizgala,(214) 238-4800,Family Law,Business - Litigation,,,,Joshua Jordan
-a013200000mpXKr,0063200001mriZf,Melissa Rodriguez,7/5/2016,Terrence K. Martin.,VA,8400.0,,24,350.0,SELF GEN,,Terrence K. Martin,(757) 599-9822,Family Law,,,,,Joshua Jordan
 a010e00000r8vr6,0060e00001ufkXW,Melissa Rodriguez,6/28/2019,Eric Clark-2019,IN,13482.0,350.0,36,,SELF GEN,,Eric Clark,(219) 670-6336,General Practice,,,,,Joshua Jordan
 a010e00000rZtBD,0060e00001v0qB7,Melissa Rodriguez,7/24/2019,Bard Weinstein-2019,AZ,7200.0,600.0,12,,SELF GEN,,Bard Weinstein,(310) 483-9043,Criminal Law,,,,,Joshua Jordan
 a010e00000raQuV,0060e00001w3S73,Melissa Rodriguez,1/28/2020,Alison Lebeck-2020,TX,25615.8,665.0,36,,SELF GEN,,Alison C. Lebeck,(214) 924-9683,Family Law,,,,,Joshua Jordan
@@ -831,274 +716,41 @@ a010e00000r8sGm,0060e00001tiX1G,Robert Snezeck,6/12/2019,Ronald Peoples 06.12.20
 a010e00000qq2Jz,0060e00001s6YeG,Robert Snezeck,8/9/2018,Christopher Martens 08.09.2018,CA,11580.0,466.0,24,466.0,SELF GEN,,Christopher Martens,(559) 302-9722,Criminal Law,,,,,Cheri Ramos
 a010e00000qqGdD,0060e00001s8dq3,Vincent Teichman,11/5/2018,Ryan Grove 11/05/2018,MN,15228.0,395.0,36,395.0,SELF GEN,,Ryan Grove,(651) 451-6411,Criminal Law,,,,,Cheri Ramos
 a010e00000r8nID,0060e00001thwqG,Robert Snezeck,5/24/2019,Laurence H Olive 05.24.2019,NJ,8340.0,695.0,12,,SELF GEN,,Laurence H Olive,(973) 746-6623,Family Law,,,,,Cheri Ramos
-a013200000mpufw,0063200001nI8tA,Robert Snezeck,7/31/2016,Andrea Boyd - Lead,GA,2766.0,,6,461.0,HOTLEAD-email,LegalMatch,Andrea Boyd,(678) 782-3025,Family Law,,,,,Cheri Ramos
-a013200000o8Q3G,0063200001mcyT2,Robert Snezeck,5/3/2016,Scott M. Neuman,MI,2520.0,,6,420.0,AMRM Hand-off,,Scott M Neuman,(517) 349-2700,General Practice,,,,,Cheri Ramos
-a013200000meSqZ,0063200001j7NDp,Robert Snezeck,4/16/2015,Nevin P. Miller,CA,9600.0,,24,400.0,SELF GEN,,Nevin Miller,(925) 344-5050,Family Law,,,,,Cheri Ramos
-a013200000meSzf,0063200001j6XdQ,Robert Snezeck,4/17/2015,Larry Stempler- Deal,NJ,14364.0,,36,399.0,SELF GEN,,Larry Stempler- Deal,(973) 882-9300,Business - Transactional,,,,,Cheri Ramos
-a013200000meOfE,0063200001j6D2y,Robert Snezeck,3/24/2015,Gerald E. Gunnoe,OH,7200.0,,18,400.0,SELF GEN,,Gerald Gunnoe,(937) 435-4554,Family Law,,,,,Cheri Ramos
-a013200000mfGg3,0063200001jvgLJ,Robert Snezeck,8/20/2015,Jason Barrat - lead,AZ,16020.0,,36,445.0,HOTLEAD-email,LegalMatch,Jason Barrat,(480) 442-3410,Employment and Labor Law,,,,,Cheri Ramos
-a013200000mfMJV,0063200001jwHck,Robert Snezeck,9/11/2015,Audrey Damonte,NV,21426.0,,,,SELF GEN,,Ronald Thompson,naf(702) 791-0308,"Wills, Trusts and Estates",Business - Transactional,"Real Estate, Housing & Property Law",,,Cheri Ramos
-a013200000mef7p,0063200001j987q,Robert Snezeck,6/12/2015,Barbara Hager- lead,,12600.0,,36,350.0,HOTLEAD-email,LegalMatch,Barbara Hager- lead,(203) 336-1874,"Real Estate, Housing & Property Law",,,,,Cheri Ramos
-a013200000mekHY,0063200001judWm,Robert Snezeck,7/9/2015,Wade Christiansen - 2015,TX,14280.0,,24,595.0,SELF GEN,,Wade Christiansen,(281) 579-2800,Family Law,,,,,Cheri Ramos
-a013200000mpGLF,0063200001mqq0r,Robert Snezeck,6/20/2016,Reginald Sewell,TX,8364.0,,12,697.0,SELF GEN,,Reginald Sewell,(713) 425-8147,Business - Transactional,,,,,Cheri Ramos
-a013200000mefcC,0063200001j9S0W,Robert Snezeck,6/11/2015,Nicholas Peters - lead,PA,9600.0,,24,400.0,HOTLEAD-email,LegalMatch,Nicholas Peters,(717) 608-1543,Family Law,,,,,Cheri Ramos
-a013200000mfIxu,0063200001jvWKO,Robert Snezeck,8/27/2015,Rajiv Nagaich 2015,WA,13500.0,,36,375.0,Closer Initiated,LegalMatch,Rajiv Nagaich,(253) 838-3454,"Wills, Trusts and Estates",,,,,Cheri Ramos
-a013200000niGLq,0063200001jxj2g,Robert Snezeck,10/16/2015,Karen M. Buckley,MA,13572.0,,18,754.0,SELF GEN,,Karen Buckley,(617) 964-7000,Family Law,,,,,Cheri Ramos
-a013200000mfJGQ,0063200001juokc,Robert Snezeck,8/28/2015,Todd Inniss,MI,20772.0,,18,1154.0,SELF GEN,,C. Todd Inniss,(313) 921-8633,Family Law,Criminal Law,,,,Cheri Ramos
-a013200000mpJAJ,0063200001mocDx,Robert Snezeck,6/23/2016,Brian Todd 2016,WA,18840.0,,24,785.0,AMRM Hand-off,,Brian Todd,(206) 778-0750,Criminal Law,,,,,Cheri Ramos
-a013200000mpO3f,0063200001mCi3C,Robert Snezeck,6/27/2016,Andrew Dimitriou - June 2016,CA,6570.0,,6,1095.0,AMRM Hand-off,,Andrew Dimitriou,(415) 434-1144,Tax Law,Construction,,,,Cheri Ramos
-a013200000mppZf,0063200001nI3hH,Robert Snezeck,7/26/2016,John P. Lazar,OH,9960.0,,24,415.0,SELF GEN,,John P. Lazar,(330) 854-0238 NIS,"Wills, Trusts and Estates",,,,,Cheri Ramos
-a013200000mppjf,0063200001nHw8t,Robert Snezeck,7/26/2016,Winston Extavour,New Jersy,15552.0,,24,648.0,SELF GEN,,Winston Extavour,dnc,Criminal Law,,,,,Cheri Ramos
-a013200000o1l36,0063200001kLRXn,Robert Snezeck,9/18/2015,James Minerve - 2015,TX,13230.0,,18,735.0,HOTLEAD-phone,LegalMatch,James Minerve,(210) 336-5867,Intellectual Property,,,,,Cheri Ramos
-a013200000o2W8V,0063200001jvel4,Robert Snezeck,9/22/2015,William J. Reddin,WI,14310.0,,18,795.0,AMRM Hand-off,,Terese Singer,(414) 271-6400,Criminal Law,Family Law,,,,Cheri Ramos
-a013200000meVeh,0063200001j6bIo,Robert Snezeck,4/30/2015,Dana Hogle,AZ,8064.0,,18,448.0,SELF GEN,,Dana R. Hogle,(480) 999-5334,Criminal Law,,,,,Cheri Ramos
-a013200000mebvy,0063200001j8YIo,Robert Snezeck,5/28/2015,Romi Saleh - lead,,12540.0,396.0,23,528.0,HOTLEAD-email,LegalMatch,Romi Saleh,dnc,Family Law,,,,,Cheri Ramos
-a013200000mehVL,0063200001j8QOY,Robert Snezeck,6/23/2015,Lance Hester - June 2015,WA,33480.0,,24,1395.0,SELF GEN,,Lance Hester,(253) 272-2157,Personal Injury,,,,,Cheri Ramos
-a013200000melfq,0063200001juwdQ,Robert Snezeck,7/17/2015,Peter Daigle,MA,13140.0,,12,1095.0,SELF GEN,,Peter Daigle,(508) 771-7444,"Bankruptcy, Banking and Credit","Wills, Trusts and Estates",,,,Cheri Ramos
-a013200000mpPdv,0063200001mqQR6,Robert Snezeck,6/28/2016,Charles W Wheland III..,TN,2700.0,,6,450.0,SELF GEN,,Charles W Wheland III,(423) 451-8485,Family Law,,,,,Cheri Ramos
-a013200000meVf1,0066000001i2xS5,Robert Snezeck,4/30/2015,Susanne Sullivan - lead,TX,7200.0,,18,400.0,HOTLEAD-email,LegalMatch,Susanne Sullivan,(972) 400-1825,Employment and Labor Law,,,,,Cheri Ramos
-a013200000mei7V,0063200001j8m6X,Robert Snezeck,6/26/2015,Eric A. Shore,NJ,3000.0,,1,3000.0,SELF GEN,,Eric A. Shore,(215) 627-9999,Employment and Labor Law,,,,,Cheri Ramos
-a013200000o8NOC,0063200001mcpCW,Robert Snezeck,4/29/2016,Daniel P. Finley,MI,9576.0,,24,399.0,SELF GEN,,Daniel P. Finley,(734) 475-4659,"Wills, Trusts and Estates",,,,,Cheri Ramos
-a013200000ovXU4,0063200001ksQ5p,Robert Snezeck,10/29/2015,Mark Gertner 2015,NJ,4200.0,,6,700.0,SELF GEN,,Mark Gertner,,Personal Injury,,,,,Cheri Ramos
-a013200000ovpow,0063200001krROz,Robert Snezeck,11/23/2015,Alex Conant,Texas,6000.0,,6,1000.0,SELF GEN,,Alex Conant,(512) 222-6883,Personal Injury,,,,,Cheri Ramos
-a013200000p9uAS,0063200001mLxf4,Robert Snezeck,4/11/2016,Tony Sandberg 2016,GA,5280.0,,12,440.0,AMRM Hand-off,,Anthony  Sandberg,(706) 301-6329 Bad #,Family Law,Employment and Labor Law,,,,Cheri Ramos
-a013200000ovrPw,0063200001ktp77,Robert Snezeck,11/25/2015,Douglas Harty,,12510.0,,1,12510.0,SELF GEN,,Douglas Harty,(661) 334-2715,Medical Malpractice,,,,,Cheri Ramos
-a013200000pZVdo,0063200001nbn10,Robert Snezeck,11/30/2016,Daniel Krebs 2016,California,5394.0,,6,899.0,SELF GEN,,Daniel Krebs,(415) 464-9958,Business - Transactional,,,,,Cheri Ramos
 a013200000pZsOe,0063200001oOXJn,Robert Snezeck,2/1/2017,Lee Ann Chiacchio - Lead,NJ,10740.0,,12,895.0,HOTLEAD-email,LegalMatch,Lee Ann Mc Cabe-Chiacchio,(609) 786-2416,Family Law,,,,,Cheri Ramos
-a013200000ovt3n,0063200001krupG,Robert Snezeck,11/30/2015,Wesley Westphal 2015,CA,6780.0,,6,1130.0,SELF GEN,,Wesley Westphal,(909) 890-0465,Personal Injury,,,,,Cheri Ramos
-a013200000pZVi5,0063200001nCyW9,Robert Snezeck,11/18/2016,Sarah Newell & Todd Allison,KS,6000.0,,12,500.0,SELF GEN,,Sarah Newell,,Family Law,"Bankruptcy, Banking and Credit",,,,Cheri Ramos
-a013200000pZeOZ,0063200001ncaGt,Robert Snezeck,12/29/2016,Michele A. Biecker - Lead,FL,5376.0,,12,448.0,HOTLEAD-email,LegalMatch,Michele  A Biecker,(321) 693-0850,Family Law,,,,,Cheri Ramos
-a013200000owDBW,0063200001lKmei,Robert Snezeck,12/31/2015,Jonathan Fisher 2016,VA,12600.0,,36,350.0,SELF GEN,,Jonathan Fisher,(540) 808-6331,Criminal Law,,,,,Cheri Ramos
-a013200000p9dXR,0063200001lzF5z,Robert Snezeck,3/18/2016,Christina Naughton,NJ,8388.0,,12,699.0,SELF GEN,,Christina Naughton,(609) 646-7865,Criminal Law,,,,,Cheri Ramos
-a013200000p95qM,0063200001lNaFB,Robert Snezeck,2/1/2016,Johnnie Bond Jr.,DC,14328.0,,24,597.0,SELF GEN,,Johnnie D. Bond Jr.,(202) 683-6803,General Practice,,,,,Cheri Ramos
-a013200000pZYnd,0063200001nv6jl,Legal Match,12/8/2016,Pamela Branch - Lead 2016,VA,6000.0,,12,500.0,HOTLEAD-email,LegalMatch,Pamela Branch,(804) 771-9786,Employment and Labor Law,,,,,Cheri Ramos
 a013200000paX5K,0063200001pSaUB,Robert Snezeck,4/20/2017,Michael Wilson 2017,VA,5508.0,,12,459.0,HOTLEAD-email,LegalMatch,Michael Gregory Wilson,(804) 614-8301,Family Law,,,,,Cheri Ramos
-a013200000ovfZy,0063200001kszz3,Robert Snezeck,11/9/2015,Thomas Alexander 2015,CA,19836.0,,36,551.0,SELF GEN,,Thomas Alexander,(310) 878-7826,"Wills, Trusts and Estates",,,,,Cheri Ramos
-a013200000pdWGV,0063200001ndQuI,Robert Snezeck,9/15/2016,Douglas A Oberdorfer,FL,7140.0,,12,595.0,AMRM Hand-off,,Douglas A. Oberdorfer ,(904) 354-5454,Family Law,,,,,Cheri Ramos
-a013200000p9hYL,0063200001lzeLw,Robert Snezeck,3/24/2016,Seth A. Cantwell - lead,OH,6444.0,,18,358.0,HOTLEAD-email,LegalMatch,Seth A. Cantwell,state attorney,Family Law,,,,,Cheri Ramos
-a013200000ovzmQ,0063200001kucK6,Robert Snezeck,12/8/2015,Steven Wyers - lead,OK,14220.0,,36,395.0,HOTLEAD-email,LegalMatch,Steven Wyers,(918) 630-6672,General Practice,,,,,Cheri Ramos
-a013200000p8tBN,0063200001lLpdy,Robert Snezeck,1/12/2016,John Morrison Jr.,GA,14700.0,,6,2450.0,SELF GEN,,John Morrison Jr.,(770) 951-8900,Personal Injury,,,,,Cheri Ramos
-a013200000p9jZM,0063200001lzXnf,Robert Snezeck,3/28/2016,Barry Mittelberg 2016,FL,15522.0,,6,2587.0,AMRM Hand-off,,Barry Mittelberg,(954) 752-1213,Personal Injury,,,,,Cheri Ramos
-a013200000pYTp8,0063200001nI6xw,Robert Snezeck,8/9/2016,John Carter 2016,FL,9882.0,,18,549.0,SELF GEN,,John K. Carter,(727) 456-8970,"Wills, Trusts and Estates",,,,,Cheri Ramos
-a013200000ow1GW,0063200001kuzX9,Robert Snezeck,12/10/2015,Binh Bui - lead,CA,3000.0,,6,500.0,HOTLEAD-email,LegalMatch,Binh Bui,(858) 263-1241,"Real Estate, Housing & Property Law",,,,,Cheri Ramos
-a013200000p9jru,0063200001lzkFG,Robert Snezeck,3/28/2016,James J. Mongaras,,18120.0,,24,755.0,SELF GEN,,J Joseph Mongaras Jr,(214) 468-8100,Criminal Law,,,,,Cheri Ramos
-a013200000pp7xI,0063200001msOwQ,Robert Snezeck,9/20/2016,Skip McManes 2016,GA,7770.0,,6,1295.0,SELF GEN,,Skip McManes,(770) 645-8801,Personal Injury,,,,,Cheri Ramos
-a013200000ppJ2q,0063200001neFIH,Robert Snezeck,10/14/2016,Barbara T. Hanna,VA,5100.0,,6,850.0,AMRM Hand-off,,Barbara T. Hanna,(757) 586-5380,Family Law,Administrative Law,,,,Cheri Ramos
-a013200000p8uBY,0063200001lMFEG,Ben Sandholm,1/13/2016,Binh Bui - Upgrade,CA,23825.0,195.0,35,695.0,UPGRADE,,Binh Bui,(858) 263-1241,"Real Estate, Housing & Property Law",,,,,Cheri Ramos
 a013200000pa8lh,0063200001oQ7Ae,Robert Snezeck,3/10/2017,Anne Bennette 2017,WA,6552.0,,9,728.0,SELF GEN,,Anne Bennette,(425) 776-4100,Family Law,,,,,Cheri Ramos
-a013200000pdNst,0063200001ndOyV,Robert Snezeck,8/29/2016,Valarie McNeice,AZ,8910.0,,18,495.0,AMRM Hand-off,,Valarie McNeice,(928) 910-9110 bad#,Criminal Law,Family Law,,,,Cheri Ramos
-a013200000p8vS3,0063200001jwdY2,Robert Snezeck,1/15/2016,Timothy McDaniel - lead,,17820.0,,36,495.0,HOTLEAD-email,LegalMatch,Timothy McDaniel,(734) 327-4170,Personal Injury,,,,,Cheri Ramos
-a013200000ppAnP,0063200001lwHrK,Doug Brianas,2/17/2016,Timothy Grant - WAITLIST - BL,,,,,,SELF GEN,,Dennis Fredrickson,(858) 642-2002,Business - Litigation,,,,,Cheri Ramos
-a013200000p9G98,0063200001lOPXo,Robert Snezeck,2/16/2016,Daniel Junkin - lead,MS,11496.0,,24,479.0,HOTLEAD-email,LegalMatch,Daniel H. Junkin,(601) 720-8922,General Practice,,,,,Cheri Ramos
-a013200000pZTZx,0063200001lzdIF,Robert Snezeck,11/23/2016,Sheila Mayers 2016,DC,16536.0,,24,689.0,SELF GEN,,Sheila Mayers,(202) 848-5598,General Practice,,,,,Cheri Ramos
 a013200000qI2Ao,0063200001oR2cN,Legal Match,7/13/2017,Lee Bergstein 2017,NY,22224.0,895.0,24,895.0,SELF GEN,,Lee Bergstein,(516) 659-2155,Criminal Law,,,,,Cheri Ramos
-a013200000p9WQg,0063200001lNuTx,Robert Snezeck,3/9/2016,William Colvin 2016,GA,9480.0,,24,395.0,SELF GEN,,William Leonard Colvin,(404) 410-6202,"Real Estate, Housing & Property Law",,,,,Cheri Ramos
-a013200000pZUl4,0063200001nbO0t,Robert Snezeck,11/28/2016,Matthew C. McKenna,Ohio,6684.0,,12,557.0,SELF GEN,,Matthew C. McKenna,(513) 791-8916,Family Law,,,,,Cheri Ramos
-a013200000pZczN,0063200001nw18p,Doug Brianas,10/19/2016,Barbara T. Hanna - WAITLIST-IMM,,,,,,SELF GEN,,Barbara T. Hanna,(757) 586-5380,Immigration,,,,,Cheri Ramos
-a013200000pdQdU,0063200001mr0hO,Robert Snezeck,9/2/2016,F Geoffrey Dunham,CA,3060.0,,6,510.0,SELF GEN,,Geoffrey Dunham,(707) 771-4411,Criminal Law,,,,,Cheri Ramos
-a013200000p9r7k,0063200001mLRPu,Robert Snezeck,4/6/2016,Nathaniel Hansford 2016,GA,5040.0,,12,420.0,SELF GEN,,Nathaniel Hansford,(404) 245-5096,Personal Injury,,,,,Cheri Ramos
-a013200000pYafW,0063200001mq0qd,Robert Snezeck,8/19/2016,Shane Kadlec 2016,TX,11970.0,,6,1995.0,SELF GEN,,Shane Kadlec,(281) 643-2000,Personal Injury,,,,,Cheri Ramos
-a013200000pZdWq,0063200001oO49E,Robert Snezeck,12/22/2016,Mark H. Hutchings - Lead,NV,5400.0,,12,450.0,HOTLEAD-email,LegalMatch,Mark H. Hutchings,(702) 884-9241,"Real Estate, Housing & Property Law",Business - Litigation,,,,Cheri Ramos
 a013200000pZrr3,0063200001oQGmD,Robert Snezeck,1/31/2017,Girum Tesfaye 2017,VA,5100.0,,12,425.0,SELF GEN,,Girum Tesfaye,DISCO,Immigration,,,,,Cheri Ramos
-a016000000htWYY,0066000001aNlVn,Robert Snezeck,3/10/2015,Sean O'Halloran - Lead 01/16/15,CA,13500.0,,6,2250.0,Corp Email Lead,,Sean O'Halloran,(415) 816-2724,Personal Injury,,,,,Cheri Ramos
-a016000000ifPFu,0066000001aMqcZ,Robert Snezeck,2/25/2015,Richard Hiatt,OH,13247.0,367.0,35,368.0,SELF GEN,,Richard Hiatt,,Family Law,,,,,Cheri Ramos
-a016000000ielvQ,0066000001SpOMU,Robert Snezeck,1/14/2015,Leslie A. Johnson - New Deal,CA,13657.0,432.0,23,575.0,SELF GEN,,No Longer in Practice-Leslie A. Johnson,(925) 945-6211,"Real Estate, Housing & Property Law",,,,,Cheri Ramos
-a016000000ielw3,0066000001aMq3o,Robert Snezeck,1/14/2015,Craig W. Beidler - New Deal,OH,16740.0,,36,465.0,SELF GEN,,Craig Beidler,(330) 612-5990,"Wills, Trusts and Estates",Business - Litigation,,,,Cheri Ramos
-a016000000if8Fu,0066000001aO4Or,Robert Snezeck,2/9/2015,Teresa Villarreal,OH,12600.0,,36,350.0,SELF GEN,,Teresa Villarreal,(614) 668-6443,Family Law,,,,,Cheri Ramos
-a016000000mdtCF,0066000001i3sbR,Robert Snezeck,3/16/2015,Rajinderpal Sandher - Upgrade 3-12-15,NJ,3200.0,,34,395.0,UPGRADE,,Rajinderpal Sandher,(215) 876-3787,Family Law,,,,,Cheri Ramos
-a016000000ieuaf,0066000001aNxgV,Robert Snezeck,1/23/2015,Cooper Lynn - New Deal,SC,12600.0,,36,350.0,SELF GEN,,Cooper Lynn,(843) 839-1110 DISCO,General Practice,,,,,Cheri Ramos
-a016000000ieueu,0066000001aNWNa,Robert Snezeck,1/23/2015,Rajinderpal Sandher - New Deal,PA,11160.0,,24,465.0,SELF GEN,,Rajinderpal Sandher,(215) 876-3787,Family Law,,,,,Cheri Ramos
-a016000000ieugC,0066000001SpzQA,Robert Snezeck,1/23/2015,Rolf Thienemann - New Deal,IL,12600.0,,36,350.0,AMRM Hand-off,,Sharon R Rudy,(815) 962-1910,General Practice,,,,,Cheri Ramos
-a016000000ievVd,0066000001aMvkS,Robert Snezeck,1/26/2015,Jason Sherlock - New Deal,CA,11610.0,,18,645.0,AMRM Hand-off,,Jason R. Sherlock,(916) 757-6630,Family Law,,,,,Cheri Ramos
-a013200000o8KPh,0063200001mM7xb,Robert Snezeck,4/25/2016,Aaron Bushur - lead,NV,5604.0,,12,467.0,HOTLEAD-email,LegalMatch,Aaron Bushur,(775) 219-4222,General Practice,,,,,Cheri Ramos
-a013200000o5LAs,0063200001kLLXL,Robert Snezeck,10/1/2015,Scott Gunn - 2015,FL,11160.0,,18,620.0,SELF GEN,,Philip Duvalsaint,(954) 760-5646,Family Law,,,,,Cheri Ramos
-a016000000htSz1,0066000001aNWqs,Robert Snezeck,3/9/2015,Alan Middleton,WA,14364.0,,36,399.0,SELF GEN,,Alan S. Middleton,2064953556,Business - Litigation,,,,,Cheri Ramos
-a013200000mpPoK,0063200001mrL1z,Robert Snezeck,6/28/2016,Aaron Bushur,,7182.0,,18,399.0,SELF GEN,,Aaron Bushur,(775) 219-4222,General Practice,,,,,Cheri Ramos
 a010e00000pH7ur,0060e00001rR198,Robert Snezeck,4/30/2018,Dan Madeley,TX,15228.0,395.0,36,395.0,SELF GEN,,Dan Madeley,(936) 539-2528,Criminal Law,,,,,Cheri Ramos
 a014y00000ZqtFV,0064y00000wF51V,Howard Martitz,12/20/2021,Jared Irmas Early Renewal Account Switch12.20.21,CA,42470.88,1469.0,36,,EARLY RENEWAL,,Jared Irmas,(818) 441-4130,Employment and Labor Law,,,,,Cheri Ramos
-a013200000nfZHz,0063200001kRU50,Robin Kim,10/7/2015,Tim Baker - RE and Constitutional - Early Renewal - 10.7.15,Texas,14200.0,,36,550.0,EARLY RENEWAL,Jude Panaligan,Tim Baker,(214) 727-4956,"Real Estate, Housing & Property Law",Constitutional Law,,,,Rob Roback
-a013200000mejKD,0063200001j8yT5,Robin Kim,7/2/2015,Tamara Segal - PI Renewal 07.02.2015,TX,49560.0,,24,2065.0,RENEWAL,,Tamara Segal,(972) 757-1717,Personal Injury,Medical Malpractice,,,,Rob Roback
-a013200000mfNc3,0063200001jxjd3,Robin Kim,9/15/2015,Vale Krenik - FL - 09.15.15,TX,22356.0,,36,621.0,RENEWAL,,Vale Krenik,(469) 300-1499,Family Law,,,,,Rob Roback
-a013200000mfNc8,0063200001jvHJk,Robin Kim,9/15/2015,Vale Krenik - PI - 09.15.15,TX,37440.0,,36,1040.0,RENEWAL,,Vale Krenik,(469) 300-1499,Personal Injury,,,,,Rob Roback
-a013200000mpBT7,0063200001mqPm8,Robin Kim,6/15/2016,James Cuddy - Family Renewal - 6/14/16,CT,12912.0,,24,538.0,RENEWAL,,James Cuddy,(203) 513-8642,Family Law,,,,,Rob Roback
-a013200000nftft,0063200001kMeNh,Robin Kim,10/8/2015,Sepehr Daghighian - PI - Renewal - 10.5.2015,CA,49680.0,,24,2070.0,RENEWAL,,Sepehr Daghighian,(310) 887-1333,Personal Injury,,,,,Rob Roback
-a013200000o8Swv,0063200001mdCUi,Robin Kim,5/6/2016,Leslie Adams - BL and BT - Early Renewal - 05.04.2016,TX,51491.0,,36,1536.0,EARLY RENEWAL,,Leslie Adams,(713) 728-6360,Business - Litigation,Business - Transactional,,,,Rob Roback
-a013200000meok4,0063200001juZ48,Robin Kim,7/30/2015,Richard Vaznaugh - EL in Bay Area - Renewal,CA,34848.0,,36,968.0,RENEWAL,,Richard Vaznaugh,(415) 593-0076,Employment and Labor Law,,,,,Rob Roback
-a013200000mpecs,0063200001msPR3,Robin Kim,7/12/2016,Greg Pope - BK Renewal - 07.12.2016,OH,6950.0,,1,6950.0,RENEWAL,,Greg Pope,(614) 891-9500,"Bankruptcy, Banking and Credit",,,,,Rob Roback
-a013200000mpekK,0063200001mrRXB,Robin Kim,7/13/2016,Bryan Fagan - Fam - Early Renewal Upgrade - 06.28.2016,TX,24306.0,,36,1321.0,EARLY RENEWAL,Gill Cyester,Bryan J Fagan,(281) 810-9760,Family Law,,,,,Rob Roback
-a013200000mpewl,0063200001msKmL,Robin Kim,7/13/2016,Harold Douglas Powell Jr. - WTE Renewal - 7.11.2016,FL,7146.0,,18,397.0,RENEWAL,,H Douglas Powell,(321) 765-7615,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000ngEh1,0063200001kResP,Robin Kim,10/9/2015,Steve Matzuk - BL + Foreclosures - Renewal  - 10.9.2015,FL,7236.0,,12,603.0,RENEWAL,,Stephen Matzuk,(407) 898-3939,Business - Litigation,"Real Estate, Housing & Property Law",,,,Rob Roback
-a013200000o68vv,0063200001kMTeS,Robin Kim,10/5/2015,Alison Meyers - RE Upgrade - 10/1/2015,TX,4560.0,,12,380.0,UPGRADE,Gill Cyester,Alison Meyers,(713) 859-9271,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000molUp,0063200001mCen3,Robin Kim,5/18/2016,Matthew Faucette - Crim - Renewal 05.17.2016,NC,5508.0,,12,459.0,RENEWAL,,Matthew Faucette,(919) 844-5500,Criminal Law,,,,,Rob Roback
-a013200000mph3R,0063200001mr1Rg,Robin Kim,7/15/2016,Brian Hipp - Employ and CR - Renewal - 6.22.2016,IL,17856.0,,36,496.0,RENEWAL,,Brian Hipp,(630) 631-5192,Employment and Labor Law,Civil Rights & Discrimination,,,,Rob Roback
-a013200000nh4Z0,0063200001kMB5S,Robin Kim,10/12/2015,Steven McKinley 2015,CA,14400.0,,12,1200.0,HOTLEAD-phone,LegalMatch,Steven McKinley,(619) 297-3170,"Real Estate, Housing & Property Law",Business - Litigation,,,,Rob Roback
-a013200000meZyS,0063200001j8ZjO,Robin Kim,5/18/2015,"William Gorham III - Nicholas Scardigli - Robert Wasserman - Employ in BA, NCA,",CA,70168.0,,36,3053.0,EARLY RENEWAL,Gill Cyester,Robert Wasserman,(209) 477-3833,Employment and Labor Law,Employment and Labor Law,Employment and Labor Law,,,Rob Roback
-a013200000monC3,0063200001mobrN,Robin Kim,5/19/2016,Bob Farahan - Crim - Early Renewal - 05.19.2016,CA,29700.0,,36,900.0,EARLY RENEWAL,Jude Panaligan,Bob Farahan,(818) 687-1084,Criminal Law,,,,,Rob Roback
-a013200000o8Zuk,0063200001mdnem,Robin Kim,5/16/2016,Stephen Johnson - GP - Renewal - 05.12.2016,KS,6516.0,,12,543.0,RENEWAL,,Stephen W Johnson,(316) 282-7300,General Practice,,,,,Rob Roback
-a013200000oLVP5,0063200001krnSe,Robin Kim,10/19/2015,John Darrow - MM - Early Renewal - 10.19.2015,WA,21000.0,,1,21000.0,EARLY RENEWAL,Gill Cyester,John Darrow,(425) 369-2064,Medical Malpractice,,,,,Rob Roback
-a013200000meaLp,0063200001j8gx9,Robin Kim,5/19/2015,John Wesley Cusher - FL Renewal 05-19-15,OK,23508.0,,36,653.0,RENEWAL,,J. Wesley Cusher,(405) 843-5004,Criminal Law,,,,,Rob Roback
-a013200000moqg1,0063200001mobN3,Robin Kim,5/24/2016,Benjamin Eisenberger - RE Upgrade - 05.19.2016,NY,2072.0,2072.0,1,,UPGRADE,,Benjamin P. Eisenberger,(212) 406-2811,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000mpGca,0063200001mq7N3,Robin Kim,6/21/2016,Darrell Apffel - Crim - Self Gen - 06.09.2016,TX,6780.0,,12,565.0,HOTLEAD-phone,LegalMatch,Darrell Apffel,(403) 744-3597,Criminal Law,,,,,Rob Roback
-a013200000mpmAe,0063200001mrF9c,Robin Kim,7/21/2016,Robert Kessler - Crim Renewal - 06.24.2016,FL,7500.0,,1,7500.0,RENEWAL,,Robert Kessler,(410) 963-6116,Criminal Law,,,,,Rob Roback
-a013200000meac4,0063200001j8cJg,Robin Kim,5/21/2015,Thomas Lane PPL Renewal 05-21-2015,,,,,,RENEWAL,Ashley Wells,Jay Goodman,(505) 989-8117,Family Law,,,,,Rob Roback
-a013200000mpn26,0063200001nHyvo,Robin Kim,7/22/2016,Brian Rich - RE - Renewal 07.18.2016,MI,4776.0,,12,398.0,RENEWAL,,Brian Rich,(248) 788-3442,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000mfK6X,0063200001jwtti,Robin Kim,8/31/2015,Emily Marx - FL in South LA and Orange CA - Early Renewal Upgrade 08.28.2015,CA,20076.0,,36,1500.0,EARLY RENEWAL,Gill Cyester,Emily Marx,(949) 933-7760,Family Law,Family Law,,,,Rob Roback
-a013200000mouEg,0063200001mozst,Robin Kim,5/27/2016,Leicester Stovell - GP - Renewal 05.25.2016,DC,8964.0,,12,747.0,RENEWAL,,Leicester Stovell,(202) 302-0657,General Practice,,,,,Rob Roback
-a013200000oOg7G,0063200001kRUAo,Robin Kim,10/20/2015,Daniel Moffatt - Crim - LA and SoCal - Early Renewal - 10.7.15,CA,55041.0,,36,1931.0,EARLY RENEWAL,Jude Panaligan,Daniel Moffatt,(951) 870-6099,Criminal Law,Criminal Law,,,,Rob Roback
-a013200000oRoL0,0063200001krzAd,Robin Kim,10/21/2015,Jonathan Melmed - Employ Custom Central + Keywords - Early Renewal - 10.21.15,CA,17600.0,,36,550.0,EARLY RENEWAL,Jude Panaligan,Jonathan Melmed,(310) 824-3828,Employment and Labor Law,,,,,Rob Roback
-a013200000mexkM,0063200001jvuWY,Robin Kim,8/7/2015,Kevin O'Brien - PI - Renewal - 08-05-2015,IL,91008.0,,36,2528.0,RENEWAL,,Kevin M. O'Brien,(312) 583-9000,Personal Injury,,,,,Rob Roback
-a013200000mow7O,0063200001mp8dd,Robin Kim,5/31/2016,Michelle Moore - Crim - Renewal 05.26.2016,IL,19656.0,,36,546.0,RENEWAL,,Michelle Moore,(630) 871-1000,Criminal Law,,,,,Rob Roback
-a013200000mpO9d,0063200001mrKrk,Robin Kim,6/27/2016,John J. Smith - Fam Renewal - 6.27.2016,MI,4620.0,,12,385.0,RENEWAL,,Mark Bailey,(517) 267-2326,Family Law,,,,,Rob Roback
-a013200000o1b2s,0063200001kLML2,Robin Kim,9/18/2015,Lee Hacklander - FL - Renewal 09.16.2015,MN,17568.0,,24,732.0,RENEWAL,,Lee A Hacklander,(952) 894-6400,Family Law,,,,,Rob Roback
-a013200000o1kyV,0063200001kLRXx,Robin Kim,9/18/2015,Charlene Hunter - FL - Early Renewal Upgrade - 09.17.2015,CO,30400.0,,36,950.0,EARLY RENEWAL,Gill Cyester,Charlene Hunter,(720) 941-2800,Family Law,,,,,Rob Roback
-a013200000meRLj,0063200001j6YTr,Robin Kim,4/8/2015,Jonathan Raburn - Renewal Deal,LA,10728.0,0.0,36,298.0,RENEWAL,,Jonathan Raburn,(225) 412-2777,General Practice,Personal Injury,,,,Rob Roback
-a013200000mpr9Y,0063200001nIZrj,Robin Kim,7/27/2016,Mark J Miller - Crim Renewal - 07.26.2016,MN,16608.0,,24,692.0,RENEWAL,,Mark Miller,(612) 455-2560,Criminal Law,,,,,Rob Roback
-a013200000mprFR,0063200001mr0uX,Robin Kim,7/27/2016,Robert Larson - Family Renewal - 6.22.2016,AZ,31872.0,,24,1328.0,RENEWAL,,Robert Larson,(480) 459-6080,Family Law,,,,,Rob Roback
-a013200000o2BUL,0063200001kLNAy,Robin Kim,9/21/2015,Gerald Lee Cross - FL and Environmental Law - Renewal - 9.16.2015,KS,18504.0,,36,514.0,RENEWAL,,Gerald Lee Cross,(816) 454-5297,Family Law,Environmental Law,,,,Rob Roback
-a013200000oXdeP,0063200001kr42w,Robin Kim,10/23/2015,Brian Joslyn & Priya Tamilarasan - FL and Crim - Renewal Upgrade - 10.19.2015,OH,20160.0,,24,840.0,RENEWAL,,Brian Joslyn,(614) 444-1900,Family Law,Criminal Law,,,,Rob Roback
-a013200000melX7,0063200001jv2vw,Robin Kim,7/16/2015,Alison Meyers - Renewal 07.15.2015,TX,9336.0,3000.0,11,576.0,RENEWAL,,Alison Meyers,(713) 859-9271,Family Law,,,,,Rob Roback
-a013200000mpPgQ,0063200001mrRLS,Robin Kim,6/28/2016,Christopher Ferrara - BT Renewal - 06.28.2016,NJ,5400.0,,1,5400.0,RENEWAL,,Christopher Ferrara-Matt,(908) 429-1269,Business - Transactional,,,,,Rob Roback
-a013200000mpPm9,0063200001mrNx8,Robin Kim,6/28/2016,Jennifer Honeycutt - Crim & Fam - Early Renewal - 6.27.2016,TN,17560.0,,36,925.0,EARLY RENEWAL,,Jennifer Honeycutt,(615) 268-5108,Criminal Law,Family Law,,,,Rob Roback
-a013200000o2qs2,0063200001kLljx,Robin Kim,9/23/2015,Richard Bayless - WTE Statewide - Renewal - 09.22.2015,OR,13716.0,,36,381.0,RENEWAL,,Richard Bayless,(503) 223-1332 RETIRED,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000o30tW,0063200001kLXbE,Robin Kim,9/23/2015,Tracy Eichhorn-Hicks - Crim - Renewal 09.18.2015,MN,26640.0,,36,740.0,RENEWAL,,Mary H Eichhorn-Hicks,(952) 921-7250,Criminal Law,Criminal Law,,,,Rob Roback
-a013200000memIL,0063200001jvE8f,Robin Kim,7/21/2015,Joshua & William Estes - Renewal 07.20.2015,,67872.0,,24,2828.0,RENEWAL,,William Estes,(281) 238-5400,Personal Injury,,,,,Rob Roback
-a013200000mp2Jb,0063200001mpKeW,Robin Kim,6/6/2016,Michael Cussen - FL - Renewal - 05.31.2016,OH,11592.0,,24,483.0,RENEWAL,,Michael Cussen,(513) 421-4646,Family Law,,,,,Rob Roback
-a013200000mpQfx,0063200001mrRvJ,Robin Kim,6/29/2016,Freda Mcswane - GP renewal - 06.28.2016,,12204.0,,36,339.0,RENEWAL,,Freda H McSwane,(575) 257-1515,General Practice,,,,,Rob Roback
-a013200000o3BLE,0063200001jxj2W,Robin Kim,9/24/2015,Linda Walters - Renewal - 09.15.15,PA,39000.0,,36,1000.0,RENEWAL,,Linda Walters,(215) 836-1142,Family Law,,,,,Rob Roback
-a013200000meVwi,0063200001j7zBt,Robin Kim,5/1/2015,Johnny Hottenstein - GP with PI Upgrade 5-1-15,VA,17352.0,,36,592.0,EARLY RENEWAL,Darrin Harvey,"Johnny William Hottenstein, III",(703) 624-0769,General Practice,Personal Injury,,,,Rob Roback
-a013200000mecSw,0063200001j94ac,Robin Kim,5/29/2015,Emily Marx - FL in Orange CA - Change Renewal 05-29-2015,CA,26008.0,,36,1028.0,EARLY RENEWAL,Gill Cyester,Emily Marx,(949) 933-7760,Family Law,,,,,Rob Roback
-a013200000mfLRA,0063200001jwzHr,Robin Kim,9/8/2015,"Walter Haines - Discrimination, Wages & Overtime, Wrongful Term - Renewal 08.31.",CA,40000.0,,1,40000.0,RENEWAL,,Walter L Haines,(888) 474-7242,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
-a013200000mp2eA,0063200001mpUdz,Robin Kim,6/6/2016,Peter Alfinito - Crim - Self Gen 06.01.2016,NJ,14040.0,,24,585.0,SELF GEN,,Peter Alfinito,(856) 751-9282,Criminal Law,,,,,Rob Roback
-a013200000mpQzx,0063200001mrKyW,Robin Kim,6/29/2016,Bruce Coane & Arthur Mandel - Employ in FL - Renewal 06.27.2016,TX,7613.0,,1,7613.0,RENEWAL,,Bruce Coane,(713) 850-0066,Employment and Labor Law,,,,,Rob Roback
-a013200000ovW9n,0063200001kr6Hr,Robin Kim,10/28/2015,Charles Greenwood- Crim Early Renewal - 10.13.15,CO,23653.0,,36,773.0,EARLY RENEWAL,Jude Panaligan,Charles Greenwood,(303) 859-7055,Criminal Law,,,,,Rob Roback
-a013200000ovpio,0063200001ktuEV,Robin Kim,11/23/2015,Matthew Konecky - Crim - Renewal - 11.17.2015,FL,10368.0,,12,864.0,RENEWAL,,Matthew Konecky,(954) 272-6187,Criminal Law,,,,,Rob Roback
-a013200000owAQN,0063200001lLM1m,Robin Kim,12/29/2015,"Eric Shore - Employ, PI - Renewal and Upgrade - 12.29.2015",NJ,12311.0,,1,,RENEWAL,,Eric A. Shore,(215) 627-9999,Employment and Labor Law,Personal Injury,,,,Rob Roback
-a013200000p9so4,0063200001lzUYF,Robin Kim,4/8/2016,David H. Wollins - PI - Upgrade - 3.28.2017,,17424.0,,12,1452.0,UPGRADE,Gill Cyester,David Wollins,(303) 758-8900,Personal Injury,,,,,Rob Roback
-a013200000p9uDW,0063200001mM149,Robin Kim,4/11/2016,William Factor & Jeffrey Crane - BL - Renewal - 04.07.2016,IL,10968.0,,12,914.0,RENEWAL,,Jeffrey Crane,(847) 239-7239,Business - Litigation,,,,,Rob Roback
-a013200000pa1he,0063200001p1bCU,Robin Kim,2/23/2017,Jason Thompson - Crim Early Renewal - 02.22.2017,OR,13750.0,,1,13750.0,EARLY RENEWAL,,Paul Ferder,(503) 585-9197,Criminal Law,,,,,Rob Roback
-a013200000pa255,0063200001p1aie,Robin Kim,2/24/2017,Regina Molden - Employ Renewal - 02.22.2017,GA,15840.0,,24,660.0,RENEWAL,,Regina Molden,(404) 324-4500,Employment and Labor Law,,,,,Rob Roback
-a013200000qHwF4,0063200001pQvY2,Robin Kim,5/23/2017,Stephen Johnson - GP - Renewal - 05.23.2017,KS,12000.0,,24,500.0,RENEWAL,,Stephen W Johnson,(316) 282-7300,General Practice,,,,,Rob Roback
-a013200000ovrNW,0063200001kuLok,Robin Kim,11/25/2015,Kevin McNamara - PI - Cook - Renewal 11.24.2015,IL,20640.0,,12,1720.0,RENEWAL,,Kevin Mcnamara,(312) 201-8850 ext 106,Personal Injury,,,,,Rob Roback
-a013200000owB72,0063200001lKmY6,Robin Kim,12/30/2015,Richard Cohen - FL and PI - Renewal - 12.16.16,,28704.0,,24,1196.0,RENEWAL,,Richard J Cohen,(651) 645-0511,Family Law,Personal Injury,,,,Rob Roback
-a013200000p9KBw,0063200001lOQ8x,Robin Kim,2/22/2016,Christopher Mason - Employ Renewal - 02.12.16,WA,17208.0,,24,717.0,RENEWAL,,Christopher Cavallar Mason,(206) 621-7100,Employment and Labor Law,,,,,Rob Roback
-a013200000pZeFM,0063200001oOWkj,Robin Kim,12/27/2016,Linda Walters - FL Early Renewal - 12.22.16,PA,6800.0,,36,800.0,EARLY RENEWAL,,Linda Walters,(215) 836-1142,Family Law,,,,,Rob Roback
-a013200000pa27k,0063200001p1TpZ,Robin Kim,2/24/2017,Michael Reneau Transfer Agreement (org. Brett Shirk),Missouri,12870.0,,18,715.0,RENEWAL,,Michael Reneau,(816) 434-6200,Criminal Law,,,,,Rob Roback
-a013200000paENe,0063200001oNTAv,Suzanne Norgaard,3/22/2017,Susan Sullivan-Bisceglia - GP Self Gen - 3.20.2017,NY,15984.0,,36,444.0,SELF GEN,,Susan Sullivan-Bisceglia,(914) 755-0504,General Practice,,,,,Rob Roback
-a013200000ppErM,0063200001nuKz5,Robin Kim,10/4/2016,Bradley Bowles - PI Bay Area and Custom NCA - Renewal - 09.27.16,CA,51600.0,,1,51600.0,RENEWAL,,Bradley Bowles,(925) 935-3300,Personal Injury,,,,,Rob Roback
-a013200000qHwKt,0063200001nxo2x,Robin Kim,5/24/2017,Ryan Stephan - Employ in IL and NC - Renewal and Upgrade - 5.11.2017,,20259.0,,1,20259.0,RENEWAL,,Ryan Stephan,(312) 233-1550,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
-a013200000p93Fc,0063200001lNAT9,Robin Kim,1/28/2016,Marvin Leibowitz - BK - Renewal - 01.26.2016,PA,5750.0,,1,5750.0,RENEWAL,,Marvin Leibowitz,(412) 391-1191,"Bankruptcy, Banking and Credit",,,,,Rob Roback
-a013200000p93Fm,0063200001lNO0c,Robin Kim,1/28/2016,Farbood Majd - FL - Early Renewal - 01.28.2016,,8250.0,,36,1250.0,EARLY RENEWAL,,Farbood Majd,(310) 956-4600,Family Law,,,,,Rob Roback
-a013200000p9L6A,0063200001lwaBq,Robin Kim,2/23/2016,Regina Molden - Employ - Renewal - 02.22.2016,GA,8328.0,,12,694.0,RENEWAL,,Regina Molden,(404) 324-4500,Employment and Labor Law,,,,,Rob Roback
-a013200000pYid5,0063200001naqg4,Robin Kim,11/3/2016,Pete Meyers - RE Early Renewal - 10.31.2016,OR,8684.0,266.0,35,366.0,EARLY RENEWAL,,Pete Meyers,(971) 275-2994,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000pZsYF,0063200001oQo4x,Robin Kim,2/1/2017,Marvin Leibowitz - BK - Renewal - 01.27.2017,PA,3091.0,,1,3091.0,RENEWAL,,Marvin Leibowitz,(412) 391-1191,"Bankruptcy, Banking and Credit",,,,,Rob Roback
-a013200000paUuo,0063200001pU3hw,Robin Kim,4/17/2017,Thomas Mitchiner - Employ Early Renewal - 4.12.2017,CO,9350.0,,24,425.0,EARLY RENEWAL,Jude Panaligan,Thomas Mitchiner,(720) 538-0371,Employment and Labor Law,,,,,Rob Roback
-a013200000ppFcX,0063200001nu8z8,Robin Kim,10/6/2016,Gary Shapley - WTE Renewal - 09.23.2016,Texas,12720.0,,24,530.0,RENEWAL,,Gary Shapley,(713) 954-4887,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000ppFe9,0063200001nDSgr,Robin Kim,10/6/2016,Stephen Woodside - Employ Self Gen - 10.06.2016,PA,16824.0,,24,701.0,SELF GEN,,Stephen Woodside,(610) 278-2442,Employment and Labor Law,,,,,Rob Roback
-a013200000paKYX,0063200001pCT8t,Robin Kim,3/31/2017,Cristian Towers - Crim Renewal - 03.9.2017,NJ,17172.0,,36,477.0,RENEWAL,,Cristian Towers,(856) 438-5685,Criminal Law,,,,,Rob Roback
-a013200000p93ke,0063200001lNT5m,Robin Kim,1/29/2016,Nicholas Franz - FL - Renewal - 1.29.2016,WA,19188.0,,36,533.0,RENEWAL,,Nicholas R. Franz,(253) 272-9691,Family Law,,,,,Rob Roback
-a013200000pZWdr,0063200001nusWF,Robin Kim,12/2/2016,"Josh Eden - PI, Insurance, BT Self Gen - 12.2.2016",NM,9684.0,,18,538.0,SELF GEN,,Josh Eden,(505) 720-5339,Personal Injury,Insurance,Business - Litigation,,,Rob Roback
-a013200000pZWhj,0063200001ncdRp,Robin Kim,12/2/2016,"Emily Marx - FL, RE, BL - Early Renewal 11.28.2016",CA,18900.0,,36,2700.0,EARLY RENEWAL,,Emily Marx,(949) 933-7760,Family Law,"Real Estate, Housing & Property Law",Business - Litigation,,,Rob Roback
-a013200000pZXE7,0063200001nci72,Robin Kim,12/5/2016,Roger Yokubaitis - BK Early Renewal - 11.29.16,TX,15180.0,,36,460.0,EARLY RENEWAL,Jude Panaligan,Roger T. Yokubaitis,(713) 983-7430,"Bankruptcy, Banking and Credit",,,,,Rob Roback
-a013200000pZgXf,0063200001oNxvO,Robin Kim,1/4/2017,"Chris Kennelly - GP, PI, MM Renewal - 12.14.2016",ND,12600.0,,36,350.0,RENEWAL,,Chris Kennelly,(701) 478-4900,General Practice,Personal Injury,Medical Malpractice,,,Rob Roback
-a013200000pZt3L,0063200001oREoa,Robin Kim,2/2/2017,Lawrence Freiman - Employ SoCal - Renewal 02.02.2017,CA,36036.0,,36,1001.0,RENEWAL,,Lawrence W Freiman,(310) 917-1004,Employment and Labor Law,,,,,Rob Roback
-a013200000paVyW,0063200001pUUjq,Robin Kim,4/18/2017,William Factor & Jeffrey Crane - BL - Renewal - 04.17.17,IL,5898.0,,1,5898.0,RENEWAL,,Jeffrey Crane,(847) 239-7239,Business - Litigation,,,,,Rob Roback
-a013200000ppQ34,0063200001nxBiI,Robin Kim,5/5/2017,Gerald Dibble - GP and BK Renewal - 5.4.2017,NY,23292.0,,36,647.0,RENEWAL,,Gerald Dibble,(585) 271-1500,General Practice,"Bankruptcy, Banking and Credit",,,,Rob Roback
-a013200000qI00X,0063200001qKnIr,Robin Kim,6/26/2017,Michael Kernan - BL - Renewal - 06.27.2017,CA,48600.0,,36,1350.0,RENEWAL,,Michael Kernan,(310) 490-9777,Business - Litigation,,,,,Rob Roback
-a013200000qI0Cf,0063200001qKn75,Robin Kim,6/27/2017,Christopher Ferrara - BT Renewal - 06.26.2017,NJ,5400.0,5400.0,1,5400.0,RENEWAL,,Christopher Ferrara-Matt,(908) 429-1269,Business - Transactional,,,,,Rob Roback
-a013200000ovueU,0063200001kuWzL,Robin Kim,12/1/2015,Christopher Berlingieri - Employ - Early Renewal - 11.30.2015,NY,18000.0,,36,1250.0,EARLY RENEWAL,Jude Panaligan,Christopher Berlingieri,(347) 766-5185,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
-a013200000p9xPT,0063200001mMYGj,Robin Kim,4/14/2016,Jonathan Melmed - Employ & Keywords - Early Renewal Upgrade - 04.14.2016,CA,11530.0,,36,780.0,EARLY RENEWAL,Alena Matthews,Jonathan Melmed,(310) 824-3828,Employment and Labor Law,,,,,Rob Roback
-a013200000pZic1,0063200001oOnyV,Robin Kim,1/9/2017,Jon MacLeod - Employ Renewal - 12.29.2016,WA,5544.0,,12,462.0,RENEWAL,,Jon W MacLeod,(206) 357-8470,Employment and Labor Law,,,,,Rob Roback
-a013200000pZica,0063200001oOkGE,Robin Kim,1/9/2017,Edward Cohn - GP Renewal - 12.28.2016,AZ,9810.0,,18,545.0,RENEWAL,,Edward Cohn,(617) 780-4316,General Practice,,,,,Rob Roback
-a013200000pa3p3,0063200001p1d88,Robin Kim,2/28/2017,Kenneth Jannette - Crim Renewal - 02.22.2017,MI,17424.0,,36,484.0,RENEWAL,,Kenneth Jannette,(313) 324-8990,Criminal Law,,,,,Rob Roback
-a013200000paH7W,0063200001pFQvj,Robin Kim,3/28/2017,Kenneth Wasserman - WTE Renewal - 03.27.2017,NY,13250.0,,1,13250.0,RENEWAL,,Kenneth Wasserman,(212) 244-3399,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000pdV90,0063200001neYS1,Robin Kim,9/13/2016,Teresa Williams - Crim Renewal - 09.12.2016,FL,14760.0,,24,615.0,RENEWAL,,Teresa Williams,(954) 761-9131,Criminal Law,,,,,Rob Roback
-a013200000ppGrP,0063200001nvIT2,Robin Kim,10/10/2016,Richard Stavin - Employ Renewal - 10.10.2016,CA,47016.0,,36,1306.0,RENEWAL,,Richard Stavin,(818) 348-8464,Employment and Labor Law,,,,,Rob Roback
-a013200000ppQpw,0063200001pViAs,Robin Kim,5/8/2017,"Brad Dozier - Fam, GP and WTE Early Renewal Upgrade - 5.1.2017",TN,20600.0,,36,600.0,UPGRADE,Gill Cyester,S. Brad Dozier,(615) 259-2670,Family Law,Family Law,,"Wills, Trusts and Estates",,Rob Roback
-a013200000oveDR,0063200001ktAtc,Robin Kim,11/6/2015,Mark Mackie - BL Renewal - 11.6.2015,TX,8868.0,,12,739.0,RENEWAL,,Mark Mackie,(214) 755-2014,Business - Litigation,,,,,Rob Roback
-a013200000ovfRP,0063200001ks7dY,Robin Kim,11/5/2015,"Nichole Hatcher - WTE, BL, BT & PI in MD and NC - Early Renewal - 10.22.15",NC,97215.0,,36,2900.0,EARLY RENEWAL,Jude Panaligan,Nichole Hatcher,(443) 790-7608,"Wills, Trusts and Estates","Wills, Trusts and Estates",Business - Litigation,Personal Injury,Business - Litigation; Business - Transactional,Rob Roback
-a013200000ovwOk,0066000001MFVVB,Robin Kim,12/3/2015,"Regel Bisso - RE, BT, WTE, Construc - Early Renewal - 11.4.2015",LA,19764.0,,43,549.0,EARLY RENEWAL,Jude Panaligan,Regel Bisso,(504) 830-3401,"Real Estate, Housing & Property Law",Business - Transactional,"Wills, Trusts and Estates",Construction,,Rob Roback
 a013200000pZipB,0063200001oPShg,Robin Kim,1/9/2017,Christian Connolly - Imm Renewal - 1.9.2017,CA,18058.0,,24,787.0,EARLY RENEWAL,,Christian Connolly,(828) 335-9236,Immigration,,,,,Rob Roback
 a013200000pZuyw,0063200001oz7kR,Robin Kim,2/7/2017,Mark Merlanti - RE Renewal - 2.7.2017,,7092.0,,12,591.0,RENEWAL,,Mark Merlanti,(248) 855-6500,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000pZNbI,0063200001nb1pj,Robin Kim,11/9/2016,"Rick Moore - FL, RE, WTE, BL, BT - Early Renewal - 11/02/16",OK,25320.0,600.0,35,800.0,EARLY RENEWAL,,Rick Dane Moore,(405) 366-0373,Family Law,"Real Estate, Housing & Property Law","Wills, Trusts and Estates",Business - Litigation,Business - Transactional,Rob Roback
-a013200000pZZAa,0063200001oNVEA,Robin Kim,12/9/2016,Matthew Konecky - Crim - Renewal - 12.7.2016,FL,9108.0,,12,759.0,RENEWAL,,Matthew Konecky,(954) 272-6187,Criminal Law,,,,,Rob Roback
 a013200000paHer,0063200001pEovQ,Robin Kim,3/29/2017,Bruce Coane -Employ TX Renewal - 03.23.2017,TX,9871.0,,1,9871.0,RENEWAL,,Bruce Coane,(713) 850-0066,Employment and Labor Law,,,,,Rob Roback
-a013200000ovyhb,0063200001kuXlf,Robin Kim,12/7/2015,Michael Gould - Employ SoCal - Renewal - 11.30.2015,CA,40680.0,,36,1130.0,RENEWAL,,Michael A. Gould,(714) 669-2850,Employment and Labor Law,,,,,Rob Roback
-a013200000p9hkv,0063200001m03sJ,Robin Kim,3/24/2016,Patrick Fitz-Gerald - Crim - Renewal - 03.25.2016,CO,31644.0,,36,879.0,RENEWAL,,Patrick Fitz-Gerald,(303) 860-7353,Criminal Law,,,,,Rob Roback
-a013200000p9hmD,0063200001lx1Bg,Robin Kim,3/24/2016,Ryan Stephan - Employ - Early Renewal and Upgrade - 3.22.2016,IL,16490.0,9990.0,1,6500.0,UPGRADE,Jude Panaligan,Ryan Stephan,(312) 233-1550,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
-a013200000pYS8F,0063200001nCydt,Robin Kim,8/4/2016,Robin Becker - FL Renewal - 08.06.2016,,26640.0,,36,740.0,RENEWAL,,Robin Becker,(312) 386-1467,Family Law,,,,,Rob Roback
-a013200000pYSWm,0063200001nIvRy,Robin Kim,8/5/2016,Thomas Goodreid - BL Early Renewal  - 8.01.2016,CO,4760.0,,36,405.0,EARLY RENEWAL,,Thomas Goodreid,(303) 962-8626,Business - Litigation,,,,,Rob Roback
-a013200000pZaEZ,0063200001oNnHJ,Robin Kim,12/13/2016,Christopher Taylor - Employ - Renewal - 12.12.16,CA,15456.0,,12,1288.0,RENEWAL,,Christopher W. Taylor,(626) 219-6008,Employment and Labor Law,,,,,Rob Roback
 a013200000pZwX7,0063200001ozLHN,Robin Kim,2/10/2017,India Footman - BK and Employ - Self Gen - 2.9.2017,FL,6720.0,,24,280.0,HOTLEAD-phone,,India Footman,(850) 597-7396,"Bankruptcy, Banking and Credit; Employment and Labor Law",,,,,Rob Roback
 a013200000pa75b,0063200001p0Hfk,Robin Kim,3/7/2017,Denise Jarman & Joel Westbrook - Insurance - Early Renewal - 02.16.2017,CA,16499.0,,36,667.0,EARLY RENEWAL,,Joel Westbrook,(925) 938-4500,Insurance,,,,,Rob Roback
 a013200000pa7Kz,0063200001pC28C,Robin Kim,3/8/2017,Ernesto Garcia - BK Self Gen - 03.07.2017,TX,15264.0,,24,636.0,SELF GEN,,Ernesto Garcia,(832) 305-7694,"Bankruptcy, Banking and Credit",,,,,Rob Roback
 a013200000paKVE,0063200001pSZmJ,Robin Kim,3/31/2017,Peggy Golden & Karen Malachi - FL Renewal 3.30.2017,GA,1080.0,,1,1080.0,RENEWAL,,Peggy Golden,(404) 870-0887,Family Law,,,,,Rob Roback
-a013200000ovzqX,0063200001kuZVz,Robin Kim,12/8/2015,Christopher Taylor - Employ - Renewal - 11.30.2015,CA,14832.0,,12,1236.0,RENEWAL,,Christopher W. Taylor,(626) 219-6008,Employment and Labor Law,,,,,Rob Roback
-a013200000p98xl,0063200001lM3tg,Robin Kim,2/5/2016,Constance Lowe - GP - Renewal - 01.11.2016,NC,9216.0,,36,256.0,RENEWAL,,Constance Lowe,(919) 423-8059,General Practice,,,,,Rob Roback
-a013200000pYSi0,0063200001nIvIj,Robin Kim,8/5/2016,Paul Lytle & Allan Milan - Crim Early Renewal Upgrade - 8.01.2016,IL,28546.0,,36,1134.0,UPGRADE,Gill Cyester,Paul Lytle,(312) 690-4111,Criminal Law,,,,,Rob Roback
-a013200000pZah6,0063200001oNVNM,Robin Kim,12/14/2016,Benjamin Eisenberger - WTE Renewal - 12.7.2016,,2837.0,,1,2837.0,RENEWAL,,Benjamin P. Eisenberger,(212) 406-2811,"Wills, Trusts and Estates",,,,,Rob Roback
 a013200000q3yLd,0063200001pTO7Y,Robin Kim,4/28/2017,Cyrus Hosseini - RE Early Renewal - 4.28.2017,IL,23796.0,,36,873.0,EARLY RENEWAL,Gill Cyester,Cyrus Kurosh K. Hosseini,(847) 868-8914,"Real Estate, Housing & Property Law",,,,,Rob Roback
 a013200000qI1Lf,0063200001pRREd,Robin Kim,7/5/2017,Tamara Segal - PI and MM in TX - Renewal 06.30.2017,TX,81468.0,,36,,RENEWAL,,Tamara Segal,(972) 757-1717,Personal Injury,Medical Malpractice,,,,Rob Roback
-a013200000ovhWT,0063200001kso46,Robin Kim,11/11/2015,Jeremy Yates - WTE - Renewal - 11.2.2015,WA,2150.0,,3,,RENEWAL,,Jeremy P Yates,(206) 686-0222,"Wills, Trusts and Estates",,,,,Rob Roback
 a013200000pa8Ir,0063200001pBquk,Robin Kim,3/9/2017,Alan Grossman - RE Renewal - 03.06.2017,FL,20880.0,,36,580.0,RENEWAL,,Alan Grossman,(786) 406-1763,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000pp80q,0063200001ntptW,Robin Kim,9/20/2016,"Walter Haines - Discrimination, Wages & Overtime, Wrongful Term - Renewal 09.20.",CA,43000.0,,1,43000.0,RENEWAL,,Walter L Haines,(888) 474-7242,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
 a013200000q3zrU,0063200001pVsQA,Robin Kim,5/1/2017,Kevin Raudt - FL and Crim Renewal - 04.27.2017,FL,21600.0,,36,600.0,RENEWAL,,Kevin Raudt,(954) 478-6249,Family Law,Criminal Law,,,,Rob Roback
 a013200000qI1Q3,0063200001qLB8x,Robin Kim,7/6/2017,Benjamin Eisenberger - WTE Renewal - 07.05.2017,,3800.0,3800.0,1,3800.0,RENEWAL,,Benjamin P. Eisenberger,(212) 406-2811,"Wills, Trusts and Estates",,,,,Rob Roback
 a010e00000raio1,0060e00001w5BRg,Robin Kim,4/6/2020,Cristian Towers - Crim Renewal - 2020,NJ,18360.0,,36,510.0,RENEWAL,,Cristian Towers,(856) 438-5685,Criminal Law,,,,,Rob Roback
-a013200000p9TIW,0063200001kro29,Robin Kim,3/4/2016,Ryan Winters - Custom Employ - Early Renewal - 3.3.2016,OH,21970.0,,36,630.0,UPGRADE,Jude Panaligan,Ryan Winters,(440) 498-9100,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
-a013200000pZRwM,0063200001nbPbL,Robin Kim,11/18/2016,Allen Early - Crim Early Renewal - 11.8.16,MI,7524.0,,24,396.0,EARLY RENEWAL,Jude Panaligan,Allen Early,(313) 962-2320,Criminal Law,,,,,Rob Roback
 a013200000pZoAR,0063200001oQ7il,Robin Kim,1/20/2017,Earl Cohen - WTE Renewal -  1.17.2017,MN,11325.0,,36,325.0,EARLY RENEWAL,,Earl Cohen,(952) 941-4005,"Wills, Trusts and Estates",,,,,Rob Roback
 a013200000pZoFg,0063200001oQHMO,Robin Kim,1/20/2017,John Alastra - FL Renewal - 1.20.2017,,16200.0,,36,450.0,RENEWAL,,John Alastra,(614) 378-7623,Family Law,,,,,Rob Roback
-a013200000pdOos,0063200001ndivw,Robin Kim,8/30/2016,James Pardi - Fam Early Renewal - 08.30.2016,OH,12120.0,,36,395.0,EARLY RENEWAL,,James Pardi,(614) 221-2580 DNC,Family Law,,,,,Rob Roback
-a013200000pp9X5,0063200001nhSSu,Robin Kim,9/22/2016,Barry Mittelberg - PI Renewal - 09.18.2016,FL,31044.0,,12,2587.0,RENEWAL,,Barry Mittelberg,(954) 752-1213,Personal Injury,,,,,Rob Roback
-a013200000ovknN,0063200001ktnH0,Robin Kim,11/16/2015,David H. Wollins - EL - Renewal - 11.16.2015,CO,25872.0,,24,1078.0,RENEWAL,,David Wollins,(303) 758-8900,Employment and Labor Law,,,,,Rob Roback
-a013200000p9UmR,0063200001lwIaj,Robin Kim,3/7/2016,"Brodney Moses - FL, Crim, Employ - Self Gen - 02.25.2016",TX,7200.0,,24,300.0,SELF GEN,,Brodney Moses,(432) 704-5342,Family Law,Criminal Law,Employment and Labor Law,,,Rob Roback
-a013200000p9lYF,0063200001mLGBl,Robin Kim,3/30/2016,David Zaslavsky - FL Renewal - 03.28.2016,NY,26640.0,,36,740.0,RENEWAL,,David Zaslavsky,(347) 289-5886,Family Law,,,,,Rob Roback
-a013200000pYW33,0063200001nDXdA,Robin Kim,8/11/2016,Graham Hollis - Employ - Central CA Renewal - 08.11.2016,CA,6651.0,,1,6651.0,RENEWAL,,Graham Hollis,(619) 692-0800,Employment and Labor Law,,,,,Rob Roback
 a013200000pZofh,0063200001oQ1iN,Cesar Gomez,1/23/2017,Matthew Hayes - Employ Renewal - 1.17.2017,CA,42588.0,,36,1183.0,RENEWAL,,Matthew Hayes,(626) 808-4357,Employment and Labor Law,,,,,Rob Roback
-a013200000pdOpR,0063200001nddoo,Robin Kim,8/30/2016,William Collins - Fam Renewal - 08.29.2016,Ok,10080.0,,24,420.0,RENEWAL,,William F Collins,(405) 606-8745,Family Law,,,,,Rob Roback
 a013200000qI1vd,0063200001qLLTs,Robin Kim,7/11/2017,Ryan Stephan - Employ in PA - Upgrade - 7.10.2017,IL,4714.0,4714.0,1,4714.0,UPGRADE,,Ryan Stephan,(312) 233-1550,Employment and Labor Law,,,,,Rob Roback
-a013200000p9DoF,0063200001lOKix,Robin Kim,2/12/2016,Diana Brown - FL Renewal - 01.11.2016,TX,27576.0,,36,766.0,RENEWAL,,Diana M. Brown,(713) 367-9508,Family Law,,,,,Rob Roback
-a013200000pZTKH,0063200001ncFhL,Robin Kim,11/22/2016,Gary Conwell - FL Renewal - 11/21/16,Kansas,9024.0,,24,376.0,RENEWAL,,Gary Conwell,(785) 235-3415,Family Law,,,,,Rob Roback
-a013200000pZTg5,0063200001ncGiw,Robin Kim,11/23/2016,Kevin McNamara - PI - Cook - Renewal - 11.21.2016,IL,57276.0,,36,1591.0,RENEWAL,,Kevin Mcnamara,(312) 201-8850 ext 106,Personal Injury,,,,,Rob Roback
-a013200000pZcIf,0063200001oO2Vb,Robin Kim,12/19/2016,Michael Raheb - Crim Upgrade - 12.15.2016,FL,1482.0,,1,1482.0,UPGRADE,Cesar Gomez,Michael M. Raheb,(239) 226-0888,Criminal Law,,,,,Rob Roback
 a013200000paRC1,0063200001pTryf,Robin Kim,4/10/2017,Frank Malatesta - Employ Southern FL - Upgrade 4.10.2017,FL,25452.0,,36,707.0,UPGRADE,Jude Panaligan,Frank Malatesta,(941) 256-3812,Employment and Labor Law,,,,,Rob Roback
-a013200000ppAxe,0063200001nu49m,Robin Kim,9/26/2016,Greg Peterson - Fam Early Renewal Upgrade - 09.22.2016,CT,20328.0,,36,900.0,EARLY RENEWAL,,Gregory Peterson,(203) 248-8700,Family Law,,,,,Rob Roback
-a013200000ppLdG,0063200001nw4fW,Robin Kim,10/21/2016,Steve Matzuk - BL + Foreclosures - Renewal - 10.20.2016,FL,14112.0,,24,588.0,RENEWAL,,Stephen Matzuk,(407) 898-3939,Business - Litigation,"Real Estate, Housing & Property Law",,,,Rob Roback
 a013200000qI2Cj,0063200001qLVdM,Robin Kim,7/14/2017,Greg Pope - BK Renewal - 07.13.2017,OH,7100.0,7100.0,1,7100.0,RENEWAL,,Greg Pope,(614) 891-9500,"Bankruptcy, Banking and Credit",,,,,Rob Roback
-a013200000ovmcJ,0063200001kso88,Robin Kim,1/27/2016,Colleen McClure - RE- Renewal - 1.14.2016,TX,16560.0,,36,460.0,RENEWAL,Jude Panaligan,Colleen McClure,(281) 440-1625,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000ovmkh,0063200001ktd9l,Robin Kim,11/18/2015,Theodore Shih - FL Early Renewal - 11.13.2015,CO,27580.0,,36,985.0,EARLY RENEWAL,Jude Panaligan,Ted Shih,(303) 475-2981,Family Law,,,,,Rob Roback
-a013200000ow76v,0063200001lKdSa,Robin Kim,12/21/2015,"Graham Hollis - Employ - Bay Area, LA/OC, Riverside, SAC/SD - Early Renewal 12.1",CA,143000.0,,1,143000.0,EARLY RENEWAL,Gill Cyester,Graham Hollis,(619) 692-0800,Employment and Labor Law,Employment and Labor Law,Employment and Labor Law,Employment and Labor Law,,Rob Roback
-a013200000pZcZT,0063200001oO48f,Robin Kim,12/19/2016,Michael Raheb - FL Crim Early Renewal - 12.15.2016,FL,9933.0,,,,EARLY RENEWAL,,Michael M. Raheb,(239) 226-0888,Family Law,Criminal Law,,,,Rob Roback
 a013200000pa1a9,0063200001p0GsB,Robin Kim,2/23/2017,Christopher Phillippe - GP Renewal - 02.16.17,TX,12600.0,,36,350.0,RENEWAL,,Chris Phillippe,(956) 544-6096,General Practice,,,,,Rob Roback
-a013200000ppCRC,0063200001nu8V3,Robin Kim,9/29/2016,Michael Rabieh - RE - Self Gen - 09.23.2016,MA,6540.0,,12,545.0,SELF GEN,,Michael Rabieh,(617) 475-5273,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000ppMFb,0063200001nwB1R,Robin Kim,10/24/2016,Steven Lehr - WTE Renewal - 10.21.16,NJ,13500.0,,1,13500.0,RENEWAL,,Steven R Lehr,(973) 575-8002,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000ow7lZ,0063200001lKeHT,Robin Kim,12/22/2015,Joseph Barber 2015,UT,7350.0,,24,350.0,EARLY RENEWAL,Jude Panaligan,Joseph Barber,(801) 531-8400,Family Law,,,,,Rob Roback
-a013200000ow7o4,0063200001kukX5,Robin Kim,12/22/2015,Julian Poota - Crim - Renewal - 12.2.2015,MI,14880.0,,24,620.0,RENEWAL,,Julian J. Poota,(248) 356-8900,Criminal Law,,,,,Rob Roback
-a013200000ow8Cn,0063200001lL9d9,Robin Kim,12/22/2015,Ralph Bradley - FL - Renewal - 12.22.2015,OR,5868.0,,12,489.0,RENEWAL,,Ralph A Bradley,(541) 344-3446,Family Law,,,,,Rob Roback
-a013200000p8zt2,0063200001lMtRU,Robin Kim,1/22/2016,Stephen Heller - PI in LA - Renewal - 01.22.2016,CA,43800.0,,12,3650.0,RENEWAL,,Stephen H. Heller,(818) 591-6388,Personal Injury,,,,,Rob Roback
-a013200000p9H1p,0063200001lMVQw,Robin Kim,2/17/2016,Denise Jarman & Joel Westbrook - Insurance - Renewal - 1.19.2016,CA,16392.0,,24,683.0,RENEWAL,,Joel Westbrook,(925) 938-4500,Insurance,,,,,Rob Roback
-a013200000pYYVQ,0063200001nYn4e,Robin Kim,8/18/2016,John Peluso - GP Early Renewal - 8/16/16,IN,18995.0,,36,580.0,EARLY RENEWAL,,John Peluso,(312) 246-0143,General Practice,,,,,Rob Roback
-a013200000ppD2p,0063200001neHc0,Robin Kim,9/30/2016,Richard Pazin - RE renewal - 09.07.2016,CA,6675.0,,15,445.0,RENEWAL,,Richard J Pazin Jr,(510) 227-5270,"Real Estate, Housing & Property Law",,,,,Rob Roback
-a013200000p91Cv,0063200001lN3HF,Robin Kim,1/25/2016,David Volman - FL - Renewal - 01.25.2016,CT,6000.0,,12,500.0,RENEWAL,,David Volman,(203) 331-6153,Family Law,,,,,Rob Roback
-a013200000p9IgI,0063200001lwNzW,Robin Kim,2/19/2016,Stephen Stine - BL - Early Renewal - 2.17.2016,VA,13078.0,,24,596.0,EARLY RENEWAL,,Stephen Stine,(703) 934-4647,Business - Litigation,,,,,Rob Roback
-a013200000p9XTO,0063200001lxscM,Robin Kim,3/10/2016,Rich McIntyre - Crim - Renewal - 3.8.2016,FL,11484.0,,12,957.0,RENEWAL,,Richard J. McIntyre,(813) 223-0000,Criminal Law,,,,,Rob Roback
-a013200000pZV8n,0063200001ncR2N,Robin Kim,11/29/2016,Frank Malatesta - Employ - Early Renewal Upgrade - 12.7.16,FL,23344.0,,36,804.0,EARLY RENEWAL,Cesar Gomez,Frank Malatesta,(941) 256-3812,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
 a010e00000mimMP,0060e00001qpoEM,Robin Kim,12/15/2017,Randy Fleischer - Early Employ Renewal - 12.14.2017,FL,17183.0,554.0,36,,EARLY RENEWAL,Jude Panaligan,Randy A Fleischer,(954) 472-8401,Employment and Labor Law,,,,,Rob Roback
-a013200000mewim,0063200001jvxjW,Robin Kim,8/6/2015,Randy Fleischer - Employ Renewal - 08.06.2015,FL,19635.0,,36,595.0,EARLY RENEWAL,Gill Cyester,Randy A Fleischer,(954) 472-8401,Employment and Labor Law,,,,,Rob Roback
 a010e00000rar3i,0060e00001x7UHC,Robin Kim,5/13/2020,Jeffrey Burg - Employ + Civil Renewal - 2020,MI,20412.0,530.0,36,,RENEWAL,,Jeffrey Burg,(248) 227-5027,Employment and Labor Law,Civil Rights & Discrimination,,,,Rob Roback
 a010e00000raw0g,0060e00001x8qJB,Robin Kim,5/28/2020,Randy Fleischer - Employ Early Renewal - 2020,FL,18652.0,599.0,36,,EARLY RENEWAL,,Randy A Fleischer,(954) 472-8401,Employment and Labor Law,,,,,Rob Roback
 a013200000pZuRq,0063200001oyuJE,Robin Kim,2/6/2017,Jeffrey Burg - Employ & Civil Renewal - 02.03.2017,MI,20052.0,,36,557.0,RENEWAL,,Jeffrey Burg,(248) 227-5027,Employment and Labor Law,Civil Rights & Discrimination,,,,Rob Roback
-a016000000if4B6,0066000000wc3Xf,Robin Kim,2/4/2015,Myong Chung - Criminal Oklahoma Upgrade,OK,17244.0,,36,479.0,SELF GEN,,Myong Chung,(405) 447-4770 DISC,Criminal Law,,,,,Rob Roback
-a016000000htgKg,0066000001hMm4z,Robin Kim,3/12/2015,Marck Joseph - Deal,FL,7376.0,,1,7376.0,SELF GEN,,Marck Joseph,(786) 285-7962,Family Law,,,,,Rob Roback
-a016000000iemXt,0066000001aNLIh,Robin Kim,1/15/2015,Stephen Danz - LA Renewal 01.13.2015,CA,15024.0,,12,1252.0,RENEWAL,,Stephen Danz,(877) 789-9707,Employment and Labor Law,,,,,Rob Roback
-a016000000ieqRx,0066000001EaFoK,Robin Kim,1/20/2015,Justin Miller - FL Added Upgrade 01.13.2015,,14265.0,,,,UPGRADE,Audel Lashgari,Justin Miller,(330) 421-8579,General Practice,,,,,Rob Roback
-a016000000iedvn,0066000001MGP41,Robin Kim,1/6/2015,Mark Merlanti - RE Renewal 1.5.2015,,3402.0,,1,3402.0,RENEWAL,LegalMatch,Mark Merlanti,(248) 855-6500,"Real Estate, Housing & Property Law",,,,,Rob Roback
 a014y00000YT4NY,0064y0000136795,Robin Kim,6/3/2022,Barry Mittelberg - PI East Early Renewal - 2022,,90444.91,2630.0,36,,EARLY RENEWAL,,Barry Mittelberg,(954) 752-1213,Personal Injury,,,,,Rob Roback
 a014y00000YT4QN,0064y000014J0rv,Robin Kim,6/3/2022,Barry Mittelberg - PI West Upgrade - 2022,,92880.0,2411.0,36,,UPGRADE,,Barry Mittelberg,(954) 752-1213,Personal Injury,,,,,Rob Roback
 a014y00000YQPws,0064y000015de3o,Robin Kim,8/29/2022,Charles David Jones - WTE Upgrade - 2022,TX,21276.0,552.0,36,,UPGRADE,,Charles David Jones,(817) 472-8727,"Wills, Trusts and Estates",,,,,Rob Roback
 a014y00000Zqs7G,0064y00000zFI9Q,Robin Kim,8/4/2021,J. Clarke Wilcox - WTE Renewal - 2021,TX,21084.0,849.0,24,,RENEWAL,,J Clarke Wilcox,(888) 593-5337,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000o68xr,0063200001kMXJE,Robin Kim,10/5/2015,Kara Holtz - Renewal North Bay - 10-2-2015,CA,5100.0,,12,425.0,RENEWAL,,Kara Holtz,(415) 785-4129,Family Law,,,,,Rob Roback
-a013200000ppGFL,0063200001nuzfY,Robin Kim,10/7/2016,Kara Holtz - Renewal North Bay - 10-5-2016,CA,14400.0,,36,400.0,RENEWAL,,Kara Holtz,(415) 785-4129,Family Law,,,,,Rob Roback
 a010e00000raBRK,0060e00001v41ht,Robin Kim,11/1/2019,Christina Pisikian - Civil Early Renewal - 2019,CA,25065.0,857.0,36,,EARLY RENEWAL,,Christina Pisikian,(818) 644-9681,Civil Rights & Discrimination,,,,,Rob Roback
 a010e00000r8equ,0060e00001tgWKK,Robin Kim,4/17/2019,William Pigg - Fam + Crim Early Renewal - 2019,TX,56953.0,1848.0,36,,EARLY RENEWAL,,William Pigg,(214) 551-9391,Family Law,Criminal Law,,,,Rob Roback
 a010e00000raB4Y,0060e00001v2eIl,Robin Kim,10/31/2019,Ian Horn - BK Early Renewal - 2019,FL,15526.6,562.0,36,,EARLY RENEWAL,,Ian Horn,(813) 545-1067,"Bankruptcy, Banking and Credit",,,,,Rob Roback
@@ -1121,7 +773,6 @@ a014y00000e17hZ,0064y000011m40M,Robin Kim,2/1/2022,Mark Merlanti - RE Renewal - 
 a014y00000e18Dp,0064y000011m2lp,Robin Kim,2/1/2022,Bryan J. Fagan - Fam Renewal - 2022,TX,64152.0,1665.0,36,,RENEWAL,,Bryan J Fagan,(281) 810-9760,Family Law,,,,,Rob Roback
 a014y00000ZUA3W,0064y00000zFzat,Robin Kim,2/28/2022,Joseph Barber - Fam Early Renewal - 2022,Utah,13034.0,358.0,36,,EARLY RENEWAL,,Joseph Barber,(801) 531-8400,Family Law,,,,,Rob Roback
 a014y00000e18En,0064y000011Fc85,Robin Kim,2/1/2022,Yasmine Smith & Tara Bice - WTE Renewal - 2021,TX,8184.0,682.0,12,,RENEWAL,,Yasmine Smith,(512) 893-6526,"Wills, Trusts and Estates",,,,,Rob Roback
-a014y00000gkeqA,0064y000015ea9B,Robin Kim,9/20/2022,Teresa Hensley - Crim Renewal - 2022,MO,31380.0,1257.0,24,,RENEWAL,,Teresa Hensley,(816) 322-4466,Criminal Law,,,,,Rob Roback
 a014y00000e1GDv,0064y000011mMzG,Robin Kim,2/15/2022,Michelle Domer - Fam Early Renewal - 2022,IN,13366.75,402.0,36,,EARLY RENEWAL,,Michelle Berry Domer,(812) 336-8300,Family Law,,,,,Rob Roback
 a014y00000ZqsCL,0064y00000zFVIA,Robin Kim,8/17/2021,Joel Murillo - Crim Renewal - 2021,CA,9648.0,250.0,36,,RENEWAL,,Joel M Murillo,(559) 268-7227,Criminal Law,,,,,Rob Roback
 a014y00000YQJAY,0064y000013X9FC,Robin Kim,8/5/2022,Joseph Coluccio - WTE Renewal Upgrade - 2022,FL,13908.0,1159.0,12,,UPGRADE,,Joseph Coluccio,(321) 622-8127,"Wills, Trusts and Estates",,,,,Rob Roback
@@ -1143,7 +794,6 @@ a010e00000pH7zc,0060e00001rR5v1,Robin Kim,4/30/2018,Steve Hirschey- Fam - Early 
 a010e00000qbRwa,0060e00001yk2yl,Robin Kim,12/30/2020,Ronald B. Greene - BK + Fam Renewal - 2020,MD,5352.0,446.0,12,,RENEWAL,,Ronald B. Greene,(301) 577-1300,"Bankruptcy, Banking and Credit",Family Law,,,,Rob Roback
 a010e00000qq846,0060e00001s77AE,Robin Kim,9/18/2018,Daniel Prince - RE Early Renewal - 2018,WA,6636.0,288.0,36,,EARLY RENEWAL,Gabriel Rodriguez,Daniel R Prince,(503) 930-9085,"Real Estate, Housing & Property Law",,,,,Rob Roback
 a010e00000rIb9w,0060e00001xOrbu,Robin Kim,6/26/2020,Patrick Mangan - WTE Renewal - 2020,OH,6828.0,275.0,24,,RENEWAL,,Patrick Mangan,(614) 823-6000,"Wills, Trusts and Estates",,,,,Rob Roback
-a013200000p8qIa,0063200001lLjoT,Robin Kim,1/7/2016,Steve Hirschey- FL - Early Renewal - 01.06.2016,CO,27624.0,,36,839.0,EARLY RENEWAL,Gill Cyester,Steve Hirschey,(303) 988-5543,Family Law,,,,,Rob Roback
 a014y00000ZJ6Kq,0064y00000xn0RQ,Robin Kim,5/18/2021,Daniel Prince - RE Early Renewal - 2021,WA,10776.0,314.0,36,,EARLY RENEWAL,,Daniel R Prince,(503) 930-9085,"Real Estate, Housing & Property Law",,,,,Rob Roback
 a014y00000ZJ6MD,0064y00000xnTSE,Robin Kim,5/19/2021,Michael R. VandenBerg - GP Early Renewal - 2021,Wisconsin,12340.0,398.0,36,,EARLY RENEWAL,,Michael R. VandenBerg,(920) 788-5110,General Practice,,,,,Rob Roback
 a014y00000YsSVw,0064y0000135NWY,Robin Kim,4/7/2022,David Zaslavsky - Fam Renewal - 2022,NY,30420.0,790.0,36,,RENEWAL,,David Zaslavsky,(347) 289-5886,Family Law,,,,,Rob Roback
@@ -1169,7 +819,6 @@ a014y00000ZJ6ZC,0064y00000xnuK2,Robin Kim,6/4/2021,Ira I. Silverstein - Fam Rene
 a014y00000ZJ6Zl,0060e00001x8kVV,Robin Kim,6/4/2021,Riley Powell - Crim Upgrade - 2021,AL,1500.0,1500.0,1,,UPGRADE,,Riley Powell IV,(251) 968-2320,Criminal Law,,,,,Rob Roback
 a014y00000ZJ6Ex,0060e00001v2h5S,Robin Kim,5/10/2021,Gregory Greiner - Employ Renewal - 2021,IA,12096.0,487.0,24,,RENEWAL,,Gregory F. Greiner,(515) 650-4399,Employment and Labor Law,,,,,Rob Roback
 a014y00000ZJ6Vj,0064y00000xnhYF,Robin Kim,6/1/2021,Suzanne Lomenick - Fam Renewal - 2021,TX,40968.0,1064.0,36,,RENEWAL,,Suzanne Lomenick,(214) 698-3000,Family Law,,,,,Rob Roback
-a014y00000gkbfE,0064y000012NXUU,Robin Kim,9/15/2022,Victor A. Bullock - EMP Early Renewal Upgrade - 2022,CA,5890.5,929.0,24,,EARLY RENEWAL,,Victor A. Bullock,(424) 777-3314,Employment and Labor Law,,,,,Rob Roback
 a014y00000ZJ6gN,0064y00000xnzYn,Robin Kim,6/11/2021,William Mooney - Crim Renewal - 2021,OH,6420.0,535.0,12,,RENEWAL,,William Mooney,(216) 973-7080,Criminal Law,,,,,Rob Roback
 a014y00000ZJ6bc,0064y00000xnzVt,Robin Kim,6/8/2021,Jennifer Honeycutt - Fam Renewal - 2021,TN,19404.0,504.0,36,,RENEWAL,,Jennifer Honeycutt,(615) 268-5108,Family Law,,,,,Rob Roback
 a014y00000ZJ6cQ,0064y00000xndrK,Robin Kim,6/8/2021,Steven Potter & Thomas Barni - BT + BL Early Renewal - 2021,Ohio,24588.9,783.0,36,,EARLY RENEWAL,,Thomas Barni,(800) 233-4079,Business - Litigation,Business - Transactional,,,,Rob Roback
@@ -1254,7 +903,6 @@ a014y00000ZqtIU,0064y000011FZUI,Robin Kim,12/27/2021,"Graham Hollis - EMP - BAY,
 a014y00000YQFTl,0064y000013X4vi,Robin Kim,7/28/2022,Richard Pazin Jr. - Fam Early Renewal - 2022,MI,2944.0,531.0,12,,EARLY RENEWAL,,Richard J Pazin Jr,(510) 227-5270,Family Law,,,,,Rob Roback
 a014y00000ZqtKp,0064y000011FVBW,Robin Kim,12/19/2021,Stephen Connor - Employ Early Renewal - 2021,WA,18513.0,18513.0,1,,EARLY RENEWAL,,Anne-Marie Sargent,(206) 654-5050,Employment and Labor Law,,,,,Rob Roback
 a014y00000ZqtMH,0064y000011FopB,Robin Kim,1/6/2022,Ronald B. Greene - BK + FAM Renewal - 2022,MD,5724.0,477.0,12,,RENEWAL,,Ronald B. Greene,(301) 577-1300,"Bankruptcy, Banking and Credit",Family Law,,,,Rob Roback
-a014y00000gkby1,0064y000015eV5X,Robin Kim,9/16/2022,Theresa Kraft - EMP Early Renewal Upgrade - 2022,MD,6648.0,430.0,36,,EARLY RENEWAL,,Theresa Kraft,(202) 508-3648,Employment and Labor Law,,,,,Rob Roback
 a014y00000ZqtNU,0064y000011Fpkn,Robin Kim,1/7/2022,Walter L Haines - EMP (Sub WT) Bay Area Renewal - 2022,CA,16900.0,16900.0,1,,RENEWAL,,Walter L Haines,(888) 474-7242,Employment and Labor Law,,,,,Rob Roback
 a014y00000YsLnc,0064y0000135HX6,Robin Kim,3/28/2022,Andy Van Le - PI Renewal - 2022,CA,48000.0,4000.0,12,,RENEWAL,,Andy Van Le,(619) 955-9440,Personal Injury,,,,,Rob Roback
 a014y00000ZqtNA,0064y000011FqzJ,Robin Kim,1/7/2022,Angela Swenson - Fam Renewal - 2022,IN,22536.0,585.0,36,,RENEWAL,,Angela Swenson,(317) 564-4848,Family Law,,,,,Rob Roback
@@ -1301,7 +949,6 @@ a014y00000e1GF3,0064y000012f0wn,Robin Kim,2/15/2022,Tamineh Roshanian - BT + WTE
 a010e00000r8ejE,0060e00001tgcxz,Robin Kim,4/16/2019,Ashby Sorensen - Crim Early Renewal - 2019,CA,25685.0,827.0,36,,EARLY RENEWAL,,Ashby Sorensen,(760) 815-4617,Criminal Law,,,,,Rob Roback
 a010e00000r8p6A,0060e00001thBGK,Robin Kim,5/31/2019,Richard Parry - Fam Early Renewal - 2019,OH,12402.0,430.0,36,,EARLY RENEWAL,,Richard Parry,(614) 288-3582,Family Law,,,,,Rob Roback
 a010e00000qqGuV,0060e00001s9Htq,Robin Kim,11/7/2018,Jeff Millar - Fam Early Renewal - 2018,MO,13032.0,457.0,36,,EARLY RENEWAL,,Jeff Millar,(636) 448-4982,Family Law,,,,,Rob Roback
-a013200000pZVfG,0063200001nc9Ve,Robin Kim,11/30/2016,Ashby Sorensen - Crim Renewal - 11.18.2016,CA,32004.0,,36,889.0,RENEWAL,,Ashby Sorensen,(760) 815-4617,Criminal Law,,,,,Rob Roback
 a013200000pa4JC,0063200001oQNyS,Robin Kim,3/1/2017,Richard Parry - FL Renewal - 1.23.2017,OH,16632.0,,36,462.0,RENEWAL,,Richard Parry,(614) 288-3582,Family Law,,,,,Rob Roback
 a014y00000YqUVB,0064y00000wt4yI,Robin Kim,2/3/2021,Jason E. Thompson - Crim Early Renewal - 2021,OR,17727.0,17727.0,1,,EARLY RENEWAL,,Paul Ferder,(503) 585-9197,Criminal Law,,,,,Rob Roback
 a014y00000YsNGa,0064y00001359a8,Robin Kim,3/29/2022,Bob Farahan - Crim Early Renewal - 2022,CA,25833.0,840.0,36,,EARLY RENEWAL,,Bob Farahan,(818) 687-1084,Criminal Law,,,,,Rob Roback
@@ -1357,8 +1004,6 @@ a014y00000YYmPC,0060e00001ykWh6,Robin Kim,1/21/2021,Gregory Peterson - PI Upgrad
 a014y00000YYmTn,0060e00001ykPGG,Robin Kim,1/22/2021,Walter Haines - Employ WT Bay Area - Upgrade - 2021,CA,8651.0,8651.0,1,,UPGRADE,,Walter L Haines,(888) 474-7242,Employment and Labor Law,,,,,Rob Roback
 a014y00000YYmY6,0060e00001wjVwC,Robin Kim,1/25/2021,Max Groswald - BK Early Renewal - 2021,MO,3637.9,395.0,12,,EARLY RENEWAL,,Max Groswald,(314) 610-1158,"Bankruptcy, Banking and Credit",,,,,Rob Roback
 a014y00000YYnCs,0064y00000wtI6v,Robin Kim,2/1/2021,Bruce Herman - Fam Renewal - 2021,MI,18288.0,475.0,36,,RENEWAL,,Bruce Herman,(248) 559-9003,Family Law,,,,,Rob Roback
-a014y00000gkbNe,0064y000015eLPO,Robin Kim,9/13/2022,Gregory Peterson - Fam Renewal - 2022,CT,37440.0,972.0,36,,RENEWAL,,Gregory Peterson,(203) 248-8700,Family Law,,,,,Rob Roback
-a014y00000gkbQ9,0064y000013XSND,Robin Kim,9/14/2022,John Combs - GP Early Renewal - 2022,KY,11548.5,388.0,36,,EARLY RENEWAL,,John A Combs,(859) 338-6017,General Practice,,,,,Rob Roback
 a014y00000ZJ5Jh,0064y00000wlWRH,Robin Kim,3/22/2021,Bradley J Armstrong - Fam Renewal - 2021,AZ,14064.0,566.0,24,,RENEWAL,,Bradley J  Armstrong,(520) 884-7997,Family Law,,,,,Rob Roback
 a014y00000ZJ5Jc,0064y00000wlWIo,Robin Kim,3/22/2021,Stephen Stine - BL Renewal - 2021,VA,24588.0,638.0,36,,RENEWAL,,Stephen Stine,(703) 934-4647,Business - Litigation,,,,,Rob Roback
 a014y00000ZU6dA,0064y000012fDik,Robin Kim,2/23/2022,Kyle Steele - Crim Renewal - 2022,Tx,8928.0,1488.0,6,,RENEWAL,,Kyle Steele,(214) 505-7907,Criminal Law,,,,,Rob Roback
@@ -1371,12 +1016,10 @@ a014y00000YQ4FJ,0064y000013WLhn,Robin Kim,6/24/2022,Christopher Ferrara - BT Ren
 a014y00000ZUFDN,0064y000012fEBr,Robin Kim,3/14/2022,Scott Rogers - Fam Renewal - 2022,AL,7248.0,604.0,12,,RENEWAL,,Scott Rogers,(256) 513-8282,Family Law,,,,,Rob Roback
 a014y00000YQQ4h,0064y000015daCZ,Robin Kim,8/31/2022,Teresa Hatfield - Fam Renewal - 2022,LA,18324.0,476.0,36,,RENEWAL,,Teresa Hatfield,(504) 388-7013,Family Law,,,,,Rob Roback
 a014y00000YsktK,0064y0000136bjS,Robin Kim,5/31/2022,Richard Parry - Fam Renewal - 2022,OH,20196.0,524.0,36,,RENEWAL,,Richard Parry,(614) 288-3582,Family Law,,,,,Rob Roback
-a014y00000gkcqw,0064y000015eLHZ,Robin Kim,9/16/2022,Brian McFarland - WTE Renewal - 2022,MD,19764.0,513.0,36,,RENEWAL,,Brian McFarland,(410) 788-2300,"Wills, Trusts and Estates",,,,,Rob Roback
 a014y00000YPu2e,0064y000013VvG8,Robin Kim,6/6/2022,Joel F. Handler - EMP Early Renewal - 2022,IL,12912.0,515.0,36,,EARLY RENEWAL,,Joel F. Handler,(312) 588-6839,Employment and Labor Law,,,,,Rob Roback
 a014y00000YPv68,0064y000013VxA0,Robin Kim,6/7/2022,R. Tate Young - EMP Renewal - 2022,TX,12828.0,1069.0,12,,RENEWAL,,R Tate Young,(713) 626-7112,Employment and Labor Law,,,,,Rob Roback
 a014y00000gkaXY,0064y000015e7DI,Robin Kim,9/9/2022,J Clarke Wilcox - WTE Early Renewal - 2022,TX,24148.0,863.0,36,,EARLY RENEWAL,,J Clarke Wilcox,(888) 593-5337,"Wills, Trusts and Estates",,,,,Rob Roback
 a014y00000gkaVD,0064y000015dhp0,Robin Kim,9/9/2022,C. Todd Inniss - Fam Renewal - 2022,MI,28476.0,732.0,36,,RENEWAL,,C. Todd Inniss,(313) 921-8633,Family Law,,,,,Rob Roback
-a014y00000gkdu1,0064y000013X0Ml,Robin Kim,9/16/2022,Cheryl Swisher - Crim Upgrade - 2022,TX,9660.0,805.0,12,,UPGRADE,,Cheryl Swisher,(713) 543-8821,Criminal Law,,,,,Rob Roback
 a014y00000gkaVN,0064y000015e8qZ,Robin Kim,9/9/2022,Clifton Davidson - Fam Renewal - 2022,NM,17292.0,696.0,24,,RENEWAL,,Clifton L. Davidson,(505) 918-9292,Family Law,,,,,Rob Roback
 a014y00000YQLnc,0064y000013XRpM,Robin Kim,8/12/2022,Dru Frazier & Michael Frazier - GP Renewal - 2022,WV,4911.0,4911.0,1,,RENEWAL,,W Michael Frazier,(304) 697-4370,General Practice,,,,,Rob Roback
 a014y00000YQGW7,0064y000013WxHT,Robin Kim,8/1/2022,Michael Browning - RE + WTE Renewal - 2022,TX,30420.0,790.0,36,,RENEWAL,,Michael Browning,(210) 257-6464,"Real Estate, Housing & Property Law","Wills, Trusts and Estates",,,,Rob Roback
@@ -1569,8 +1212,6 @@ a010e00000qbOI7,0060e00001xi1V7,Robin Kim,12/16/2020,Mark Valencia - Employ LA E
 a010e00000rZuog,0060e00001v12AQ,Robin Kim,8/1/2019,Frank Malatesta - Employ Central Early Renewal - 2019,FL,25656.0,764.0,36,,EARLY RENEWAL,,Frank Malatesta,(941) 256-3812,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
 a010e00000qbO3J,0060e00001yjqfV,Robin Kim,12/15/2020,Doug Newborn - WTE Early Renewal - Dec 2020,AZ,14329.5,661.0,24,,EARLY RENEWAL,,Douglas Newborn,(520) 276-0236,"Wills, Trusts and Estates",,,,,Rob Roback
 a010e00000qbWxI,0060e00001ykNIm,Robin Kim,1/9/2021,Christopher Berlingieri - Employ Custom NY - 2021,NY,28512.0,740.0,36,,UPGRADE,,Christopher Berlingieri,(347) 766-5185,Employment and Labor Law,,,,,Rob Roback
-a013200000p9YL2,0063200001lwqlM,Robin Kim,3/11/2016,Teresa Meyers - FL - Lead - 3.9.2016,46561,9360.0,,36,260.0,HOTLEAD-phone,LegalMatch,Teresa Meyers,(574) 347-8038,Family Law,,,,,Rob Roback
-a013200000ppBUq,0063200001nuEQE,Robin Kim,9/27/2016,David Marquette - GP Early Renewal - 09.26.2016,,11900.0,300.0,35,400.0,EARLY RENEWAL,,David Marquette,(225) 535-0435,General Practice,,,,,Rob Roback
 a010e00000qaY9a,0060e00001xfg8R,Robin Kim,9/4/2020,David Marquette - GP Early Renewal - 2020,,8306.0,315.0,36,,EARLY RENEWAL,,David Marquette,(225) 535-0435,General Practice,,,,,Rob Roback
 a010e00000qq0wv,0060e00001s6QxU,Robin Kim,8/3/2018,David Marquette - GP Self Gen - 2018,LA,12600.0,,36,350.0,SELF GEN,,David Marquette,(225) 535-0435,General Practice,,,,,Rob Roback
 a010e00000qq2zB,0060e00001s6n2E,Robin Kim,8/15/2018,Joel Murillo - Crim Renewal - 2018,CA,13896.0,361.0,36,,RENEWAL,,Joel M Murillo,(559) 268-7227,Criminal Law,,,,,Rob Roback
@@ -1586,7 +1227,6 @@ a010e00000mlH6k,0060e00001wk4vv,Robin Kim,7/31/2020,I Scott Pickus - Crim Early 
 a010e00000qYyUk,0060e00001r2NnA,Robin Kim,4/3/2018,I Scott Pickus - Crim Early Renewal - 3.22.2018,VA,26712.0,810.0,36,,EARLY RENEWAL,Jude Panaligan,I Scott Pickus,(804) 377-6688,Criminal Law,,,,,Rob Roback
 a010e00000ratrX,0060e00001thLWl,Robin Kim,5/15/2020,Mark Guralnick - Fam + PP Self Gen - 2020,NJ,17568.0,1464.0,12,,SELF GEN,,Mark Guralnick,(856) 983-9900,Family Law,Professional Practices,,,,Rob Roback
 a010e00000qpxXX,0060e00001rTziP,Robin Kim,7/13/2018,Terrence K. Martin - Fam Renewal - 07.09.2018,VA,13500.0,350.0,36,,RENEWAL,,Terrence K. Martin,(757) 599-9822,Family Law,,,,,Rob Roback
-a013200000megIW,0063200001j7GJl,Robin Kim,6/17/2015,Estelle Flynn Lord,NJ,18540.0,,36,515.0,HOTLEAD-email,LegalMatch,Estelle Flynn Lord,(908) 654-3883,Family Law,,,,,Rob Roback
 a010e00000qqDvf,0060e00001s7AZa,Robin Kim,10/23/2018,Diana Shropshire - Fam Renewal - 2018,CA,7380.0,,12,615.0,RENEWAL,,Diana Shropshire,(909) 912-1912,Family Law,,,,,Rob Roback
 a010e00000r8nzy,0060e00001ti0E3,Robin Kim,5/27/2019,Andrew Bitar - Crim Early Renewal Upgrade - 2019,NJ,20464.0,856.0,36,,EARLY RENEWAL,,Andrew G. Bitar,(917) 576-6098,Criminal Law,,,,,Rob Roback
 a010e00000r8vrf,0060e00001ufqfL,Robin Kim,6/28/2019,Christopher Ferrara - BT Renewal - 2019,NJ,5850.0,5850.0,1,,RENEWAL,,Christopher Ferrara-Matt,(908) 429-1269,Business - Transactional,,,,,Rob Roback
@@ -1798,76 +1438,36 @@ a010e00000raQha,0060e00001w2tz7,Robin Kim,1/27/2020,Matthew Hayes - Employ LA Re
 a010e00000raQkK,0060e00001w33IR,Robin Kim,1/27/2020,Robert Geller - BK Early Renewal - 2020,FL,8718.0,468.0,24,,EARLY RENEWAL,,Robert Geller,(813) 254-5696,"Bankruptcy, Banking and Credit",,,,,Rob Roback
 a010e00000raejp,0060e00001w5DPm,Robin Kim,3/24/2020,Bruce Coane - Employ TX Renewal - 2020,TX,19466.0,19466.0,1,,RENEWAL,,Bruce Coane,(713) 850-0066,Employment and Labor Law,,,,,Rob Roback
 a010e00000ramKd,0060e00001x6xdK,Robin Kim,4/24/2020,Howard D?Amico - BL Renewal - 2020,MA,11568.0,450.0,24,,RENEWAL,,Howard D'Amico,(508) 793-1606,Business - Litigation,,,,,Rob Roback
-a013200000meimD,0063200001juOkf,Robin Kim,6/30/2015,Kevin Rehwald - Employ 50 mile - Early Renewal 6.29.2015,CA,45771.0,45771.0,1,,EARLY RENEWAL,Gill Cyester,Kevin Rehwald,(818) 703-7500,Employment and Labor Law,,,,,Rob Roback
-a013200000mpULf,0063200001mrRE2,Robin Kim,7/1/2016,John Burke - Employ Renewal - 06.28.2016,OH,21420.0,,36,595.0,RENEWAL,,John F Burke,(216) 455-5980,Employment and Labor Law,,,,,Rob Roback
-a013200000o8PBd,0063200001mcf3X,Robin Kim,5/2/2016,"Emily Marx - FL, RE, Crim in South LA & Orange - Early Renewal Upgrade 4.27.2016",CA,55200.0,,36,2700.0,UPGRADE,Gill Cyester,Emily Marx,(949) 933-7760,Family Law,"Real Estate, Housing & Property Law",Criminal Law,,,Rob Roback
-a013200000mecl1,0063200001j94fx,Robin Kim,6/1/2015,Farbood Majd - FL and RE - 06-1-2015,CA,44100.0,,36,1225.0,SELF GEN,,Farbood Majd,(310) 956-4600,Family Law,"Real Estate, Housing & Property Law",,,,Rob Roback
-a013200000mfEZk,0063200001jwJg3,Robin Kim,8/18/2015,Graham Hollis - Central CA Renewal - 08.13.2015,CA,6396.0,,1,6396.0,RENEWAL,,Graham Hollis,(619) 692-0800,Employment and Labor Law,,,,,Rob Roback
-a013200000mpvIs,0063200001nIMGy,Robin Kim,8/1/2016,Lawrence Whitney - Crim Renewal 07.22.2016,OH,7176.0,,24,299.0,RENEWAL,,Lawrence Whitney,(330) 253-7171,Criminal Law,,,,,Rob Roback
-a013200000mpwIJ,0063200001nJ24O,Robin Kim,8/2/2016,David Gonor and Alan Shaffer - PI Renewal - 08.02.2016,,11100.0,,1,11100.0,RENEWAL,,David Gonor,(818) 783-3333,Personal Injury,,,,,Rob Roback
-a013200000o4fno,0063200001kM2JB,Robin Kim,9/29/2015,Bradley Bowles - PI Bay Area and Custom NCA - Renewal - 09.25.15,CA,48700.0,48700.0,1,,RENEWAL,,Bradley Bowles,(925) 935-3300,Personal Injury,,,,,Rob Roback
-a013200000mejFw,0063200001j9knX,Russell Winkler,7/2/2015,Steve Edwards - Consumer CA,CA,3180.0,0.0,6,530.0,SELF GEN,,Steve Edwards,(818) 584-7181,Consumer Law,,,,,Janine Scott
-a013200000mejJA,0063200001ju9F9,Russell Winkler,7/2/2015,Nathaniel (Natty) Shafer - Crim Salt Lake,UT,33660.0,0.0,36,935.0,HOTLEAD-email,LegalMatch,Nathaniel Shafer,(801) 450-2584,Criminal Law,,,,,Janine Scott
-a013200000mpcJb,0063200001mppBQ,Russell Winkler,7/11/2016,Shannon Davis - Crim Houston,TX,25200.0,0.0,36,700.0,HOTLEAD-email,LegalMatch,Shannon Davis,(832) 567-8297,Criminal Law,,,,,Janine Scott
-a013200000o5LDw,0063200001jvH9Y,Russell Winkler,10/1/2015,Alfred Gellene - Criminal NJ,NJ,17640.0,0.0,36,490.0,HOTLEAD-email,LegalMatch,Alfred Gellene,(973) 837-8002 RETIRED,Criminal Law,,,,,Janine Scott
-a013200000meZJB,0066000001aMzbu,Russell Winkler,5/14/2015,Craig Thigpen - Deal,TX,29700.0,0.0,36,825.0,HOTLEAD-email,LegalMatch,Craig Thigpen,(310) 402-7276,Criminal Law,,,,,Janine Scott
-a013200000mpBlB,0063200001mqYdt,Ben Sandholm,6/15/2016,Paul Seckel - Upgrade,AL,8000.0,0.0,32,250.0,UPGRADE,,Paul Seckel,(256) 571-1529,General Practice,,,,,Janine Scott
-a013200000mpfkt,0063200001mqBxX,Russell Winkler,7/14/2016,Jason Buccat - Crim L.A./Vent,CA,33084.0,0.0,36,919.0,HOTLEAD-email,,Jason Buccat,(424) 703-5529,Criminal Law,,,,,Janine Scott
-a013200000mefA5,0063200001j9a8V,Ben Sandholm,6/12/2015,Carmen Caruso - Upgrade,IL,9735.0,,33,295.0,UPGRADE,,Carmen Caruso,(312) 626-1161,Criminal Law,,,,,Janine Scott
-a013200000meskH,0063200001juvXW,Russell Winkler,8/3/2015,Dianna Abdala - Crim Boston,MA,48600.0,0.0,36,1350.0,HOTLEAD-email,LegalMatch,Dianna Abdala,(617) 669-2244,Criminal Law,,,,,Janine Scott
-a013200000meQBD,0063200001j6mZi,Lisa Levan,4/3/2015,Tim Watson - Upgrade,,5400.0,,12,450.0,UPGRADE,,Tim Watson,(512) 468-9098,General Practice,,,,,Janine Scott
-a013200000meaar,0063200001j6tpn,Russell Winkler,5/20/2015,Laural Hemenway  - family law - Nashville,TN,6600.0,0.0,12,550.0,HOTLEAD-email,LegalMatch,Laural Hemenway,(615) 848-8482,Family Law,,,,,Janine Scott
-a013200000mpJ1l,0063200001mqSIe,Russell Winkler,6/23/2016,Jeffrey Grass-crim Dallas,TX,28008.0,0.0,36,778.0,Revived Hotlead,,Jeffrey C Grass,Not Eligible,Criminal Law,,,,,Janine Scott
-a013200000mpJ3S,0063200001mqvmV,Russell Winkler,6/23/2016,Rex McCarley 6-21-16,TX,25020.0,,36,695.0,Revived Hotlead,,Rex McCarley,(214) 662-4095,Family Law,,,,,Janine Scott
-a013200000oUSI2,0063200001kro7d,Russell Winkler,10/22/2015,"Wendy Wills-Custom fam Cleveland, OH",OH,15768.0,0.0,36,438.0,Closer Initiated,LegalMatch,Wendy Wills,SUSPENDED,Family Law,,,,,Janine Scott
-a013200000meRLt,0063200001j6rG6,Lisa Levan,4/8/2015,Steve Danz San Diego Emp,CA,12000.0,0.0,12,1000.0,SELF GEN,,Stephen Danz,(877) 789-9707,Employment and Labor Law,,,,,Janine Scott
-a013200000mpPXx,0063200001mq4vp,Russell Winkler,7/1/2016,Jumoke Oladapo  - fam,MD,20160.0,0.0,36,560.0,HOTLEAD-email,LegalMatch,Jumoke Oladapo,(301) 533-8600,Family Law,,,,,Janine Scott
-a013200000meVto,0063200001j7sLH,Russell Winkler,5/1/2015,Jeremy Gogel -Deal,MO,57600.0,0.0,36,1600.0,MM REFERRAL,Juliet Lane,Jeremy Gogel,(314) 775-3864,Personal Injury,Criminal Law,Medical Malpractice,,,Janine Scott
-a013200000mf4ow,0063200001jvasi,Russell Winkler,8/12/2015,Nathan Viles - family law -custom,TX,27540.0,0.0,36,765.0,HOTLEAD-email,LegalMatch,Nathan Viles,(214) 240-5191,Family Law,,,,,Janine Scott
-a013200000ouTYV,0063200001kMYOj,Russell Winkler,10/28/2015,Daniel Chaplin -Crim custom Cleveland 2015,Ohio,9576.0,0.0,12,798.0,HOTLEAD-email,LegalMatch,Daniel S Chaplin,(216) 861-0660,Criminal Law,,,,,Janine Scott
-a014y00000ZU9wG,0064y000011F29m,Russell Winkler,2/28/2022,Maurice D. Maitland Upgrade SSD 2022,CT,34629.48,899.0,36,,UPGRADE,,Maurice D. Maitland,(347) 346-0749,Administrative Law,,,,,Janine Scott
-a014y00000YqUXd,0064y00000wtQn3,Russell Winkler,2/4/2021,Richard P. Davies Fam Early Renewal 2021,NV,13225.2,515.0,36,,EARLY RENEWAL,,Richard P. Davies,(775) 360-6894,Family Law,,,,,Janine Scott
-a013200000qHzNN,0063200001pRqw3,Russell Winkler,6/20/2017,Svetlana Kamyshanskaya -Bus Trans N. CA,CA,4200.0,350.0,12,350.0,SELF GEN,,Svetlana Kamyshanskaya,(650) 440-3287,Business - Transactional,,,,,Janine Scott
-a013200000p9Zi6,0063200001lO4Ve,Russell Winkler,3/14/2016,Ralph Brannon - fam Manhattan,NY,31740.0,0.0,30,1058.0,HOTLEAD-email,LegalMatch,Ralph Brannon,(347) 767-8482,Family Law,,,,,Janine Scott
-a013200000p9w9s,0063200001lz05r,Russell Winkler,4/13/2016,Sharon Williams - Family New Orleans Custom,LA,10260.0,0.0,36,285.0,HOTLEAD-email,LegalMatch,Sharon Williams..,(504) 585-7339,Family Law,,,,,Janine Scott
-a013200000p9x6M,0063200001mLwOz,Russell Winkler,4/13/2016,Patricia Erb - fam L.A. custom,CA,20448.0,0.0,36,568.0,HOTLEAD-email,LegalMatch,Patricia Erb,(626) 642-8207,Family Law,,,,,Janine Scott
-a013200000qHwTD,0063200001pTr29,Russell Winkler,5/26/2017,Kevin Sutherland (Formely Anna Oliva - Family law Grand Rapids),MI,13284.0,540.0,24,540.0,HOTLEAD-email,LegalMatch,Kevin Sutherland,(616) 333-2427,Family Law,,,,,Janine Scott
-a013200000p9dXg,0063200001lzG4H,Russell Winkler,3/18/2016,Randy Berman - crim S. FL,FL,26748.0,0.0,36,743.0,HOTLEAD-email,LegalMatch,Randall Berman,(561) 866-5717,Criminal Law,,,,,Janine Scott
-a013200000ovwSX,0063200001ktXNy,Russell Winkler,12/3/2015,Charles Castellon - BK Oceola and Orange in FL,,10800.0,0.0,36,300.0,HOTLEAD-email,LegalMatch,Scott D Widerman,(321) 255-2332,"Bankruptcy, Banking and Credit",,,,,Janine Scott
-a013200000pZZqh,0063200001nbhgV,Russell Winkler,12/12/2016,Aidin Okhovat - family L.A.,CA,5412.0,0.0,6,902.0,HOTLEAD-email,LegalMatch,Aidin Okhovat,(818) 744-8770,Family Law,,,,,Janine Scott
-a013200000p9Qcc,0063200001lMNuF,Russell Winkler,3/1/2016,Paul Seckel - gp custom,AL,3000.0,0.0,12,250.0,HOTLEAD-email,LegalMatch,Paul Seckel,(256) 571-1529,General Practice,,,,,Janine Scott
-a013200000p98ws,0063200001lNf4p,Russell Winkler,2/5/2016,Erik Graeff - WTE OR,OR,14220.0,0.0,36,395.0,HOTLEAD-email,LegalMatch,Erik Graeff,(971) 238-9322,"Wills, Trusts and Estates","Wills, Trusts and Estates",,,,Janine Scott
-a013200000pYSaF,0063200001nITeB,Russell Winkler,8/5/2016,Alex Mitchell - Crim Atlanta custom,AL,24012.0,,36,667.0,HOTLEAD-email,LegalMatch,Alex O'Neil Mitchell,(678) 385-5953,Criminal Law,,,,,Janine Scott
-a013200000pYTEw,0063200001nINKH,Russell Winkler,8/8/2016,Joshua Milon - emp,CA,26208.0,0.0,18,1456.0,HOTLEAD-email,LegalMatch,Joshua Milon,(626) 229-0844,Employment and Labor Law,,,,,Janine Scott
-a013200000p8tE7,0063200001krhlI,Russell Winkler,1/12/2016,Marie Briner family Dallas,TX,31716.0,0.0,36,881.0,SELF GEN,,Marie Briner,(214) 935-5000,Family Law,,,,,Janine Scott
+a013200000pa1he,0063200001p1bCU,Robin Kim,2/23/2017,Jason Thompson - Crim Early Renewal - 02.22.2017,OR,13750.0,,1,13750.0,EARLY RENEWAL,,Paul Ferder,(503) 585-9197,Criminal Law,,,,,Rob Roback
+a013200000pa255,0063200001p1aie,Robin Kim,2/24/2017,Regina Molden - Employ Renewal - 02.22.2017,GA,15840.0,,24,660.0,RENEWAL,,Regina Molden,(404) 324-4500,Employment and Labor Law,,,,,Rob Roback
+a013200000qHwF4,0063200001pQvY2,Robin Kim,5/23/2017,Stephen Johnson - GP - Renewal - 05.23.2017,KS,12000.0,,24,500.0,RENEWAL,,Stephen W Johnson,(316) 282-7300,General Practice,,,,,Rob Roback
+a013200000pa27k,0063200001p1TpZ,Robin Kim,2/24/2017,Michael Reneau Transfer Agreement (org. Brett Shirk),Missouri,12870.0,,18,715.0,RENEWAL,,Michael Reneau,(816) 434-6200,Criminal Law,,,,,Rob Roback
+a013200000paENe,0063200001oNTAv,Suzanne Norgaard,3/22/2017,Susan Sullivan-Bisceglia - GP Self Gen - 3.20.2017,NY,15984.0,,36,444.0,SELF GEN,,Susan Sullivan-Bisceglia,(914) 755-0504,General Practice,,,,,Rob Roback
+a013200000qHwKt,0063200001nxo2x,Robin Kim,5/24/2017,Ryan Stephan - Employ in IL and NC - Renewal and Upgrade - 5.11.2017,,20259.0,,1,20259.0,RENEWAL,,Ryan Stephan,(312) 233-1550,Employment and Labor Law,Employment and Labor Law,,,,Rob Roback
+a013200000pZsYF,0063200001oQo4x,Robin Kim,2/1/2017,Marvin Leibowitz - BK - Renewal - 01.27.2017,PA,3091.0,,1,3091.0,RENEWAL,,Marvin Leibowitz,(412) 391-1191,"Bankruptcy, Banking and Credit",,,,,Rob Roback
+a013200000paUuo,0063200001pU3hw,Robin Kim,4/17/2017,Thomas Mitchiner - Employ Early Renewal - 4.12.2017,CO,9350.0,,24,425.0,EARLY RENEWAL,Jude Panaligan,Thomas Mitchiner,(720) 538-0371,Employment and Labor Law,,,,,Rob Roback
+a013200000paKYX,0063200001pCT8t,Robin Kim,3/31/2017,Cristian Towers - Crim Renewal - 03.9.2017,NJ,17172.0,,36,477.0,RENEWAL,,Cristian Towers,(856) 438-5685,Criminal Law,,,,,Rob Roback
+a013200000pZgXf,0063200001oNxvO,Robin Kim,1/4/2017,"Chris Kennelly - GP, PI, MM Renewal - 12.14.2016",ND,12600.0,,36,350.0,RENEWAL,,Chris Kennelly,(701) 478-4900,General Practice,Personal Injury,Medical Malpractice,,,Rob Roback
+a013200000pZt3L,0063200001oREoa,Robin Kim,2/2/2017,Lawrence Freiman - Employ SoCal - Renewal 02.02.2017,CA,36036.0,,36,1001.0,RENEWAL,,Lawrence W Freiman,(310) 917-1004,Employment and Labor Law,,,,,Rob Roback
+a013200000paVyW,0063200001pUUjq,Robin Kim,4/18/2017,William Factor & Jeffrey Crane - BL - Renewal - 04.17.17,IL,5898.0,,1,5898.0,RENEWAL,,Jeffrey Crane,(847) 239-7239,Business - Litigation,,,,,Rob Roback
+a013200000ppQ34,0063200001nxBiI,Robin Kim,5/5/2017,Gerald Dibble - GP and BK Renewal - 5.4.2017,NY,23292.0,,36,647.0,RENEWAL,,Gerald Dibble,(585) 271-1500,General Practice,"Bankruptcy, Banking and Credit",,,,Rob Roback
+a013200000qI00X,0063200001qKnIr,Robin Kim,6/26/2017,Michael Kernan - BL - Renewal - 06.27.2017,CA,48600.0,,36,1350.0,RENEWAL,,Michael Kernan,(310) 490-9777,Business - Litigation,,,,,Rob Roback
+a013200000qI0Cf,0063200001qKn75,Robin Kim,6/27/2017,Christopher Ferrara - BT Renewal - 06.26.2017,NJ,5400.0,5400.0,1,5400.0,RENEWAL,,Christopher Ferrara-Matt,(908) 429-1269,Business - Transactional,,,,,Rob Roback
+a013200000pZic1,0063200001oOnyV,Robin Kim,1/9/2017,Jon MacLeod - Employ Renewal - 12.29.2016,WA,5544.0,,12,462.0,RENEWAL,,Jon W MacLeod,(206) 357-8470,Employment and Labor Law,,,,,Rob Roback
+a013200000pZica,0063200001oOkGE,Robin Kim,1/9/2017,Edward Cohn - GP Renewal - 12.28.2016,AZ,9810.0,,18,545.0,RENEWAL,,Edward Cohn,(617) 780-4316,General Practice,,,,,Rob Roback
+a013200000pa3p3,0063200001p1d88,Robin Kim,2/28/2017,Kenneth Jannette - Crim Renewal - 02.22.2017,MI,17424.0,,36,484.0,RENEWAL,,Kenneth Jannette,(313) 324-8990,Criminal Law,,,,,Rob Roback
+a013200000paH7W,0063200001pFQvj,Robin Kim,3/28/2017,Kenneth Wasserman - WTE Renewal - 03.27.2017,NY,13250.0,,1,13250.0,RENEWAL,,Kenneth Wasserman,(212) 244-3399,"Wills, Trusts and Estates",,,,,Rob Roback
+a013200000ppQpw,0063200001pViAs,Robin Kim,5/8/2017,"Brad Dozier - Fam, GP and WTE Early Renewal Upgrade - 5.1.2017",TN,20600.0,,36,600.0,UPGRADE,Gill Cyester,S. Brad Dozier,(615) 259-2670,Family Law,Family Law,,"Wills, Trusts and Estates",,Rob Roback
 a013200000pYUCl,0063200001nDLGi,Russell Winkler,3/29/2019,Maltaise Cini - Crim 2019,CA,38520.0,1000.0,36,700.0,SELF GEN,,Maltaise E Cini,(949) 660-1389,Criminal Law,,,,,Janine Scott
-a013200000pYUcG,0063200001nJ1hx,Russell Winkler,8/9/2016,Kathryn Steadman - family law,CT,27000.0,0.0,36,750.0,HOTLEAD-email,,Della Steadman,,Family Law,,,,,Janine Scott
-a013200000p9lX7,0063200001mLQKF,Ben Sandholm,3/30/2016,Thomas E. Jurgensen - 6 Month Trial BT SoCal,,720.0,,6,120.0,SELF GEN,,Thomas E. Jurgensen,(858) 526-6556,Business - Transactional,,,,,Janine Scott
 a013200000pZp4F,0063200001ncgig,Russell Winkler,1/24/2017,Michael MacNeil - Family Law San Diego,CA,16200.0,0.0,12,1350.0,HOTLEAD-email,LegalMatch,Michael Colin MacNeil,(858) 922-7098,Family Law,,,,,Janine Scott
-a013200000p9FvV,0063200001lOOpm,Russell Winkler,2/12/2016,C.J. Lewis - crim,TN,11700.0,0.0,36,325.0,HOTLEAD-phone,LegalMatch,C.J. Lewis,(865) 229-6403,Criminal Law,,,,,Janine Scott
-a013200000p9Vja,0063200001lw1cH,Ben Sandholm,3/8/2016,Carlos Ryerson - bus Tran Texas,TX,24300.0,0.0,36,675.0,SELF GEN,,Carlos Ryerson,(713) 291-2301,Business - Transactional,,,,,Janine Scott
-a013200000p9VmA,0063200001lOF5J,Russell Winkler,3/8/2016,Landon Villavaso - family law L.A. custom,CA,20520.0,0.0,36,570.0,HOTLEAD-email,LegalMatch,Landon Villavaso,(949) 257-5188,Family Law,,,,,Janine Scott
 a013200000qHvm0,0063200001oPDtM,Russell Winkler,5/19/2017,Dmitriy Borshchak - 2017,OH,6708.0,,12,559.0,HOTLEAD-email,LegalMatch,Dmitriy Borshchak,(216) 299-1927,Family Law,,,,,Janine Scott
 a013200000qHyn1,0063200001pRVgQ,Russell Winkler,6/16/2017,John Belt - Family law Maricopa County,AZ,22680.0,600.0,36,600.0,HOTLEAD-email,LegalMatch,John Belt,(480) 837-3600,Family Law,,,,,Janine Scott
 a013200000qHz7M,0063200001nxldf,Russell Winkler,6/19/2017,Waldy Pierre - RE New York,,21186.0,550.0,36,550.0,HOTLEAD-email,LegalMatch,Waldy Pierre,(631) 440-2651,"Real Estate, Housing & Property Law","Entertainment, Media, & Sports Law",,,,Janine Scott
-a013200000p910b,0063200001ks3go,Russell Winkler,1/25/2016,Morgan Cook - lead,IL,11340.0,,36,315.0,HOTLEAD-email,LegalMatch,Morgan Cook,NLP(312) 880-7215,"Real Estate, Housing & Property Law",,,,,Janine Scott
-a013200000p9rzM,0063200001lxQmg,Legal Match,4/7/2016,Borjan Kovacevic and James McLane,IL,43200.0,0.0,36,1200.0,HOTLEAD-email,LegalMatch,Borjan Kovacevic,(847) 877-4173,Criminal Law,,,,,Janine Scott
-a016000000if3ru,0066000001aPZG2,Russell Winkler,2/3/2015,Gregory Peterson-WTE CT,CT,15012.0,0.0,36,417.0,HOTLEAD-email,,Gregory Peterson,(203) 248-8700,"Wills, Trusts and Estates",,,,,Janine Scott
-a016000000if5Rn,0066000001aPPt4,Alyssa Russell,2/5/2015,Kara Nyquist Custom Fam Alaska,AL,12600.0,0.0,36,350.0,SELF GEN,,Kara Nyquist,(907) 301-7583,Family Law,,,,,Janine Scott
-a016000000iepGE,0066000001aMhWK,Russell Winkler,1/19/2015,Josh Lee - Family law Oklahoma City,,23112.0,0.0,36,642.0,HOTLEAD-email,LegalMatch,Josh Lee,(405) 759-5529,Family Law,,,,,Janine Scott
-a016000000mdanc,0066000001hME6O,Lisa Levan,3/12/2015,Therese Harris -consu/fam/bk,CA,36000.0,0.0,36,1000.0,HOTLEAD-email,LegalMatch,Therese Harris,(805) 369-2053,Consumer Law,"Bankruptcy, Banking and Credit",Family Law,,,Janine Scott
-a016000000mdcL9,0066000001hMIuh,Brian McCall,3/13/2015,Carmen Caruso - IP Central TZ,IL,21600.0,0.0,36,600.0,HOTLEAD-email,LegalMatch,Carmen Caruso,(312) 626-1161,Intellectual Property,,,,,Janine Scott
-a016000000ieshL,0066000001aOAQK,Russell Winkler,9/18/2015,Josh Lee - Crim Oklahoma City,,14400.0,,36,400.0,SELF GEN,,Josh Lee,(405) 759-5529,Criminal Law,,,,,Janine Scott
-a016000000ifB90,0066000001aPVyo,Russell Winkler,2/11/2015,Tom Morlan New Deal,NV,17100.0,0.0,36,475.0,SELF GEN,,Tom Morlan,(702) 569-4193,General Practice,,,,,Janine Scott
-a016000000ieu8i,0066000001aMiPi,Lisa Levan,1/22/2015,"Matthew Pfau, Zach Parry and Keith Pickard - Deal",NV,31680.0,0.0,36,880.0,HOTLEAD-email,LegalMatch,Matthew G Pfau,(702) 879-9555,Personal Injury,,,,,Janine Scott
-a016000000iebti,0066000001Sna8L,Russell Winkler,1/2/2015,Tim Watson - New Membership,,10926.0,0.0,24,,HOTLEAD-email,LegalMatch,Tim Watson,(512) 468-9098,General Practice,,,,,Janine Scott
 a014y00000YT3LW,0064y000014IzAz,Russell Winkler,7/1/2022,Stephen Maitland Upgrade Bus Trans June 2022,30004,21763.8,565.0,36,,UPGRADE,,Stephen Maitland,(717) 357-1862,Business - Transactional,,,,,Janine Scott
 a014y00000YQMWX,0064y000015damv,Russell Winkler,8/11/2022,Steven A. Ciulla WTE Renewal 2022,MA,10200.0,850.0,12,,RENEWAL,,Steven A. Ciulla,(781) 944-2260,"Wills, Trusts and Estates",,,,,Janine Scott
 a014y00000YT4Ss,0064y000014Izg6,Russell Winkler,6/2/2022,Stephen Maitland WTE Early Renewal June 2022,GA,3087.45,303.75,36,,EARLY RENEWAL,,Stephen Maitland,(717) 357-1862,"Wills, Trusts and Estates",,,,,Janine Scott
 a013200000mpLNr,0063200001mqy2H,Ben Sandholm,5/8/2017,William 'Bert' Pigg- Fam,TX,40032.0,0.0,36,1112.0,SELF GEN,,William Pigg,(214) 551-9391,Family Law,,,,,Janine Scott
 a013200000pZbdC,0063200001oNeSw,Russell Winkler,3/17/2017,William Pigg - WTE 2017,TX,21780.0,0.0,36,605.0,SELF GEN,,William Pigg,(214) 551-9391,"Wills, Trusts and Estates",,,,,Janine Scott
-a013200000pZalN,0063200001mqy2C,Matt Griffith,12/14/2016,William 'Bert' Pigg - BK Dallas,Texas,23760.0,0.0,36,660.0,SELF GEN,,William Pigg,(214) 551-9391,"Bankruptcy, Banking and Credit",,,,,Janine Scott
-a013200000mp2Uy,0063200001mdErn,Russell Winkler,6/6/2016,William 'Bert' Pigg - Crim Dallas/Collin,TX,31500.0,0.0,36,875.0,HOTLEAD-email,LegalMatch,William Pigg,(214) 551-9391,Criminal Law,,,,,Janine Scott
 a014y00000Zr0RA,0064y000011GFmo,Russell Winkler,1/27/2022,Jeffrey William Melcher Renewal 2022,GA,8376.0,698.0,12,,RENEWAL,,Jeffrey W. Melcher,(404) 739-8800,Business - Litigation,,,,,Janine Scott
 a014y00000YqUpL,0064y00000vrQVj,Russell Winkler,2/9/2021,Richard Craig PI Upgrade 2/9/21,IL,77040.0,2000.0,36,,UPGRADE,,Richard Craig,(312) 253-4500,Personal Injury,,,,,Janine Scott
 a014y00000Zqs7V,0064y00000zFJF4,Russell Winkler,8/4/2021,Tate Eldridge Upgrade 2021,TX,1980.0,165.0,12,,UPGRADE,,Tate Eldridge,(806) 342-4244,Administrative Law,Administrative Law,,,,Janine Scott
@@ -1890,7 +1490,6 @@ a014y00000ZJ66F,0064y00000xnMoA,Matt Griffith,5/4/2021,David Aboulafia - Bus. Li
 a014y00000ZJ6Sp,0064y00000xnio9,Russell Winkler,5/27/2021,Joe Garza WTE Houston and Remaining area TX,TX,49113.0,1275.0,36,,UPGRADE,,Joe Garza,(214) 906-2222,"Wills, Trusts and Estates",,,,,Janine Scott
 a014y00000ZJ6FM,0064y00000xnS3U,Russell Winkler,5/10/2021,Sarah Haddad Upgrade Family-Early Renewal 2021,NY,21690.0,2310.0,23,,UPGRADE,,Sarah Haddad,(347) 577-3048,Business - Litigation,Family Law,,,,Janine Scott
 a014y00000ZJ6vw,0064y00000xoNWg,Russell Winkler,6/30/2021,Sheri D. Coover - Upgrade,PA,6688.5,122.5,36,,UPGRADE,,Sheri D. Coover,(717) 243-9190,Family Law,,,,,Janine Scott
-a014y00000gkgBx,0064y000015eTZO,Russell Winkler,9/22/2022,Kimuel Wayne Lee Renewal 2022,LA,9899.64,824.97,12,,RENEWAL,,Kimuel W Lee,(225) 927-6562,Criminal Law,,,,,Janine Scott
 a014y00000YPxqm,0064y000013W6bb,Russell Winkler,6/13/2022,Keith Brian Roller PI Renewal June 2022 2022,FL,23047.8,1920.65,12,,RENEWAL,,Keith Brian Roller,(954) 554-0641,Personal Injury,,,,,Janine Scott
 a014y00000e1BkV,0064y000011mGUY,Russell Winkler,2/7/2022,Michel Rene Huff Bus Lit and PI San Diego Upgrade 2022,CA,64020.24,1662.0,36,,UPGRADE,,Michel Rene Huff,(213) 709-6241,Business - Litigation,Personal Injury,,,,Janine Scott
 a014y00000ZJ7Gp,0064y00000xoiDr,Russell Winkler,7/28/2021,David Schieber - Early renewal and Upgrade 2021,OR,21121.92,601.0,36,,UPGRADE,,David Schieber,(541) 482-7050,"Wills, Trusts and Estates",Construction,"Real Estate, Housing & Property Law",,,Janine Scott
@@ -1957,15 +1556,11 @@ a014y00000ZqsZK,0064y00000zG54P,Russell Winkler,9/23/2021,Jason Morgan Roberts -
 a014y00000YsZCF,0064y00001361jx,Russell Winkler,4/19/2022,Joseph LoPiccolo Emp Renewal 2022,NJ,19512.0,1284.0,15,,RENEWAL,,Joseph LoPiccolo,(646) 931-0011,Employment and Labor Law,,,,,Janine Scott
 a014y00000YQNom,0064y000015dhNW,Russell Winkler,8/17/2022,Ty McTier Bus Lit Early Renewal 2022,NC,13469.28,594.68,24,,EARLY RENEWAL,,David Redding,(704) 533-5787,Business - Litigation,,,,,Janine Scott
 a014y00000YsZC0,0064y0000134wRx,Russell Winkler,4/19/2022,Jack P. Lopez Switch Crim So Cal for Family Orange County 2022,CA,0.0,0.0,33,,SELF GEN,,Jack P. Lopez,(323) 898-8759,Family Law,,,,,Janine Scott
-a014y00000gkeuC,0064y000015eRiD,Russell Winkler,9/21/2022,Tullio DeLuca Renewal/Upgrade 2022,PA,13473.6,1122.8,12,,RENEWAL,,Tullio DeLuca,(570) 347-7764,Family Law,"Bankruptcy, Banking and Credit",,,,Janine Scott
-a014y00000gkfiq,0064y000015eehi,Matt Griffith,9/21/2022,Ron Salas - Renewal 2022,CO,7800.0,650.0,12,,RENEWAL,,Ron Salas,(970) 232-3330,General Practice,,,,,Janine Scott
-a014y00000gkbGY,0064y00000zGh6n,Russell Winkler,9/12/2022,Roger Peace Family Law MA and NH 2022,MA,17502.09,40.17,36,,SELF GEN,,Craig D. Singer,(781) 888-5551,Family Law,Family Law,,,,Janine Scott
+a014y00000gkbGY,0064y00000zGh6n,Russell Winkler,9/12/2022,Roger Peace Family Law MA and NH 2022,MA,35694.81,40.17,36,,SELF GEN,,Craig D. Singer,(781) 888-5551,Family Law,Family Law,,,,Janine Scott
 a014y00000ZJ51J,0064y00000wlNKk,Russell Winkler,3/9/2021,Renee M Smith Upgrade 3/9/21,Florida,46430.47,1205.36,36,,UPGRADE,,Renee M Smith,(904) 310-5133,"Real Estate, Housing & Property Law",,,,,Janine Scott
 a014y00000ZJ56d,0064y00000wlQId,Russell Winkler,3/12/2021,Frank S. Homsher -Early Renewal RE 3/12/21,WA,19001.06,683.0,36,,EARLY RENEWAL,,Frank S. Homsher,(425) 320-9628,"Real Estate, Housing & Property Law",,,,,Janine Scott
 a014y00000YQQUB,0064y000015dzl3,Russell Winkler,9/1/2022,Timothy Ian Crawley OR Renewal 2022,OR,17565.12,456.0,36,,RENEWAL,,Timothy Ian Crawley,(503) 953-6858,Business - Transactional,Business - Litigation,,,,Janine Scott
 a014y00000ZqsZF,0064y00000vsZmE,Russell Winkler,9/22/2021,Michelle C. Kauppila -WTE Chicago Region 2021 Upgrade and Swap,IL,10958.16,699.0,36,,UPGRADE,,Michelle C. Kauppila,(630) 423-6527,"Wills, Trusts and Estates",,,,,Janine Scott
-a014y00000gkbOS,0064y000015eN7w,Russell Winkler,9/13/2022,David Swire II Family Renewal,91311,26049.6,670.0,36,,RENEWAL,,Paul Volchok,(818) 993-6557,Family Law,,,,,Janine Scott
-a014y00000gkbPp,0064y000015ePtC,Russell Winkler,9/13/2022,Rodney L. Burkey II Upgrade 2022,AL,16057.44,413.0,36,,UPGRADE,,Rodney L. Burkey II,(334) 734-6331,General Practice,,,,,Janine Scott
 a014y00000ZdxfT,0064y00000xNhBu,Russell Winkler,3/8/2021,Alina Gonzalez-Dockery - One time territory switch,FL,1140.0,570.0,36,,RENEWAL,,Alina Gonzalez-Dockery,239-789-2533,"Wills, Trusts and Estates",,,,,Janine Scott
 a014y00000YsJw4,0064y000012NnIc,Russell Winkler,3/22/2022,Crystal Grantham Early Renewal and BT/WTE Upgrade 3.21.22,MI,42052.34,1014.64,36,,EARLY RENEWAL,,Crystal M. Grantham,(269) 978-7744,"Wills, Trusts and Estates",Business - Transactional,Family Law,"Real Estate, Housing & Property Law",,Janine Scott
 a014y00000YsdsP,0064y0000136Uh5,Russell Winkler,5/6/2022,Michel Rene Huff Upgrade Crim So Cal and L.A. May 2022,CA,96300.0,2500.0,36,,UPGRADE,,Michel Rene Huff,(213) 709-6241,Criminal Law,,,,,Janine Scott
@@ -2018,44 +1613,12 @@ a010e00000raYGK,0060e00001w43jr,Russell Winkler,2/21/2020,Scott Diamond - Hotlea
 a010e00000qq9Fc,0060e00001s7nPB,Russell Winkler,9/26/2018,Christopher Gore fam/crim NJ,NJ,54891.0,1425.0,36,1425.0,HOTLEAD-email,LegalMatch,Christopher C. Gore,(609) 614-0408,Family Law,Criminal Law,,,,Janine Scott
 a010e00000qptlU,0060e00001rSVyU,Russell Winkler,6/19/2018,Michael Morris Family,FL,21840.84,567.0,36,567.0,SELF GEN,,Michael Eugene Morris,(407) 316-7076,Family Law,,,,,Janine Scott
 a010e00000rZvnN,0060e00001v1GiY,Russell Winkler,8/7/2019,Joshua Michael Baskin- LEAD 8.06.19,CA,22902.48,922.0,24,922.0,HOTLEAD-LMWebForm,LegalMatch,Joshua Michael Baskin,(949) 335-6336,Criminal Law,,,,,Janine Scott
-a013200000meSPP,0066000001i4Qrt,Russell Winkler,4/14/2015,Heidi Whitaker - Family Law Boulder CO,CO,19008.0,0.0,36,528.0,HOTLEAD-email,LegalMatch,William Brotherton,(972) 317-8700,Family Law,,,,,Janine Scott
-a013200000o4Kuz,0063200001jxKfY,Russell Winkler,9/28/2015,Siobhan Fuller -family law -custom NJ,NJ,17100.0,0.0,36,475.0,HOTLEAD-email,LegalMatch,Siobhan Fuller,(908) 301-1111,Family Law,,,,,Janine Scott
-a013200000o4KwW,0063200001jwJhQ,Russell Winkler,9/28/2015,George Drosis - New Membership,MI,16200.0,0.0,36,450.0,HOTLEAD-email,LegalMatch,George Drosis,(248) 687-1035,Family Law,"Real Estate, Housing & Property Law","Wills, Trusts and Estates",,,Janine Scott
-a013200000meWz2,0063200001j7ujI,Russell Winkler,5/6/2015,David Ratowitz - BK N. IL,IL,25020.0,0.0,36,695.0,HOTLEAD-email,LegalMatch,David Ratowitz,(312) 577-9405,"Bankruptcy, Banking and Credit",,,,,Janine Scott
-a013200000meXG7,0066000001i3UNg,Matthew Carpenter,5/8/2015,Alec Baghdassarian - lead,CA,18900.0,0.0,36,525.0,HOTLEAD-email,LegalMatch,Alec Baghdassarian,(626) 714-5200,Construction,,,,,Janine Scott
-a013200000mfLm9,0063200001jx9tX,Legal Match,9/9/2015,Omar Famada - Gen Prac custom Pensacola,FL,15264.0,0.0,36,424.0,HOTLEAD-email,LegalMatch,Omar Famada,(239) 298-4863,General Practice,,,,,Janine Scott
-a013200000meT1M,00660000012N1nN,Kimber Scott,4/17/2015,Edgar Davison Emp and PI TN,MS,28800.0,0.0,36,800.0,SELF GEN,,Edgar Davison,(901) 254-8910,Employment and Labor Law,Personal Injury,,,,Janine Scott
-a013200000mpZem,0063200001mruCP,Summer Lawson,7/7/2016,Joseph Hekmat,CA,8055.0,,9,895.0,SELF GEN,,Joseph Hekmat,(424) 888-0848,Employment and Labor Law,,,,,Robert Proden
-a013200000mejJe,0063200001juYsl,Summer Lawson,7/2/2015,Michael Kraemer - Upgrade,PA,13000.0,13000.0,1,,UPGRADE,,David M. Manes,(412) 693-6096,Employment and Labor Law,,,,,Robert Proden
-a013200000meOnU,0066000001i4mA3,Summer Lawson,3/27/2015,Christian Johnson - lead,CO,31932.0,,36,887.0,HOTLEAD-email,LegalMatch,Christian Johnson - WAITLIST CRIM/Denver,(303) 495-2666,Family Law,,,,,Robert Proden
-a013200000meTGg,0063200001j6jfk,Summer Lawson,4/20/2015,Walter Bentley - Deal,MI,12288.0,,24,512.0,Closer Initiated,LegalMatch,Walter Bentley,(248) 429-9550,Family Law,,,,,Robert Proden
-a013200000momkJ,0063200001mCihw,Summer Lawson,5/19/2016,Chris Pritt,WV,6300.0,,18,350.0,SELF GEN,,Kelly Pritt,(304) 720-4412,Family Law,,,,,Robert Proden
-a013200000meeYR,0063200001j9HTO,Summer Lawson,6/10/2015,Michael Kraemer - lead,PA,9145.0,9145.0,1,,HOTLEAD-email,LegalMatch,David M. Manes,(412) 693-6096,Employment and Labor Law,,,,,Robert Proden
-a013200000mekHi,0063200001juhkC,Summer Lawson,7/9/2015,Jedediah Moffett,TX,19044.0,,18,1058.0,AMRM Hand-off,,Jedediah Moffett,713-987-4250,Family Law,,,,,Robert Proden
-a013200000meUBu,0063200001j6S3H,Summer Lawson,4/23/2015,Michael McLoughlin- Jennifer Foley Deal,,9504.0,,18,528.0,HOTLEAD-email,LegalMatch,Jennifer Foley,(702) 625-3893,Family Law,Health and Elder Care,,,,Robert Proden
-a013200000meUK9,0063200001j7XL9,Summer Lawson,4/24/2015,Howard Kane - Deal,CA,10458.0,,18,581.0,SELF GEN,,Member Howard E. Kane,(510) 853-1331,"Wills, Trusts and Estates",,,,,Robert Proden
-a013200000mekja,0063200001juZ8Z,Summer Lawson,7/13/2015,Allen Early,MI,7128.0,,18,396.0,AMRM Hand-off,,Allen Early,(313) 962-2320,Criminal Law,,,,,Robert Proden
-a013200000mesmR,0063200001jvPs3,Summer Lawson,8/3/2015,Hayden G. Smith,CA,8586.0,,18,477.0,AMRM Hand-off,,Hayden G. Smith,(559) 740-6330,Criminal Law,,,,,Robert Proden
-a013200000mfIAH,0063200001jwMeW,Summer Lawson,8/24/2015,Alyson Kupari - lead,IL,5940.0,,12,495.0,HOTLEAD-email,LegalMatch,Alyson Kupari,(309) 838-8845,"Wills, Trusts and Estates",,,,,Robert Proden
-a013200000meapP,0063200001j82BL,Summer Lawson,5/21/2015,Gigit Tyler - lead,TX,3400.0,,1,3400.0,HOTLEAD-email,LegalMatch,Gigit Tyler,(832) 761-7773,Administrative Law,,,,,Robert Proden
-a013200000mebL2,0063200001j8q77,Summer Lawson,5/22/2015,Tiyesha DeCosta - Deal,NC,12495.0,315.0,29,420.0,SELF GEN,,Tiyesha N DeCosta,(704) 665-7860,Family Law,,,,,Robert Proden
-a013200000meR9k,0063200001j6bqR,Summer Lawson,4/7/2015,John Brown - Deal,UT,4200.0,,12,350.0,HOTLEAD-email,LegalMatch,Marry Anne Wood,(435) 294-0335,Family Law,,,,,Robert Proden
-a013200000meVUV,0063200001j7sif,Summer Lawson,4/30/2015,Donna Campbell - Deal,WA,3000.0,,6,500.0,AMRM Hand-off,,Donna Campbell,(425) 888-8101,"Bankruptcy, Banking and Credit",,,,,Robert Proden
-a013200000meVdP,0063200001j7YfJ,Summer Lawson,4/30/2015,Corwin Thompson - lead,OH,16596.0,,36,461.0,HOTLEAD-email,LegalMatch,Corwin Thompson,(740) 627-7377,"Wills, Trusts and Estates",,,,,Robert Proden
-a013200000meVdo,0063200001j7l9S,Summer Lawson,4/30/2015,Stephanie Newell - lead,CT,16632.0,,36,462.0,HOTLEAD-email,LegalMatch,Stephanie Newell,(203) 989-3261,Family Law,,,,,Robert Proden
-a013200000mec70,0063200001j8v1c,Summer Lawson,5/28/2015,Joyce E Stevens,TX,18969.0,384.0,35,531.0,SELF GEN,,Joyce E Stevens,(817) 478-1033,"Wills, Trusts and Estates",,,,,Robert Proden
-a013200000p9bUU,0063200001lzMFx,Summer Lawson,3/15/2016,Erin Cassinelli 2016,AR,2700.0,,6,450.0,SELF GEN,,Jack Lassiter,(501) 370-9300 oF COUNCIL,Criminal Law,,,,,Robert Proden
+a014y00000ZU9wG,0064y000011F29m,Russell Winkler,2/28/2022,Maurice D. Maitland Upgrade SSD 2022,CT,34629.48,899.0,36,,UPGRADE,,Maurice D. Maitland,(347) 346-0749,Administrative Law,,,,,Janine Scott
+a014y00000YqUXd,0064y00000wtQn3,Russell Winkler,2/4/2021,Richard P. Davies Fam Early Renewal 2021,NV,13225.2,515.0,36,,EARLY RENEWAL,,Richard P. Davies,(775) 360-6894,Family Law,,,,,Janine Scott
+a013200000qHzNN,0063200001pRqw3,Russell Winkler,6/20/2017,Svetlana Kamyshanskaya -Bus Trans N. CA,CA,4200.0,350.0,12,350.0,SELF GEN,,Svetlana Kamyshanskaya,(650) 440-3287,Business - Transactional,,,,,Janine Scott
+a013200000qHwTD,0063200001pTr29,Russell Winkler,5/26/2017,Kevin Sutherland (Formely Anna Oliva - Family law Grand Rapids),MI,13284.0,540.0,24,540.0,HOTLEAD-email,LegalMatch,Kevin Sutherland,(616) 333-2427,Family Law,,,,,Janine Scott
 a010e00000qbQyy,0060e00001yk2ns,Summer Lawson,12/23/2020,LaKesha Shahid 12.23.20,AL,7331.16,398.0,18,,SELF GEN,,LaKesha Shahid,(334) 590-5921,General Practice,,,,,Robert Proden
 a013200000paC9w,0063200001p1jpt,Summer Lawson,3/17/2017,Steven Coren,,25896.0,,24,1079.0,SELF GEN,,Matthew Morris,(781) 997-1600,Family Law,,,,,Robert Proden
-a016000000if5yZ,0066000001aPztz,Summer Lawson,2/5/2015,Anthony Cara - New Deal,CA,14040.0,,36,390.0,SELF GEN,,Tony Cara,,"Bankruptcy, Banking and Credit",,,,,Robert Proden
-a016000000ifS0E,0066000001hNYYO,Summer Lawson,2/27/2015,Larry M. Leach - Upgrade 2-27-15,CO,52014.0,,35,1965.0,UPGRADE,,Larry M. Leach,(303) 409-3561,Family Law,,,,,Robert Proden
-a016000000if8ET,0066000001aPtTG,Summer Lawson,2/6/2015,Larry M. Leach,CO,18726.0,,6,3121.0,SELF GEN,,Larry M. Leach,(303) 409-3561,Family Law,,,,,Robert Proden
-a016000000ieorV,0066000001aNxoA,Summer Lawson,1/19/2015,Elizabeth A. Downey - New Deal,MI,7488.0,,12,624.0,SELF GEN,,Elizabeth A Downey,(248) 539-7407,"Real Estate, Housing & Property Law",,,,,Robert Proden
-a016000000mdcp5,0066000001i3x9r,Summer Lawson,3/13/2015,Carissa Shipley - New Deal,CO,13560.0,,24,565.0,SELF GEN,,Carissa Shipley,(719) 648-3689,Family Law,,,,,Robert Proden
-a016000000ifH3w,0066000001hL219,Summer Lawson,2/13/2015,Dawn Simon - New Deal 2015,CA,17500.0,,1,17500.0,Closer Initiated,LegalMatch,Dawn Simon,(818) 317-5454,"Real Estate, Housing & Property Law",,,,,Robert Proden
-a016000000iedYt,0066000001SqlZg,Summer Lawson,1/6/2015,Susan Greenwalt - New Deal,TX,14023.0,198.0,35,395.0,SELF GEN,,Susan Greenwalt,(806) 392-2034,General Practice,,,,,Robert Proden
-a016000000ifMch,0066000001hLilI,Summer Lawson,2/23/2015,Seth Stringer - lead,AL,10800.0,,36,300.0,HOTLEAD-email,LegalMatch,Seth Stringer,(205) 313-6364,Immigration; Inmigracion-Spanish,,,,,Robert Proden
-a016000000if0XE,0066000001aP317,Summer Lawson,1/30/2015,Paul Alexander - New Deal,,30528.0,,36,848.0,SELF GEN,,Paul Alexander,nis(214) 252-0222,Criminal Law,,,,,Robert Proden
 a014y00000ZUA5X,0064y000012NAn3,Summer Lawson,2/28/2022,Lee Isaac Jacobson HOTLEAD 02-24-2022,IL,26001.0,675.0,36,,HOTLEAD-LMWebForm,LegalMatch,Lee Isaac Jacobson,(312) 380-2394,Family Law,,,,,Robert Proden
 a014y00000e1Nc3,0064y000012f4EK,Summer Lawson,2/18/2022,Evanne Levin 2-18-22,,6300.0,525.0,12,,SELF GEN,,Evanne Levin,(310) 383-5006,"Entertainment, Media, & Sports Law",,,,,Robert Proden
 a014y00000ZU8p6,0064y000012NCJT,Summer Lawson,2/25/2022,James Salmon (Freddie Alikhani) 02-25-2022,CA,41409.0,1075.0,36,,SELF GEN,,Freddie Alikhani,(805) 432-2133,Family Law,,,,,Robert Proden
@@ -2109,10 +1672,6 @@ a010e00000rHcZ5,0060e00001t8CFc,Summer Lawson,1/23/2019,Joseph Edwyn Kerry 1.23.
 a010e00000rHcee,0060e00001t7vqL,Summer Lawson,1/24/2019,Joana Mia Perez-Arroyo 1.24.19,CA,19529.64,507.0,36,,SELF GEN,,Joana Mia Perez-Arroyo,(916) 306-7551,Criminal Law,,,,,Robert Proden
 a010e00000r8nzt,0060e00001ti0h0,Summer Lawson,5/26/2019,Michael C. Bynane 5.26.19,TX,16910.28,439.0,36,,SELF GEN,,Michael C. Bynane,(832) 548-4975,Family Law,,,,,Robert Proden
 a010e00000r8vgS,0060e00001ufnyB,Summer Lawson,6/27/2019,Heather Reynolds 6.27.19,HI,25038.0,650.0,36,,SELF GEN,,Heather Reynolds,(510) 774-9356,"Wills, Trusts and Estates",,,,,Robert Proden
-a013200000mecV2,0063200001j8kET,Summer Lawson,5/31/2015,Kelli Haas,TN,7100.0,300.0,17,400.0,SELF GEN,,Kelli Haas,DNC,Criminal Law,,,,,Robert Proden
-a013200000mf95u,0063200001jvTfD,Summer Lawson,8/14/2015,Eric Ashley - lead,TX,7092.0,,18,394.0,HOTLEAD-email,LegalMatch,Harry Blomquist,(210) 497-2600,"Wills, Trusts and Estates",,,,,Robert Proden
-a013200000meioO,0063200001juNSB,Summer Lawson,6/30/2015,Stanley Bacinett,CA,13410.0,,18,745.0,HOTLEAD-email,LegalMatch,Stanley Bacinett,(619) 667-4000,Family Law,,,,,Robert Proden
-a013200000mp7Wd,0063200001mpMd7,Summer Lawson,6/10/2016,Joseph Rosen..,FL,7875.0,,15,525.0,SELF GEN,,Joseph J. Rosen,(561) 638-8593,Insurance,,,,,Robert Proden
 a010e00000q1KDL,0060e00001uftZ3,Susan Reese,7/8/2019,Timothy Gomes 07.08.2019,CA,30623.4,795.0,36,,SELF GEN,,Timothy Gomes,(415) 678-8836,Criminal Law,,,,,Jack Moller
 a010e00000q560n,0060e00001tvA15,Susan Reese,3/11/2019,Carl Birkhead 03.11.2019,OK,25115.04,652.0,36,,SELF GEN,,Carl Birkhead,(918) 762-3600,General Practice,,,,,Jack Moller
 a010e00000ra2Gi,0060e00001v2PMV,Susan Reese,9/16/2019,Mark Schondorf 09.16.2019,IL,7800.0,650.0,12,,SELF GEN,,Mark Schondorf,(312) 878-1208 NI,Family Law,,,,,Jack Moller
@@ -2131,68 +1690,6 @@ a010e00000rZvUP,0060e00001v1Ai4,Susan Reese,8/5/2019,Wendy McNabb - 08.05.2019CA
 a010e00000raQhL,0060e00001w3Igh,Susan Reese,1/27/2020,Christine Stadler 01.27.2020,Georgia,27156.6,705.0,36,,SELF GEN,,Christine Stadler,(404) 631-6300,Family Law,Family Law,,,,Jack Moller
 a010e00000mlBa4,0060e00001xP6HW,Thomas McCourt,7/16/2020,Aaron Jamaal Williamson - LEAD - 7.6.20,IN,6072.0,506.0,12,,HOTLEAD-LMWebForm,LegalMatch,Aaron Williamson,(317) 434-0370,Employment and Labor Law,,,,,Rob Roback
 a010e00000rIbP8,0060e00001xOjgd,Thomas McCourt,6/29/2020,Earl Williams 6.26.20,OH,15022.8,390.0,36,,SELF GEN,,Earl Williams Jr.,(216) 337-8954,Family Law,,,,,Rob Roback
-a013200000meSXj,0063200001j7HTG,Tomie Epps,4/15/2015,Graham Norris,UT,15120.0,,36,420.0,SELF GEN,,Graham Norris,(801) 932-1238,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000mecTQ,0063200001j8u1d,Tomie Epps,5/29/2015,Amanda Willamson - Deal,WA,21021.0,441.0,35,588.0,SELF GEN,,Amanda Williamson,(360) 627-8026,Family Law,,,,,Joshua Jordan
-a013200000mej42,0063200001juD46,Tomie Epps,7/1/2015,Victor Waid,CA,12600.0,6300.0,35,180.0,SELF GEN,,Victor Waid,(916) 923-2345,"Wills, Trusts and Estates","Wills, Trusts and Estates",,,,Joshua Jordan
-a013200000menG0,0063200001jv5rf,Tomie Epps,7/31/2015,Shegun Obafemi,IL,12600.0,,36,350.0,Closer Initiated,LegalMatch,Shegun Obafemi,(312) 659-4681,Family Law,,,,,Joshua Jordan
-a013200000mfEdX,0063200001jwQ7q,Tomie Epps,8/18/2015,Brian Conaway - Real Estate Upgrade,IL,10800.0,,24,450.0,UPGRADE,,Sean Patrick,(312) 725-4229,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000meT0Y,0063200001j6zlg,Tomie Epps,4/17/2015,Jill Myer - lead,NY,13860.0,,36,385.0,HOTLEAD-email,LegalMatch,Jamie Scher,,Family Law,"Real Estate, Housing & Property Law",,,,Joshua Jordan
-a013200000mfFpH,0063200001jvsK3,Tomie Epps,8/18/2015,Aaron Rifkind - 2015,IL,10800.0,,24,450.0,SELF GEN,,Sean Patrick,(312) 725-4229,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000nfZJw,0063200001kMfVh,Tomie Epps,10/7/2015,Stephen M Feldman,CA,12474.0,,18,693.0,SELF GEN,,Stephen M Feldman,(805) 241-1361,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000ovbXk,0063200001kMRqh,Tomie Epps,11/3/2015,Scott Bocchio - lead,MA,4650.0,,6,775.0,HOTLEAD-email,LegalMatch,Scott Bocchio,(855) 254-7841,Criminal Law,Consumer Law,,,,Joshua Jordan
-a013200000meOhZ,0066000001i4R4Y,Tomie Epps,3/26/2015,Isaac Choy- Upgrade,CA,6840.0,,34,380.0,UPGRADE,,Isaac W Choy Jr,(916) 437-4609,Criminal Law,,,,,Joshua Jordan
-a013200000mfHYJ,0063200001jvKWs,Tomie Epps,8/21/2015,Peter Schoenthaler - Upgrade,GA,30024.0,,24,1251.0,UPGRADE,,Peter F Schoenthaler,(404) 855-3315,Business - Transactional,Business - Litigation,"Wills, Trusts and Estates",,,Joshua Jordan
-a013200000meP8X,0063200001j6IRq,Tomie Epps,3/30/2015,Yvonne Haskins - Deal,PA,12600.0,,36,350.0,SELF GEN,,Yvonne Haskins,(215) 756-5166,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000meZWn,0063200001j7vEf,Tomie Epps,5/14/2015,Marques Goetsch,NJ,18108.0,,36,503.0,SELF GEN,,Marques Goetsch,(856) 459-7350,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000meZtI,0063200001j8R8t,Tomie Epps,5/15/2015,Nancy Whitehead- Deal,WA,12513.0,263.0,35,350.0,SELF GEN,,Nancy Whitehead,(206) 448-0100,Immigration,,,,,Joshua Jordan
-a013200000meeIr,0063200001j8tba,Tomie Epps,6/9/2015,Brian Conaway - WTE Upgrade,IL,13419.0,424.0,23,565.0,UPGRADE,,Sean Patrick,(312) 725-4229,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000mekGV,0063200001j8p9F,Brian McCall,7/9/2015,Sean Patrick - Business Trans,IL,12744.0,,24,531.0,UPGRADE,,Sean Patrick,(312) 725-4229,Business - Transactional,,,,,Joshua Jordan
-a013200000mePF0,0063200001j6XPi,Tomie Epps,3/30/2015,Brian Conaway,IL,21600.0,,24,900.0,SELF GEN,,Sean Patrick,(312) 725-4229,Business - Litigation,Business - Transactional,,,,Joshua Jordan
-a013200000meaA2,0063200001j8Yw5,Tomie Epps,5/19/2015,Cyrus Malhotra,FL,18161.0,381.0,35,508.0,SELF GEN,,Cyrus Malhotra,(727) 255-1114,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000mekoQ,0063200001j9SNK,Tomie Epps,7/13/2015,Roland Day,CA,16200.0,,18,900.0,AMRM Hand-off,,Roland B. Day,(619) 298-0658,Family Law,,,,,Joshua Jordan
-a013200000mfJ3i,0063200001jwnfX,Tomie Epps,8/27/2015,Skip Feild 2015,CA,25020.0,,36,695.0,SELF GEN,,Skip Feild,(951) 300-8867,Criminal Law,,,,,Joshua Jordan
-a013200000oMYt6,0063200001krD2u,Tomie Epps,10/20/2015,Alan Scheinthal,Texas,15300.0,,36,425.0,SELF GEN,,Alan Scheinthal,(713) 871-8040,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000meUtP,0063200001j6z92,Tomie Epps,4/27/2015,James Shrybman,MD,21924.0,304.5,35,617.7,AMRM Hand-off,,James Shrybman,Deceased,Family Law,,,,,Joshua Jordan
-a013200000oNc9W,0063200001krgpp,Tomie Epps,10/20/2015,Russell Brown 2015,MI,26460.0,,36,735.0,SELF GEN,,Russell Brown,(734) 604-1522,Business - Transactional,Business - Litigation,,,,Joshua Jordan
-a013200000meUzO,0063200001j7m4J,Tomie Epps,4/28/2015,Kurt Muller - Deal,IL,22320.0,,36,620.0,SELF GEN,,Kurt Muller,(312) 467-6700,Family Law,,,,,Joshua Jordan
-a013200000o1az0,0063200001kLMOG,Tomie Epps,9/18/2015,Andy Katz 2015,CA,13194.0,,18,733.0,SELF GEN,,Andy Katz,(510) 848-5001,Employment and Labor Law,Environmental Law,,,,Joshua Jordan
-a013200000mehBO,0063200001j9R2h,Tomie Epps,6/22/2015,Carl Macpherson,AZ,12600.0,,36,350.0,SELF GEN,,Carl Macpherson,DECEASED,Family Law,,,,,Joshua Jordan
-a013200000mexhN,0063200001jvdY0,Tomie Epps,8/7/2015,Peter Krembs-Deal,OH,14652.0,,36,407.0,HOTLEAD-email,LegalMatch,Peter Krembs,(216) 788-5999,"Real Estate, Housing & Property Law",Construction,,,,Joshua Jordan
-a013200000oT36p,0063200001kr5FY,Tomie Epps,10/22/2015,Thomas Heidkamp - 2015,FL,17175.5,235.5,35,484.0,SELF GEN,,Thomas Heidkamp,(239) 800-5971,Family Law,,,,,Joshua Jordan
-a013200000meRRw,0063200001j6yFa,Lealoa Numera,4/9/2015,Mayne Miller - Lead 4/8/15,NY,9192.0,,24,383.0,Corp Email Lead,,Mayne Miller,(347) 599-1920,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000meVM2,0063200001j7oVh,Tomie Epps,4/29/2015,Sean Patrick- Deal,IL,21600.0,,24,900.0,SELF GEN,,Sean Patrick,(312) 725-4229,Insurance,,,,,Joshua Jordan
-a013200000melVG,0063200001jupC7,Tomie Epps,7/16/2015,Jim Militello - lead,IL,12060.0,,36,335.0,HOTLEAD-email,LegalMatch,James Militello,(815) 338-2040,Family Law,"Real Estate, Housing & Property Law",Employment and Labor Law,Criminal Law,,Joshua Jordan
-a013200000mexlZ,0063200001jvr5q,Tomie Epps,8/7/2015,Adan Vega 8-7-15,Texas,15840.0,,36,440.0,SELF GEN,,Adan Vega,(713) 527-9606,Immigration,,,,,Joshua Jordan
-a013200000mehnb,0063200001j9uuf,Tomie Epps,6/24/2015,Peter Schoenthaler - lead,GA,16680.0,,12,,HOTLEAD-email,LegalMatch,Peter F Schoenthaler,(404) 855-3315,Business - Litigation,Business - Transactional,"Wills, Trusts and Estates",,,Joshua Jordan
-a013200000meRiQ,0066000001i3p32,Tomie Epps,4/10/2015,James Roach - lead,,10980.0,,12,915.0,HOTLEAD-email,LegalMatch,James Roach II,(480) 922-0099,Tax Law,,,,,Joshua Jordan
-a013200000memZd,0063200001j7XDt,Legal Match,7/22/2015,Arash Shirdel - lead,CA,6874.0,439.0,11,585.0,HOTLEAD-email,LegalMatch,Arash Shirdel,(949) 629-3690,"Bankruptcy, Banking and Credit",,,,,Joshua Jordan
-a013200000ovdPg,0063200001ksgGr,Tomie Epps,11/5/2015,Michael Hepworth 2015,UT,7200.0,,18,400.0,SELF GEN,,Michael Hepworth,(801) 872-2222,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000ovtWF,0063200001ktHD4,Tomie Epps,11/30/2015,Scott Hildebrand - lead,WA,12600.0,,36,350.0,HOTLEAD-email,LegalMatch,Scott Hildebrand,(206) 605-8874,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000p9M6Z,0063200001lwZFq,Tomie Epps,2/24/2016,Heather Rubin 2016,CA,9048.0,,24,377.0,Closer Initiated,LegalMatch,Heather Rubin,(760) 271-6409,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000p8pGI,0063200001lKcSX,Tomie Epps,1/6/2016,Shane Buntrock 2016,AZ,12600.0,,36,350.0,SELF GEN,,Shane Buntrock,(480) 664-7728,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a013200000p95pT,0063200001lNLWo,Tomie Epps,2/1/2016,Christina Abraham - lead,IL,12312.0,,24,513.0,HOTLEAD-email,LegalMatch,Christina Abraham,(312) 588-7150,Immigration,,,,,Joshua Jordan
-a013200000p8qxZ,0063200001lLj2J,Tomie Epps,1/8/2016,Sanjay Bhardwaj,CA,26442.0,367.0,35,745.0,AMRM Hand-off,,Sanjay Bhardwaj,(510) 207-8283,Family Law,,,,,Joshua Jordan
-a013200000p9A9F,0063200001lNnx3,Tomie Epps,2/8/2016,Norman Reitz - WTE,CA,12600.0,,36,350.0,SELF GEN,,Norman Reitz,(510) 732-9940,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000ovj9u,0063200001ktXWl,Tomie Epps,11/13/2015,Norman Reitz,CA,17415.0,,36,483.75,SELF GEN,,Norman Reitz,(510) 732-9940,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000p8wjD,0063200001kuLxx,Legal Match,1/18/2016,Karin Dunlap 2016,,9234.0,,18,513.0,SELF GEN,,Karin Dunlap,(301) 340-9872,"Wills, Trusts and Estates",,,,,Joshua Jordan
-a013200000p8yO4,0063200001lMVhY,Tomie Epps,1/20/2016,Michael Katz 2016,,21600.0,,36,600.0,AMRM Hand-off,,Michael S. Katz,(404) 297-0087,Criminal Law,,,,,Joshua Jordan
-a013200000ovnZF,0063200001ktntE,Tomie Epps,11/18/2015,Andy Katz - Upgrade,CA,25020.0,,36,695.0,UPGRADE,,Andy Katz,(510) 848-5001,Employment and Labor Law,Environmental Law,Health and Elder Care,Workers' Compensation,,Joshua Jordan
-a016000000htank,0066000001hKlz5,Tomie Epps,3/11/2015,Brent Embrey - Deal,,7032.0,,12,586.0,HOTLEAD-email,LegalMatch,Bruce Carter Embrey,(765) 863-1188,Family Law,,,,,Joshua Jordan
-a016000000ienPk,0066000001SpsRn,Tomie Epps,1/16/2015,J. Brett Chambers - lead,UT,7812.0,,12,651.0,HOTLEAD-email,LegalMatch,J. Brett Chambers,(435) 752-3551,"Real Estate, Housing & Property Law",Business - Transactional,,,,Joshua Jordan
-a016000000if8CD,0066000001aOuic,Tomie Epps,2/9/2015,Charles Stark Deal,CA,20844.0,,36,579.0,AMRM Hand-off,,Charles D. Stark,(707) 527-9900,Family Law,,,,,Joshua Jordan
-a016000000ifUKA,0066000001hNLiM,Tomie Epps,3/3/2015,Kurt Stallings - lead,TX,14400.0,,36,400.0,HOTLEAD-email,LegalMatch,Kurt Stallings,(214) 808-4688,Immigration,"Entertainment, Media, & Sports Law",,,,Joshua Jordan
-a016000000ifEYf,0066000001aQYqR,Tomie Epps,2/12/2015,Isaac Choy - New Deal,CA,6840.0,,12,570.0,AMRM Hand-off,,Isaac W Choy Jr,(916) 437-4609,Criminal Law,,,,,Joshua Jordan
-a016000000ieuKw,0066000001aNsyv,Tomie Epps,1/23/2015,St James Chambers,TX,12600.0,,36,350.0,SELF GEN,,St. James G. Chambers,MEMBER,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
-a016000000ieuLz,0066000001aOE5b,Tomie Epps,1/23/2015,Sean Patrick - 2015 Deal,,24120.0,,24,1005.0,UPGRADE,,Sean Patrick,(312) 725-4229,"Real Estate, Housing & Property Law",Business - Litigation,Construction,,,Joshua Jordan
-a016000000ifGTi,0066000001hLKiI,Tomie Epps,2/17/2015,Hillary Hughes - New Deal,NY,8160.0,8160.0,1,,SELF GEN,,Hillary Hughes,(503) 228-3939,"Entertainment, Media, & Sports Law",,,,,Joshua Jordan
-a016000000iecSv,0066000001Sn8gz,Tomie Epps,1/5/2015,Ian Bucataru - New Deal,FL,8360.0,264.0,23,352.0,SELF GEN,,Ian Bucataru,(850) 345-5777,Family Law,,,,,Joshua Jordan
-a016000000iexAV,0066000001aOtY2,Tomie Epps,1/27/2015,Adam Gurney - N. Illinois Bankruptcy Deal,,12720.0,,24,530.0,UPGRADE,,Adam Gurney.,(216) 570-6851,"Bankruptcy, Banking and Credit",,,,,Joshua Jordan
-a013200000mpAZA,0063200001mpmAl,Tony Nagy,6/14/2016,Jeffrey Loew - lead,CA,17424.0,,24,726.0,HOTLEAD-email,LegalMatch,Jeffrey Loew,(650) 397-8700,"Wills, Trusts and Estates",,,,,Jack Moller
-a013200000o8KTA,0063200001mLrTZ,Tony Nagy,4/25/2016,Joseph Toczydlowski,PA,2544.0,,6,424.0,SELF GEN,,Joseph Toczydlowski,(570) 876-3779,Family Law,Personal Injury,Workers' Compensation,,,Jack Moller
-a013200000o8P9I,0063200001mcWlt,Tony Nagy,5/2/2016,John Iaccarino-new deal,CA,3834.0,,6,639.0,SELF GEN,,John Iaccarino,(650) 348-3400,"Wills, Trusts and Estates",,,,,Jack Moller
-a013200000ppLal,0063200001nw4bZ,Tony Nagy,10/21/2016,John Fink 2016,MA,4488.0,,6,748.0,SELF GEN,,John Fink,(508) 433-0529,Employment and Labor Law,,,,,Jack Moller
-a013200000pdQjm,0063200001ndQty,Tony Nagy,9/2/2016,Kayla Price - Lead,NC,10368.0,,24,432.0,HOTLEAD-email,LegalMatch,Kayla Nicole Price,out of practice,"Wills, Trusts and Estates",,,,,Jack Moller
-a013200000mpiyV,0063200001mrYhD,Tony Nagy,7/18/2016,Tad Davis,AZ,5868.0,,12,489.0,SELF GEN,,Tad Davis,(480) 435-9999,Family Law,,,,,Jack Moller
 a010e00000midDH,0060e00001q3OWR,William Hales,9/29/2017,Scott Ziemelis - Corp Email - 9/19/2017,NY,16176.0,420.0,36,,Corp Email Lead,,Scott Ziemelis,(845) 294-9432,"Bankruptcy, Banking and Credit",,,,,Joshua Jordan
 a010e00000miatE,0060e00001q37Dx,William Hales,9/14/2017,Eideh Toubi - Lead,CA,5160.0,430.0,12,,HOTLEAD-email,LegalMatch,Eideh Toubi,(310) 490-8325,"Real Estate, Housing & Property Law",,,,,Joshua Jordan
 a010e00000mieIj,0060e00001q3DQ3,Legal Match,10/10/2017,John Connors - Corp Email 9/11/2017,CA,5000.0,5000.0,1,,Corp Email Lead,,John Connors,(949) 833-3622,Intellectual Property,,,,,Joshua Jordan
